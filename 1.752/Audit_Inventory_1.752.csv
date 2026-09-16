@@ -1,0 +1,452 @@
+﻿classification,location,match,context
+A,DB.version,1.751,1.751
+B,DB.entries[1].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[2].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[3].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[4].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[5].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[8].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[13].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[14].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[15].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[16].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[17].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[18].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[20].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[21].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[22].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[23].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[24].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[25].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[26].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[27].coords,Version 1.7,See Version 1.7 Contrast / Network Position
+B,DB.entries[27].baselineKind,Version 1.7,Version 1.7 · Full Reconstruction
+B,DB.entries[27].transferBaseline,Version 1.7,Version 1.7オリジナル学習事例。能力測定ではなく、境界を再検討する練習。
+B,DB.entries[27].checks[0].basis,Version 1.7,Version 1.7 editorial exercise · Label / Concept recognition
+B,DB.entries[27].checks[1].basis,Version 1.7,Version 1.7 editorial exercise · Concept / Label
+B,DB.entries[27].checks[2].basis,Version 1.7,Version 1.7 editorial exercise · Concept / Label
+B,DB.entries[28].coords,Version 1.7,See Version 1.7 Contrast / Network Position
+B,DB.entries[28].baselineKind,Version 1.7,Version 1.7 · Full Reconstruction
+B,DB.entries[28].transferBaseline,Version 1.7,Version 1.7オリジナル学習事例。能力測定ではなく、境界を再検討する練習。
+B,DB.entries[28].checks[0].basis,Version 1.7,Version 1.7 editorial exercise · Label / Concept recognition
+B,DB.entries[28].checks[1].basis,Version 1.7,Version 1.7 editorial exercise · Design / Styling
+B,DB.entries[28].checks[2].basis,Version 1.7,Version 1.7 editorial exercise · Design / Styling
+B,DB.entries[29].coords,Version 1.7,See Version 1.7 Contrast / Network Position
+B,DB.entries[29].baselineKind,Version 1.7,Version 1.7 · Full Reconstruction
+B,DB.entries[29].transferBaseline,Version 1.7,Version 1.7オリジナル学習事例。能力測定ではなく、境界を再検討する練習。
+B,DB.entries[29].checks[0].basis,Version 1.7,Version 1.7 editorial exercise · Label / Concept recognition
+B,DB.entries[29].checks[1].basis,Version 1.7,Version 1.7 editorial exercise · Architecture / Structure
+B,DB.entries[29].checks[2].basis,Version 1.7,Version 1.7 editorial exercise · Architecture / Structure
+B,DB.entries[30].coords,Version 1.7,See Version 1.7 Contrast / Network Position
+B,DB.entries[30].baselineKind,Version 1.7,Version 1.7 · Full Reconstruction
+B,DB.entries[30].transferBaseline,Version 1.7,Version 1.7オリジナル学習事例。能力測定ではなく、境界を再検討する練習。
+B,DB.entries[30].checks[0].basis,Version 1.7,Version 1.7 editorial exercise · Label / Concept recognition
+B,DB.entries[30].checks[1].basis,Version 1.7,Version 1.7 editorial exercise · Structure / System
+B,DB.entries[30].checks[2].basis,Version 1.7,Version 1.7 editorial exercise · Structure / System
+B,DB.entries[31].coords,Version 1.7,See Version 1.7 Contrast / Network Position
+B,DB.entries[31].baselineKind,Version 1.7,Version 1.7 · Full Reconstruction
+B,DB.entries[31].transferBaseline,Version 1.7,Version 1.7オリジナル学習事例。能力測定ではなく、境界を再検討する練習。
+B,DB.entries[31].checks[0].basis,Version 1.7,Version 1.7 editorial exercise · Label / Concept recognition
+B,DB.entries[31].checks[1].basis,Version 1.7,Version 1.7 editorial exercise · System / Structure
+B,DB.entries[31].checks[2].basis,Version 1.7,Version 1.7 editorial exercise · System / Structure
+B,DB.entries[32].coords,Version 1.7,See Version 1.7 Contrast / Network Position
+B,DB.entries[32].baselineKind,Version 1.7,Version 1.7 · Full Reconstruction
+B,DB.entries[32].transferBaseline,Version 1.7,Version 1.7オリジナル学習事例。能力測定ではなく、境界を再検討する練習。
+B,DB.entries[32].checks[0].basis,Version 1.7,Version 1.7 editorial exercise · Label / Concept recognition
+B,DB.entries[32].checks[1].basis,Version 1.7,Version 1.7 editorial exercise · Function / Purpose
+B,DB.entries[32].checks[2].basis,Version 1.7,Version 1.7 editorial exercise · Function / Purpose
+B,DB.entries[33].coords,Version 1.7,See Version 1.7 Contrast / Network Position
+B,DB.entries[33].baselineKind,Version 1.7,Version 1.7 · Full Reconstruction
+B,DB.entries[33].transferBaseline,Version 1.7,Version 1.7オリジナル学習事例。能力測定ではなく、境界を再検討する練習。
+B,DB.entries[33].checks[0].basis,Version 1.7,Version 1.7 editorial exercise · Label / Concept recognition
+B,DB.entries[33].checks[1].basis,Version 1.7,Version 1.7 editorial exercise · Form / Shape
+B,DB.entries[33].checks[2].basis,Version 1.7,Version 1.7 editorial exercise · Form / Shape
+B,DB.entries[33].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[34].coords,Version 1.7,See Version 1.7 Contrast / Network Position
+B,DB.entries[34].baselineKind,Version 1.7,Version 1.7 · Full Reconstruction
+B,DB.entries[34].transferBaseline,Version 1.7,Version 1.7オリジナル学習事例。能力測定ではなく、境界を再検討する練習。
+B,DB.entries[34].checks[0].basis,Version 1.7,Version 1.7 editorial exercise · Label / Concept recognition
+B,DB.entries[34].checks[1].basis,Version 1.7,Version 1.7 editorial exercise · Shape / Form
+B,DB.entries[34].checks[2].basis,Version 1.7,Version 1.7 editorial exercise · Shape / Form
+B,DB.entries[34].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[35].coords,Version 1.7,See Version 1.7 Contrast / Network Position
+B,DB.entries[35].baselineKind,Version 1.7,Version 1.7 · Full Reconstruction
+B,DB.entries[35].transferBaseline,Version 1.7,Version 1.7オリジナル学習事例。能力測定ではなく、境界を再検討する練習。
+B,DB.entries[35].checks[0].basis,Version 1.7,Version 1.7 editorial exercise · Label / Concept recognition
+B,DB.entries[35].checks[1].basis,Version 1.7,Version 1.7 editorial exercise · Art / Beauty
+B,DB.entries[35].checks[2].basis,Version 1.7,Version 1.7 editorial exercise · Art / Beauty
+B,DB.entries[35].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[36].coords,Version 1.7,See Version 1.7 Contrast / Network Position
+B,DB.entries[36].baselineKind,Version 1.7,Version 1.7 · Full Reconstruction
+B,DB.entries[36].transferBaseline,Version 1.7,Version 1.7オリジナル学習事例。能力測定ではなく、境界を再検討する練習。
+B,DB.entries[36].checks[0].basis,Version 1.7,Version 1.7 editorial exercise · Label / Concept recognition
+B,DB.entries[36].checks[1].basis,Version 1.7,Version 1.7 editorial exercise · Arts / Art
+B,DB.entries[36].checks[2].basis,Version 1.7,Version 1.7 editorial exercise · Arts / Art
+B,DB.entries[36].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[37].coords,Version 1.7,See Version 1.7 Contrast / Network Position
+B,DB.entries[37].baselineKind,Version 1.7,Version 1.7 · Full Reconstruction
+B,DB.entries[37].transferBaseline,Version 1.7,Version 1.7オリジナル学習事例。能力測定ではなく、境界を再検討する練習。
+B,DB.entries[37].checks[0].basis,Version 1.7,Version 1.7 editorial exercise · Label / Concept recognition
+B,DB.entries[37].checks[1].basis,Version 1.7,Version 1.7 editorial exercise · Craft / Technique
+B,DB.entries[37].checks[2].basis,Version 1.7,Version 1.7 editorial exercise · Craft / Technique
+B,DB.entries[37].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[38].coords,Version 1.7,See Version 1.7 Contrast / Network Position
+B,DB.entries[38].baselineKind,Version 1.7,Version 1.7 · Full Reconstruction
+B,DB.entries[38].transferBaseline,Version 1.7,Version 1.7オリジナル学習事例。能力測定ではなく、境界を再検討する練習。
+B,DB.entries[38].checks[0].basis,Version 1.7,Version 1.7 editorial exercise · Label / Concept recognition
+B,DB.entries[38].checks[1].basis,Version 1.7,Version 1.7 editorial exercise · Technique / Technology
+B,DB.entries[38].checks[2].basis,Version 1.7,Version 1.7 editorial exercise · Technique / Technology
+B,DB.entries[38].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[39].coords,Version 1.7,See Version 1.7 Contrast / Network Position
+B,DB.entries[39].baselineKind,Version 1.7,Version 1.7 · Full Reconstruction
+B,DB.entries[39].transferBaseline,Version 1.7,Version 1.7オリジナル学習事例。能力測定ではなく、境界を再検討する練習。
+B,DB.entries[39].checks[0].basis,Version 1.7,Version 1.7 editorial exercise · Label / Concept recognition
+B,DB.entries[39].checks[1].basis,Version 1.7,Version 1.7 editorial exercise · Technic / Technique
+B,DB.entries[39].checks[2].basis,Version 1.7,Version 1.7 editorial exercise · Technic / Technique
+B,DB.entries[39].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[40].coords,Version 1.7,See Version 1.7 Contrast / Network Position
+B,DB.entries[40].baselineKind,Version 1.7,Version 1.7 · Full Reconstruction
+B,DB.entries[40].transferBaseline,Version 1.7,Version 1.7オリジナル学習事例。能力測定ではなく、境界を再検討する練習。
+B,DB.entries[40].checks[0].basis,Version 1.7,Version 1.7 editorial exercise · Label / Concept recognition
+B,DB.entries[40].checks[1].basis,Version 1.7,Version 1.7 editorial exercise · Technology / Technique
+B,DB.entries[40].checks[2].basis,Version 1.7,Version 1.7 editorial exercise · Technology / Technique
+B,DB.entries[41].coords,Version 1.7,See Version 1.7 Contrast / Network Position
+B,DB.entries[41].baselineKind,Version 1.7,Version 1.7 · Full Reconstruction
+B,DB.entries[41].transferBaseline,Version 1.7,Version 1.7オリジナル学習事例。能力測定ではなく、境界を再検討する練習。
+B,DB.entries[41].checks[0].basis,Version 1.7,Version 1.7 editorial exercise · Label / Concept recognition
+B,DB.entries[41].checks[1].basis,Version 1.7,Version 1.7 editorial exercise · Ethics / Law
+B,DB.entries[41].checks[2].basis,Version 1.7,Version 1.7 editorial exercise · Ethics / Law
+B,DB.entries[41].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[42].coords,Version 1.7,See Version 1.7 Contrast / Network Position
+B,DB.entries[42].baselineKind,Version 1.7,Version 1.7 · Full Reconstruction
+B,DB.entries[42].transferBaseline,Version 1.7,Version 1.7オリジナル学習事例。能力測定ではなく、境界を再検討する練習。
+B,DB.entries[42].checks[0].basis,Version 1.7,Version 1.7 editorial exercise · Label / Concept recognition
+B,DB.entries[42].checks[1].basis,Version 1.7,Version 1.7 editorial exercise · Morality / Custom
+B,DB.entries[42].checks[2].basis,Version 1.7,Version 1.7 editorial exercise · Morality / Custom
+B,DB.entries[42].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[43].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[43].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[43].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[44].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[44].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[44].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[45].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[45].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[45].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[46].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[46].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[46].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[47].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[47].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[47].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[48].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[48].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[48].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[49].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[49].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[49].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[50].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[50].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[50].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[51].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[51].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[51].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[52].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[52].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[52].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[53].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[53].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[53].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[54].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[54].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[54].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[55].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[55].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[55].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[56].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[56].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[56].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[57].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[57].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[57].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[58].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[58].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[58].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[59].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[59].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[59].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[60].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[60].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[60].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[61].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[61].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[61].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[62].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[62].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[62].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[63].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[63].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[63].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[64].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[64].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[64].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[65].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[65].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[65].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[66].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[66].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[66].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[67].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[67].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[67].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[68].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[68].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[68].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[69].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[69].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[69].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[70].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[70].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[70].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[71].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[71].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[71].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[72].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[72].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[72].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[73].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[73].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[73].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[74].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[74].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[74].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[75].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[75].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[75].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[76].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[76].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[76].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[77].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[77].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[77].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[78].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[78].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[78].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[79].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[79].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[79].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[80].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[80].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[80].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[81].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[81].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[81].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[82].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[82].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[82].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[83].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[83].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[83].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[84].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[84].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[84].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[85].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[85].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[85].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+B,DB.entries[86].baselineKind,Version 1.75,Version 1.75 · Full Reconstruction
+B,DB.entries[86].v17.recalibration,1.75,1.75新規構築：0–6、近接・転用課題、領域差、歴史の未確定点を分離。
+B,DB.entries[86].v175.why,87概念,固定87概念で反復利用・再検討できる入口をそろえるため。
+C,DB.schemaVersion,1.75.0,1.75.0
+B,DB.baseVersion,1.7,1.7 Prototype
+B,DB.versionNotes[0],20 Concepts,20 Concepts・7 Clusters・英国IPA・内蔵発音を継承
+B,DB.contrasts[0].parameters.differenceAxis,Version 1.6,"く、
+
+### **Conceptual Shift available through Pluralisation**
+
+です。
+
+ここはVersion 1.6で厳密にした方がよいです。"
+B,DB.contrasts[2].parameters.japaneseTranslationEffect,Version 1.6," / 法治国家の差と接続**は独立した比較問題として研究されており、両者を単純な善悪や同義語にはできません。〔出典対応は照合待ち〕
+
+これはVersion 1.6で特に注意すべきところです。"
+B,DB.contrasts[10].provenance,Version 1.7,Version 1.7 editorial contrast
+B,DB.contrasts[11].provenance,Version 1.7,Version 1.7 editorial contrast
+B,DB.contrasts[12].provenance,Version 1.7,Version 1.7 editorial contrast
+B,DB.contrasts[13].provenance,Version 1.7,Version 1.7 editorial contrast
+B,DB.contrasts[14].provenance,Version 1.7,Version 1.7 editorial contrast
+B,DB.contrasts[15].provenance,Version 1.7,Version 1.7 editorial contrast
+B,DB.contrasts[16].provenance,Version 1.7,Version 1.7 editorial contrast
+B,DB.contrasts[17].provenance,Version 1.7,Version 1.7 editorial contrast
+B,DB.contrasts[18].provenance,Version 1.7,Version 1.7 editorial contrast
+B,DB.contrasts[19].provenance,Version 1.7,Version 1.7 editorial contrast
+B,DB.contrasts[20].provenance,Version 1.7,Version 1.7 editorial contrast
+B,DB.contrasts[21].provenance,Version 1.7,Version 1.7 editorial contrast
+B,DB.contrasts[22].provenance,Version 1.7,Version 1.7 editorial contrast
+B,DB.contrasts[23].provenance,Version 1.7,Version 1.7 editorial contrast
+B,DB.contrasts[24].provenance,Version 1.7,Version 1.7 editorial contrast
+B,DB.contrasts[25].provenance,Version 1.7,Version 1.7 editorial contrast
+B,DB.contrasts[26].provenance,Version 1.7,Version 1.7 editorial contrast
+B,DB.contrasts[27].provenance,Version 1.7,Version 1.7 editorial contrast
+B,DB.contrasts[28].provenance,Version 1.7,Version 1.7 editorial contrast
+B,DB.contrasts[29].provenance,Version 1.7,Version 1.7 editorial contrast
+B,DB.contrasts[30].provenance,Version 1.7,Version 1.7 editorial contrast
+B,DB.contrasts[31].provenance,Version 1.7,Version 1.7 editorial contrast
+B,DB.contrasts[32].provenance,Version 1.7,Version 1.7 editorial contrast
+B,DB.contrasts[33].provenance,Version 1.7,Version 1.7 editorial contrast
+B,DB.contrasts[34].provenance,Version 1.7,Version 1.7 editorial contrast
+B,DB.contrasts[35].provenance,Version 1.7,Version 1.7 editorial contrast
+B,DB.contrasts[36].provenance,Version 1.6,Version 1.6 Boundary Check retained
+B,DB.contrasts[37].provenance,Version 1.6,Version 1.6 Boundary Check retained
+B,DB.contrasts[38].provenance,Version 1.6,Version 1.6 Boundary Check retained
+B,DB.contrasts[39].provenance,Version 1.6,Version 1.6 Boundary Check retained
+B,DB.contrasts[40].provenance,Version 1.6,Version 1.6 Boundary Check retained
+B,DB.contrasts[41].provenance,Version 1.6,Version 1.6 Boundary Check retained
+B,DB.contrasts[42].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[43].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[44].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[45].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[46].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[47].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[48].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[49].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[50].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[51].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[52].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[53].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[54].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[55].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[56].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[57].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[58].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[59].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[60].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[61].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[62].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[63].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[64].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[65].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[66].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[67].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[68].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[69].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[70].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[71].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[72].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[73].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[74].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[75].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[76].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[77].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[78].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[79].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[80].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[81].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[82].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[83].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[84].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.contrasts[85].provenance,Version 1.75,Version 1.75 editorial contrast
+B,DB.versionNotes16.changed[2],20項目,最新27-Concept Baselineは別層で表示し、旧20項目の本文・履歴・音声を保持
+B,DB.versionNotes17.Content changes[0],43 Main Concepts,43 Main Concepts。旧27は元の全フィールドを保持し、v17欄に差分を追加。新16は5段階と3種のチェックを収録。
+B,DB.versionNotes17.Unresolved questions[2],43概念,43概念で文明全体を説明しない。文化を固定した国民的な箱として扱わない。
+B,DB.qa17,43概念,115項目の自動検査：43概念、旧27の全フィールド保持、旧10対比保持、42対比、258回答分岐、8意味モード、2再切断表、8 Family / 8 Route、43 AAC参照を確認。追加23音声はAAC形式・正の再生時間を検査。Safariでは新しいウインドウで初期3列表示、検索、A
+B,DB.candidates175[0].promotion,1.75,保留：1.75ではMainへ昇格しない。
+B,DB.candidates175[1].promotion,1.75,保留：1.75ではMainへ昇格しない。
+B,DB.candidates175[2].promotion,1.75,保留：1.75ではMainへ昇格しない。
+B,DB.candidates175[3].promotion,1.75,保留：1.75ではMainへ昇格しない。
+B,DB.candidates175[4].promotion,1.75,保留：1.75ではMainへ昇格しない。
+B,DB.candidates175[5].promotion,1.75,保留：1.75ではMainへ昇格しない。
+B,DB.candidates175[6].promotion,1.75,保留：1.75ではMainへ昇格しない。
+B,DB.candidates175[7].promotion,1.75,保留：1.75ではMainへ昇格しない。
+B,DB.notes175.What Changed / Why[0],87 Main Concepts,87 Main Conceptsを凍結。旧43の全フィールドを保持しv175補足のみ追加。新44を構築。
+B,DB.notes175.Evidence gaps[2],1.7,1.7の技術・藝術・美術・工芸、造家／建築、倫理／修身の資料と留保を保持。今回それらの全一次資料を再精読したわけではない。
+B,DB.notes175.Unresolved / Candidates[1],87語,Family・Route・Hub・Bridgeは代替構成可能なナビゲーション仮説。87語で文明全体や普遍的存在論を説明しない。
+B,DB.notes175.Representation changes[1],87語,Networkは選択概念周辺を示す。全87語を常時結ぶ図は避け、方向・型・Evidence・Hub／Bridge／Satelliteで絞る。
+B,DB.notes175.Future Version 2.0 / new-name Version 1.0[0],87語,現87語の安定性と反例を評価してから、改名・Main拡張・独立候補の昇格を検討。
+B,DB.qa175,87概念,自動検査347項目：87概念、旧43の全フィールドと旧42対比の保持、86対比、522回答分岐、23意味モード、3再切断表、17 Family・15 Route、87 AAC参照を確認。追加44音声は形式・再生時間を検査し、Safariでは44語すべてで選択語・音声表示の一致と再生時間の
+B,DB.flowExtension.version,1.751,1.751
+B,DB.flowExtension.maps.architecture.nodes[1].text,1.7,伊東忠太の造家学会から建築学会への改名提唱。1.7で確認した書誌・建築史研究に基づく。
+B,DB.flowExtension.maps.function.nodes[8].text,Version 1.7,See Version 1.7 Contrast / Network Position
+B,DB.flowExtension.maps.form.nodes[8].text,Version 1.7,See Version 1.7 Contrast / Network Position
+B,DB.flowExtension.maps.ethics.nodes[0].text,1.7,服部の研究が扱う書物と学問上の区分。1.7の研究記録を継承。
+B,DB.flowExtension.maps.subject.nodes[5].text,1.75,1.75で確認した研究はsubjective／objective等の対訳を論じる。名詞Subject／Objectの全受容史と同一視しない。
+B,DB.flowExtension.maps.object.nodes[5].text,1.75,1.75で確認した研究はsubjective／objective等の対訳を論じる。名詞Subject／Objectの全受容史と同一視しない。
+B,DB.flowExtension.maps.subjectivity.nodes[5].text,1.75,1.75で確認した研究はsubjective／objective等の対訳を論じる。名詞Subject／Objectの全受容史と同一視しない。
+B,DB.flowExtension.qa,87概念,自動検査436項目を通過。全87概念の描画、ノード配置、参照、既存87本文・86対比・87音声の保持を確認。Safari実機でのVersion 1.751の表示・操作・実音声および狭い画面幅の確認は未完了。既存版での確認と今回の確認を区別する。
+B,DB.flowExtension.qa,Version 1.751,自動検査436項目を通過。全87概念の描画、ノード配置、参照、既存87本文・86対比・87音声の保持を確認。Safari実機でのVersion 1.751の表示・操作・実音声および狭い画面幅の確認は未完了。既存版での確認と今回の確認を区別する。
+B,DB.flowExtension.notes[0],87概念,全87概念に図の選択と適用理由を追加。既存87Entry、音声、対比、語史データは変更していない。
+B,DB.flowExtension.notes[1],20概念,歴史図を推奨することと、全歴史を調査済みであることは違う。既存20概念の歴史主張すべての再調査は今回行っていない。
+B,DB.flowExtension.notes[7],1.75,1.75本体と別名のVersion 1.751として保存。Shared HTML / ZIPを渡して共有する。
+B,DB.flowExtension.notes[7],Version 1.751,1.75本体と別名のVersion 1.751として保存。Shared HTML / ZIPを渡して共有する。
+A,static/init line 5,20 Concepts,"<meta name=""description"" content=""20 Conceptsを5段階と3レーンの歴史から再構成する共有版Analytical Translation Lexicon。オフライン・音声内蔵。"">"
+A,static/init line 7,1.751,<title>Interactive Cognitive Lexicon — Analytical Translation Edition 1.751 · Public / 共有版</title>
+A,static/init line 28,1.751,"""masthead""><div><div class=""edition"">Analytical Translation Edition · 1.751</div><h1>Interactive Cognitive Lexicon</h1><p class=""motto"" lang=""en"">Do not translate the word first. Reconstruct the concept fi"
+A,static/init line 28,87 Concepts,"再構築する。</p></div><div class=""share""><strong>PUBLIC / 共有版</strong><span>87 Concepts · 2026.09.15<br>Offline · 音声内蔵</span><button id=""guideBtn"">使い方・出典方針</button></div></header>"
+A,static/init line 30,43 Concepts,"y / Route</label><select id=""cluster""><option value="""">All families · 43 Concepts</option></select><label for=""sort"">表示順</label><select id=""sort""><option value=""cluster"">Baseline order</option><option value=""alp"
+A,static/init line 30,87 Frozen Main Concepts,"gs · 読み方</summary><dl id=""tagLegend""></dl></details><div class=""foot"">87 Frozen Main Concepts / 0–6<br>英国IPA · 英語Main Termのみ発音</div></nav>"
+D,refsBlockV16 line 62,20 Concepts,"<section class=""stage""><h3>Sources & Evidence</h3><p class=""small"">既存の20 Concepts分析を基礎に、共有用の5段階へ再構成。認知誘導訳・図・Master Definitionは本Editionの提案です。下記の資料は対応する歴史・概念記述を支えますが、日本語話者への認知効果を実証するものではありません。</p><ul class=""refere"
+D,renderNavV15 line 64,20 Concepts,"n renderNavV15(){let a=filtered();$('count').textContent=a.length+' / 20 Concepts';$('navlist').innerHTML=a.map(e=>'<button class=""navitem '+(e.id===selected?'active':'')+'"" data-select=""'+e.id+'"" '+(e.id===sele"
+D,renderGuideBase line 75,1.5,"nerHTML='<article class=""guide""><div class=""edition"">PUBLIC EDITION · 1.5</div><h2>Conceptを先に再構成する</h2><p>通常訳を手掛かりにしつつ、問い → 認知誘導 → 文脈 → 過程 → 歴史と翻訳の変換 → 認識形成の順に読みます。20 Conceptsを7つのClusterからたどり、Compare Mod"
+D,renderGuideBase line 75,20 Concepts,構成する</h2><p>通常訳を手掛かりにしつつ、問い → 認知誘導 → 文脈 → 過程 → 歴史と翻訳の変換 → 認識形成の順に読みます。20 Conceptsを7つのClusterからたどり、Compare Modeで同じ段階を並べて比較できます。</p><h3>共有方法</h3><p>このHTMLをそのまま1ファイルで渡してください。受け取った方は保存してSafariなどのブラウザで開きます。本文・検索・比較・発
+D,renderGuideBase line 75,1.5,・音声品質の認定は行っていません。</p><h3>版と資料範囲</h3><p>Analytical Translation Edition 1.5 / Public。旧Framework Lexiconとは別の20 Concepts専用Editionです。既存の20 Concepts分析を要約・再構成し、公開出典で確認できた歴史記述を付記しました。個人用メモ、チャット全文、内部リンク、個人情報は収録して
+D,renderGuideBase line 75,20 Concepts,><p>Analytical Translation Edition 1.5 / Public。旧Framework Lexiconとは別の20 Concepts専用Editionです。既存の20 Concepts分析を要約・再構成し、公開出典で確認できた歴史記述を付記しました。個人用メモ、チャット全文、内部リンク、個人情報は収録していません。</p><h3>操作の補助</h3><p>検索欄には英語・日本語・分析中の語
+D,renderGuideBase line 75,20 Concepts, Edition 1.5 / Public。旧Framework Lexiconとは別の20 Concepts専用Editionです。既存の20 Concepts分析を要約・再構成し、公開出典で確認できた歴史記述を付記しました。個人用メモ、チャット全文、内部リンク、個人情報は収録していません。</p><h3>操作の補助</h3><p>検索欄には英語・日本語・分析中の語を入力できます。空白で複数語を指定すると、全てを含む
+D,renderGuideV15 line 118,20 Concepts,"rGuideBase();$('analysis').innerHTML=$('analysis').innerHTML.replace('20 Conceptsを7つのClusterから','20 Conceptsを7つのClusterから').replace('原語Conceptの歴史はB、日本語での訳語形成はCに分けました。','原語側の履歴はB、経路はC、既存語はD、受容はE、遭遇はF、定着後のDriftはGに"
+D,renderGuideV15 line 118,20 Concepts,"innerHTML=$('analysis').innerHTML.replace('20 Conceptsを7つのClusterから','20 Conceptsを7つのClusterから').replace('原語Conceptの歴史はB、日本語での訳語形成はCに分けました。','原語側の履歴はB、経路はC、既存語はD、受容はE、遭遇はF、定着後のDriftはGに分けました。');$('analysis').inse"
+D,renderGuideV15 line 118,VERSION 1.5,"fterbegin','<section class=""stage version-notes""><div class=""edition"">VERSION 1.5 · PUBLIC</div><h2>Temporal Concept Reconstruction</h2><p>Word ▶︎ Genesis ▶︎ Historical Transformation ▶︎ Cross-Language Transmiss"
+D,renderGuideV15 line 118,20項目,のEstablished表示は、それら全てを史実とするものではありません。</p></details><h3>確認範囲・制約</h3><p>20項目の構造、参照先の対応、モード切替・期間絞り込み・比較の表示ロジックを自動確認しています。Safariでローカル起動、3列の画面、Historical Viewへの切替、幕末〜明治フィルター、遭遇ノード詳細、Society / Publicの歴史比較を確認しまし
+D,renderGuideV15 line 118,20項目,経路に未照合部分を含み、その都度Evidence StatusとSource Noteを付けています。</p><p>Version 1.0の20項目・定義・音声を継承し、Version 1.5を別ファイルとして作成しました。リアルタイム共同編集や認知測定、時間アニメーションは含みません。確認したい主張は、Concept名・Node ID・出典・異論を添えて共有できます。</p></section>');$
+D,renderGuideV15 line 118,Version 1.5,度Evidence StatusとSource Noteを付けています。</p><p>Version 1.0の20項目・定義・音声を継承し、Version 1.5を別ファイルとして作成しました。リアルタイム共同編集や認知測定、時間アニメーションは含みません。確認したい主張は、Concept名・Node ID・出典・異論を添えて共有できます。</p></section>');$('backAnalysis').oncli
+B,stageV16 line 146,Version 1.5,"Coordinates / Translation Transformation</summary>'+md(e.coords)+'<h4>Version 1.5 Translation Diagnostics</h4>'+diagListBase(e,false)+tagHTML(e)+'</details><details class=""historical-accordion""><summary>I. Contr"
+B,static/init line 149,Version 1.5,"ster!=='H'&&n!==4)body+='<details class=""baseline-preserved""><summary>Version 1.5の本文を確認</summary>'+(n===3?flow(e.process):md(n===1?e.guidance:n===2?e.primer:e.master))+'</details>';"
+D,renderGuideV16 line 164,VERSION 1.6,"sis').innerHTML='<article class=""guide""><div class=""edition"">PUBLIC / VERSION 1.6 PROTOTYPE</div><h2>Temporal + Contrastive Representation Validation</h2><p>Version 1.5：Content / Historical Reconstruction<br>Ver"
+D,renderGuideV16 line 164,Version 1.5,TYPE</div><h2>Temporal + Contrastive Representation Validation</h2><p>Version 1.5：Content / Historical Reconstruction<br>Version 1.6：Temporal + Contrastive Representation Validation<br>Version 2.0 Candidate：Inte
+D,renderGuideV16 line 164,Version 1.6, Validation</h2><p>Version 1.5：Content / Historical Reconstruction<br>Version 1.6：Temporal + Contrastive Representation Validation<br>Version 2.0 Candidate：Interactive Contrastive Recognition</p><p>このHTMLを保存してSa
+D,renderGuideV16 line 164,20項目,"生に使いません。新規7語の発音はData Pendingです。</p><h3>確認範囲</h3><p id=""qa-note"">27概念、旧20項目の全データ保持、10対比型、162の回答分岐を自動確認。Safariで既存20語のAAC再生開始、複数語の再生完了、歴史フローの合流・詳細、方向反転図、Transfer Testの境界フィードバックを確認しました。全画面幅・出力機器での聴感・学習効果は未検証で"
+D,renderGuideV16 line 164,20語,"範囲</h3><p id=""qa-note"">27概念、旧20項目の全データ保持、10対比型、162の回答分岐を自動確認。Safariで既存20語のAAC再生開始、複数語の再生完了、歴史フローの合流・詳細、方向反転図、Transfer Testの境界フィードバックを確認しました。全画面幅・出力機器での聴感・学習効果は未検証です。</p><button id=""backAnalysis"">分析に戻る</b"
+B,static/init line 176,Version 1.7,// Version 1.7: semantic data are separate from progressive presentation.
+B,headerBefore175 line 189,1.7,"(e){return '<section class=""headercard""><div class=""edition"">PUBLIC · 1.7 PROTOTYPE · MAIN CONCEPT</div><h2 class=""term"">'+esc(e.term)+(e.id==='technic'?'<small> / Technics</small>':'')+'</h2><div class="
+B,research17Before175 line 208,Version 1.7,"nction research17Before175(e){return '<section class=""research17""><h3>Version 1.7 · Research / Recalibration</h3>'+status('Cognitive Localisation Proposal')+'<p>'+esc(e.v17.recalibration)+'</p>'+e.v17.claims.map"
+B,stageBefore175 line 209,Version 1.7,".id||!e.v17)return stageV16(e,n);let isNew=e.baselineKind.startsWith('Version 1.7');if(!isNew){let html=stageV16(e,n);return html+(n===4?research17(e):n===5?network17(e):'')}"
+B,historyContentBefore175 line 217,Version 1.7,"function historyContentBefore175(e){if(!e.baselineKind.startsWith('Version 1.7'))return historyContentV16(e).replace('History / IPA / Audio / Translation Diagnostics · Data Pending','History / Translation Dia"
+B,historyContentBefore175 line 217,1.7,"ata Pending','History / Translation Diagnostics · Data Pending（音声・IPAは1.7に追加）')+'<details class=""stage""><summary>Version 1.7 · New Genealogy / Network</summary>'+research17(e)+network17(e)+'</details>';r"
+B,historyContentBefore175 line 217,Version 1.7,"tics · Data Pending（音声・IPAは1.7に追加）')+'<details class=""stage""><summary>Version 1.7 · New Genealogy / Network</summary>'+research17(e)+network17(e)+'</details>';return pathHTML(e)+header(e)+trajectory(e)+(e.v17.ge"
+B,renderDiagBefore175 line 219,1.7,)+status('Interpretive')+'</details>'+network17(e)+'<details><summary>1.7 Recalibration</summary><p>'+esc(e.v17.recalibration)+'</p></details><details><summary>Entity Types</summary><p>Main Concept：5段階とT
+B,renderDiagBefore175 line 219,43には,<p>Main Concept：5段階とTransferを持つ正式項目。</p><p>Genealogy Node：歴史を読むためのノード。43には数えない。</p><p>Contrast Satellite：境界を読む補助語。独立Entryではない。</p></details><details><summary>Evidence Status</summary>'+evidenceLegend()+'<
+D,renderGuideBefore175 line 220,VERSION 1.7,"sis').innerHTML='<article class=""guide""><div class=""edition"">PUBLIC / VERSION 1.7 PROTOTYPE</div><h2>Conceptual Formation Prototype</h2><p>Do not translate the word first. Reconstruct the Concept first.</p><p>43"
+D,renderGuideBefore175 line 220,43 Main Concepts,Do not translate the word first. Reconstruct the Concept first.</p><p>43 Main Conceptsを、Genealogy、Contrast、Translation、Network、Transferから読み直します。このHTMLをそのまま渡して共有できます。本文・図・課題・内蔵AACはオフラインで動きます。回答は送信せず、再読み込みで消えます。</p><h3
+D,renderGuideBefore175 line 220,43語,"id=""qa17"">'+esc(DB.qa17||'Validation in progress')+'</p><h3>音声</h3><p>43語の英国音声AACを内蔵し、既存20語の音声は保持しました。追加23語のIPAは編集上の広い英国表記です。物理的な出力機器での聴感・英国発音の専門家評価は未確認です。</p><button id=""backAnalysis"">分析に戻る</button></ar"
+D,renderGuideBefore175 line 220,20語,".qa17||'Validation in progress')+'</p><h3>音声</h3><p>43語の英国音声AACを内蔵し、既存20語の音声は保持しました。追加23語のIPAは編集上の広い英国表記です。物理的な出力機器での聴感・英国発音の専門家評価は未確認です。</p><button id=""backAnalysis"">分析に戻る</button></article>';$('backAna"
+A,initV17 line 221,43 Main Concepts,"tive Process';$('cluster').innerHTML='<option value="""">All families · 43 Main Concepts</option><optgroup label=""Primary Family"">'+DB.families.map(f=>'<option value=""'+f.id+'"">'+esc(f.name)+'</option>').join('')+'</op"
+A,initV17 line 221,87 Main Concepts,"'+status(x.kind)+'<p>'+esc(x.scope)+'</p>'+source17(x.refs)+'<p>このノードは87 Main Conceptsには数えません。</p><form method=""dialog""><button>閉じる</button></form>';document.body.appendChild(el);el.showModal()}})}"
+B,static/init line 223,1.75,// 1.75 additive presentation: selected entry only; baseline data remain unchanged.
+B,headerBeforeFlow line 228,1.7,"ction headerBeforeFlow(e){return headerBefore175(e).replace('PUBLIC · 1.7 PROTOTYPE','PUBLIC · 1.75 PROTOTYPE')+'<div class=""network-entry175""><small>6 · NETWORK POSITION · '+esc(role175(e.id))+'</small>"
+B,headerBeforeFlow line 228,1.75,"{return headerBefore175(e).replace('PUBLIC · 1.7 PROTOTYPE','PUBLIC · 1.75 PROTOTYPE')+'<div class=""network-entry175""><small>6 · NETWORK POSITION · '+esc(role175(e.id))+'</small><p>'+esc(familyOf(e).name)"
+B,retrofit175 line 229,1.7,"/h4><p>'+esc(r.trigger)+'</p><p class=""small"">'+(r.originalPreserved?'1.7の本文・データを保持し、この補足だけを加えています。':'新規構築。史実、用法、認知提案の確度を別々に表示します。')+'</p></details>'}"
+C,memoCopy175 line 230,1.75,"ibration memo JSON"">'+esc(JSON.stringify({schema:'lexicon-calibration-1.75',records:calibration175},null,2))+'</textarea></details>'}"
+B,networkPanel175 line 253,87 FROZEN MAIN CONCEPTS,"tion class=""network175""><div class=""edition"">SELECTED NEIGHBOURHOOD · 87 FROZEN MAIN CONCEPTS</div><h2>'+esc(e.term)+' · Network</h2>'+status(role175(e.id))+'<p>'+esc(DB.network175.scope)+'</p><div class=""network-filters175"
+B,renderDiag line 255,43には,"5();$('diagnostics').innerHTML=$('diagnostics').innerHTML.replaceAll('43には数えない','87には数えない').replace('1.7 Recalibration',byId[compare&&pin==='right'?second:selected].v175.originalPreserved?'1.7 Retained Re"
+B,renderDiag line 255,87には,"nostics').innerHTML=$('diagnostics').innerHTML.replaceAll('43には数えない','87には数えない').replace('1.7 Recalibration',byId[compare&&pin==='right'?second:selected].v175.originalPreserved?'1.7 Retained Recalibration"
+B,renderDiag line 255,1.7,"$('diagnostics').innerHTML.replaceAll('43には数えない','87には数えない').replace('1.7 Recalibration',byId[compare&&pin==='right'?second:selected].v175.originalPreserved?'1.7 Retained Recalibration':'1.75 Reconstruct"
+B,renderDiag line 255,1.7,",byId[compare&&pin==='right'?second:selected].v175.originalPreserved?'1.7 Retained Recalibration':'1.75 Reconstruction')+retrofit175(byId[compare&&pin==='right'?second:selected])+'<details class=""panel"">"
+B,renderDiag line 255,1.75,"second:selected].v175.originalPreserved?'1.7 Retained Recalibration':'1.75 Reconstruction')+retrofit175(byId[compare&&pin==='right'?second:selected])+'<details class=""panel""><summary>Candidate Concept · 保"
+B,renderGuideBeforeFlow line 256,1.75,"sis').innerHTML='<article class=""guide""><div class=""edition"">PUBLIC · 1.75 PROTOTYPE</div><h2>Long-Term Calibration Prototype</h2><p>Do not translate the word first. Reconstruct the Concept first.</p><p>8"
+B,renderGuideBeforeFlow line 256,87概念,Do not translate the word first. Reconstruct the Concept first.</p><p>87概念を固定した共有版です。HTML単体で本文・図・課題・87語のAAC音声を利用できます。外部資料リンクを開く場合だけ通信が必要です。HTMLファイルまたは同梱ZIPを渡して共有してください。</p><ol><li>Orientation・Core・Primary
+B,renderGuideBeforeFlow line 256,87語,t. Reconstruct the Concept first.</p><p>87概念を固定した共有版です。HTML単体で本文・図・課題・87語のAAC音声を利用できます。外部資料リンクを開く場合だけ通信が必要です。HTMLファイルまたは同梱ZIPを渡して共有してください。</p><ol><li>Orientation・Core・Primary Contrastから始める。</li><li>0–6の必
+B,renderGuideBeforeFlow line 256,1.7,"'+esc(r.review)+'</small></p>').join('')+'</details><details><summary>1.7 retained notes</summary>'+Object.entries(DB.versionNotes17).map(([k,v])=>'<h4>'+esc(k)+'</h4><ul>'+v.map(x=>'<li>'+esc(x)+'</li>'"
+B,initV175 line 259,87 Main Concepts,";renderNav()};$('cluster').innerHTML='<option value="""">All families · 87 Main Concepts</option><optgroup label=""Primary Family"">'+DB.families.map(f=>'<option value=""'+f.id+'"">'+esc(f.name)+'</option>').join('')+'</op"
+B,initV175 line 259,1.75,"d.calAdd),text=el.value.trim();if(text){calibration175.push({version:'1.75',date:new Date().toISOString(),concept:d.calAdd,text});el.value='';calibrationDrafts175[d.calAdd]='';let copyPanel=el.closest('.c"
+C,initV175 line 259,1.75,"fined){let blob=new Blob([JSON.stringify({schema:'lexicon-calibration-1.75',records:calibration175},null,2)],{type:'application/json'}),url=URL.createObjectURL(blob),a=document.createElement('a');a.href=u"
+B,initV175 line 259,1.75,"ocument.createElement('a');a.href=url;a.download='Lexicon_Calibration_1.75.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000)}})}"
+B,research17 line 261,Version 1.7,"function research17(e){return research17Before175(e).replace('Version 1.7 · Research / Recalibration',e.v175.originalPreserved?'Version 1.7 · Retained Research':'Version 1.75 · Research / Integration')}"
+B,research17 line 261,Version 1.7,"ce('Version 1.7 · Research / Recalibration',e.v175.originalPreserved?'Version 1.7 · Retained Research':'Version 1.75 · Research / Integration')}"
+B,research17 line 261,Version 1.75,"ibration',e.v175.originalPreserved?'Version 1.7 · Retained Research':'Version 1.75 · Research / Integration')}"
+B,static/init line 264,Version 1.751,"// Version 1.751: scoped maps for every concept, with historical and cognitive time kept distinct."
+A,flowIntro line 268,VERSION 1.751,"flowMapOf(e);return '<section class=""flow-intro""><div class=""edition"">VERSION 1.751 · MAP APPLICABILITY</div><h3>'+esc(flowLabels[m.mode])+'</h3>'+status(m.priority)+'<p>'+esc(m.reason)+'</p><p class=""small"">'+esc"
+B,historyContent line 280,1.75,"ck751(e)+'<details class=""stage"" data-flow-legacy=""'+e.id+'""><summary>1.75のHistorical Viewを保持して読む</summary><div class=""flow-legacy-body""></div></details>'+poly17(e)+(e.id==='analysis'?recut17():'')+retrof"
+B,flowRegistry751 line 282,87概念,"||m.mode===flowKindFilter);return '<section id=""flow-registry751""><h3>87概念の図・適用理由</h3><label>Map Type<select id=""flow-map-kind"">'+[['all','すべて'],...Object.entries(flowLabels)].map(([v,t])=>'<option value="
+B,renderGuide line 283,1.75,"w();$('analysis').innerHTML=$('analysis').innerHTML.replace('PUBLIC · 1.75 PROTOTYPE','1.75 · RETAINED GUIDE');$('analysis').insertAdjacentHTML('afterbegin','<article class=""guide flow-guide""><div class="""
+B,renderGuide line 283,1.75,".innerHTML=$('analysis').innerHTML.replace('PUBLIC · 1.75 PROTOTYPE','1.75 · RETAINED GUIDE');$('analysis').insertAdjacentHTML('afterbegin','<article class=""guide flow-guide""><div class=""edition"">PUBLIC ·"
+B,renderGuide line 283,VERSION 1.751,"gin','<article class=""guide flow-guide""><div class=""edition"">PUBLIC · VERSION 1.751</div><h2>Temporal / Concept Flow Maps</h2><p>すべての概念に同じ歴史図を強制せず、理解に役立つ図を選びます。</p><ul>'+DB.flowExtension.notes.map(x=>'<li>'+esc(x)"
+B,initFlowMaps line 284,1.5,"ctor('.flow-scroll').clientWidth/l.width)):d.flowZoom==='in'?Math.min(1.5,old+.15):d.flowZoom==='out'?Math.max(.15,old-.15):Number(d.flowZoom);panel.outerHTML=flowGraphic751(e)}})}"
+A,header line 286,1.75,"function header(e){return headerBeforeFlow(e).replace('PUBLIC · 1.75 PROTOTYPE','PUBLIC · 1.751')}"
+A,header line 286,1.751,"eturn headerBeforeFlow(e).replace('PUBLIC · 1.75 PROTOTYPE','PUBLIC · 1.751')}"

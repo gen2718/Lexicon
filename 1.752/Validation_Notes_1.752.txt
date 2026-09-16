@@ -1,0 +1,62 @@
+Interactive Cognitive Lexicon — Analytical Translation Edition
+Version 1.752 Maintenance Release · 2026-09-16
+
+Baseline: Version 1.751。原本HTMLは変更していません。
+自動検査565項目（既存436項目の検査範囲＋今回の整合・保持・出力検査）。
+VM上の表示ロジックを全87概念の分析・History・Networkで検査しました。実ブラウザー描画や実音声再生の代替ではありません。
+
+{
+  "flowMapNodes": 566,
+  "flowMapEdges": 534,
+  "mapModes": {
+    "history": 25,
+    "branch": 7,
+    "translation": 7,
+    "recognition": 48
+  },
+  "checks": 565,
+  "mainConcepts": 87,
+  "preservedEntries": 87,
+  "preservedContrastRecords": 86,
+  "contrasts": 86,
+  "feedbackBranches": 522,
+  "polysemyModes": 23,
+  "recuttingCases": 3,
+  "families": 17,
+  "routes": 15,
+  "genealogyNodes": 13,
+  "genealogyEdges": 14,
+  "audio": 87,
+  "publicScan": "pass",
+  "runtimeNetworkDependencies": 0,
+  "unexpectedConceptContentChanges": 0,
+  "unexpectedFlowMapChanges": 0,
+  "unexpectedContrastChanges": 0,
+  "unexpectedAudioChanges": 0,
+  "sourceUntouched": true,
+  "safariStatus": "Safari Manual Validation Pending",
+  "limitations": "Structural Validation != Perceptual Validation != Recognition / Learning Validation. All edge crossings and readability are not guaranteed."
+}
+
+保持確認
+87 Entryの全フィールド、86 Contrast Records、87音声、Family / Route、Polysemy、Re-Cutting、Network、Evidence、Flow Extensionの全内容が1.751と一致。
+7概念で使用する共通系譜図13ノード・14接続も保持。
+CSSとCSPは原本と完全一致。アクセシビリティ属性・既存イベント処理を維持。既存ナビゲーション構造は変更なし。新たな支援技術による実機試験は行っていません。
+
+整合確認
+初期HTMLとruntime Family選択はAll families · 87 Main Concepts。
+現在のナビゲーションは87 / 87 Main Concepts。旧renderNavV15は現行の呼出経路に存在しないものの、直接実行しても実データ件数を表示。
+現在表示する版は1.752。Guideの過去版記録はRetainedと明示。
+App / Presentation = 1.752; Content Baseline = 1.75; Schema = 1.75.0; Base Prototype = 1.7。
+Calibration JSONはschema識別子とrecords構造・record.version=1.75を保持。appVersion/schemaVersion/contentBaselineVersionを外側に付記。
+コピー用JSONとダウンロード用JSONの一致、メモ本文の保持、1.752の保存名を検査。実ブラウザーでのファイル保存と外部の独自読込ソフトは未検証。本HTMLにimport機能はありません。
+
+Safari Manual Validation Pending
+Version 1.752の実機表示・操作・実音声・狭い画面幅は未確認。過去版のSafari記録を今回の検証結果に流用しません。
+
+Structural Validation ≠ Perceptual Validation ≠ Recognition / Learning Validation
+ノード矩形の重なり検査は保持・再実行。全接続線の交差や知覚上の読みやすさは保証しません。
+長期観察：Map Applicability / Recognition Gain / Historical Misreading / Contrast Boundary Retention / Text Only vs Text + Temporal Concept Flow。
+Recognition modeは年表ではありません。現在のレーン表現は変更せず観察対象として残します。
+
+実行時ネットワーク依存0。外部資料リンクは利用者が開く場合のみ通信。内蔵音声のデータ一致は実際に聞こえることの確認とは異なります。

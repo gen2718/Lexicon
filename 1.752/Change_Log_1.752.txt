@@ -1,0 +1,18 @@
+Version 1.752 · Maintenance / Consistency Release · 2026-09-16
+
+Before ▶︎ After / Reason
+
+・meta description：20 Concepts・3レーンの歴史 ▶︎ 87 Main Concepts・4種類のConcept Flow。全概念を歴史年表と誤認させないため。
+・初期Family選択：43 Concepts ▶︎ 87 Main Concepts。runtime表示と一致させるため。
+・旧ナビゲーション：固定20分母 ▶︎ E.length。現行では未使用だが、将来呼び戻しても旧件数が出ないようにするため。
+・旧診断の内部表示：43には数えない ▶︎ 87には数えない。現行の表示補正と内部値を一致させるため。
+・継承記録：20 Conceptsの記述 ▶︎ Historical Inheritance（当初20）とCurrent Baseline（87）を明示。履歴を保持しつつ現在値との誤読を避けるため。
+・公開版表示1.751 ▶︎ 1.752、公開日2026-09-15 ▶︎ 2026-09-16。title・edition・header・Map Applicability・Guide・公開メタデータを整合。過去版の日付は保持。
+・版の意味が混在 ▶︎ App/Presentation 1.752、Content Baseline 1.75、Schema 1.75.0、Base Prototype 1.7を明示。形式番号は据置。
+・Calibration export：既存schemaとrecordsを保持し、外側に版情報を追加。保存名をLexicon_Calibration_1.752.jsonへ。record.version=1.75は内容基準として維持。
+・Guide：1.752のVersion Notesと検証範囲を明示し、1.75/1.751の検証記録をRetainedとして区別。
+
+Preserved
+1.751原本、87概念本文、86対比、87音声、566ノード・534接続、Map Modes 25/7/7/48、Family/Route、Visual Design、Navigation、CSS、CSP。
+新機能・概念追加・再分析・Flow Map再配置は行っていません。
+自動検査565項目通過。Safari Manual Validation Pending。
