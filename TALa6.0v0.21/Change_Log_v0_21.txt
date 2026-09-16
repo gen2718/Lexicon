@@ -1,0 +1,16 @@
+TAL · Alpha 6.0 / Interactive Cognitive Lexicon v0.21
+2026-09-16
+
+- PDFの正式16レコードに同期：4 Core Layers、8 Core Indices、Separate Layer +1、E9/E10、Independent CTI。
+- 既存148 IDを維持し、正式仕様の欠落3項目だけ追加。名称変更7件、うちE6はMulti-Perspectivalの意味範囲を明示。
+- 重点44件、関連Core11件、新規3件、履歴・Interface4件の認知経路と問題を補完。
+- 一般Bridge13件は既存5段階を保持して正式仕様との接続と問題を追加。9件は参照関係のみ補完。
+- 既存31境界の実用説明を整理し、7境界を追加。TCCと3候補経路の相互移動を追加。
+- 音声141件は同一バイトで保持。変更名称7件と新規3件をSamanthaで生成。
+- 公開履歴はv0.151とv0.2を別保存。公開書き出しから自由入力・非公開データを除去。
+
+Version文字列：App/Lexicon/Content Revision 0.21、Framework Alpha 6.0。Schema 0.2.1はRegistry、問題、多版Public履歴、主張別Evidence、条件付き制作示唆の互換拡張。既存Entry IDを変えない。過去版番号は履歴に限って保存。
+
+補完62件、Bridge接続13件、参照のみ9件。重点44はすべて補完済み。詳細差分はMigration Map、対象全151件はCompletion Matrix参照。
+変更を許可した内容：正式名称・日本語名・所属・表示比率、対象5段階・境界・問題、関連リンク、現行音声、公開履歴・版情報・表示の整合。
+意図しない削除、ID変更、履歴変更、不変音声変更、入力上書きは検査上0。

@@ -1,0 +1,62 @@
+TAL · Alpha 6.0 / Interactive Cognitive Lexicon v0.21
+Framework Synchronisation Report — 2026-09-16
+
+完了範囲
+添付作業指示書の全文とv0.2 Public実データを監査。Alpha 6.0 PDFの1頁を抽出文だけでなくネイティブ画像表示でも照合した。日本語フォントの抽出・描画に問題がある経路は使用せず、ネイティブ画像で確認。PDFの正式名・所属・明示比率と作業指示書の転記に実質的不一致は見つからなかった。
+原本を上書き・移動・削除していない。作業開始時の保全コピー、終了時のDesktop上の入力3原本ともSHA-256一致。
+
+入力・役割
+TAL_Alpha6_0_Interactive_Cognitive_Lexicon_v0_2_Public.html：既存内容・実装の基準。
+Anime:JudgementSystem.pdf：正式名称・配置・比率・中心の問いの一次仕様。
+Work_Prompt_TAL_Lexicon_v0_21.txt：内容補完・検査・納品の作業指示。
+任意の旧v0.151と1.752の内容はv0.2 Public内蔵の公開履歴・一般定義・出典メタデータを参照。旧Masterや非公開2項目を再取り込みしていない。独立したMasterは受領・検証対象にしていない。外部一般原典の新しい再検証はしていない。
+
+入力Inventory（実データ）
+Main 148、v0.2で追加91、Bridge 47、Research Frontier 24、Satellite 14、Boundary 31、v0.151 Historical 57、音声148。
+共通③44、①=⑤44、Production Implicationは全148件で同一だった。
+
+正式Registry：16レコード
+4 Core Layers + 8 Core Indices + 1 Separate Potential Layer + 2 Potential Indices + 1 Independent Outcome。
+L1 Knowledge Architecture：Core25%、E1 55% / E2 45%。
+L2 Cognitive Architecture：Core25%、E3 60% / E4 40%。
+L3 Empathic-Emotional Architecture：Core25%、E5 40% / E6 60%。
+L4 Meaning Architecture：Core25%、E7 40% / E8 60%。
+E6はMulti-Perspectivalを省略しない。E5日本語の二つの「指数」は一つのE5。E7のAudio+Visualを視覚だけに縮小しない。
+Layer +1 Generative Potential Architectureは同格の第五Core層ではない。E9/E10は正式Potential Indexで、Coreの8指標へ混算しない。重み・合算法はnullと理由で管理。
+CTI Cognitive Transformation Indexは独立成果指標。原文?.?/10.0は未記入でありゼロ・平均・閾値ではない。CPIとの対応は未規定。TCCは候補でCTIの別名ではない。
+RegistryはHTML内に内蔵し、現在名・所属・参照ラベル・表示・検索・フィルター・注釈・Public exportへ同じ情報を供給。単独JSONも同じ16レコードを出力。
+
+名称とID
+既存148 Stable IDをすべて保持。統合・削除・分割は0。
+名称変更7：E1/E2/E3/E4/E5/E6/E8。E6は視点の範囲を明示するConceptual Deltaで、単なる綴り修正としない。旧名はaliasとv0.2履歴に保存。
+既存11 Layer/IndexのCurrent Label Pendingを解消。旧版時点の保留は履歴にだけ残す。正式名が確定したことと、詳細採点仕様の取得は別。
+追加3：Generative Potential Architecture、Generative Design Transferability Potential Index、Cognitive Transformation Index。PDFにある欠落の補完で、任意のCandidate拡大ではない。
+旧Visual SemanticsとCPIは別IDのまま保持。改名・廃止・同一尺度という推測はしない。
+
+内容補完とSecond-Pass Retrofit
+重点44：44/44を概念ごとに補完。共通③・①=⑤は現行欄から0。各③の入力・対比・条件・到達点を個別化。④に配置・近接概念・適用境界、⑤に入口にはない判断可能性を付与。各項目にRecognition / Boundary / Transferの3問。
+その他5段階補完18：正式Core既存11、新規正式3、Visual Semantics・CPI・Temporal Durability・Interactive 2D Prototypeの既存4。5段階補完総数62。
+Bridge13：Affordance、Capability、Mechanism、Design、Architecture、Technology、Technique、Subjectivity、Objectivity、Evaluation、Criterion、Change、Improvement。既存一般5段階は保持し、E9/E10/CTIとの固有接続と3問を追加。
+参照のみ9：Layer、Level、Dimension、Element、Factor、Component、Structure、System、Temporal Audiovisual Language。一般概念や全体概念から正式仕様への固有境界・リンクを追加。認知経路を全面改稿した件数には数えない。
+重点44以外の既存Retrofitは37件（11+4+13+9）。新規3は別計数。全件151のMatrixに、変更範囲・変更段階・Recognition Delta・Transfer ID・残る確認を記録。
+問題数225（75項目×3）。架空例、複数成立、判断保留を含み、解答は展開式。本文とTransferは異なるケース。作成モデルによる意味再読を行ったが、独立専門家レビュー・学習者試験・学習効果の実証とは呼ばない。
+
+境界と候補
+既存31境界のID・主題・例を保持し、対比軸と実用説明の同文反復を整理。新規7境界：Realised/Potential/Outcome、E9/E10、CTI/CPI/TCC、E9/AAE、E10/Production Implication、Layer +1/Future Generative Architecture、現行E7/Visual Semantics/E8。
+TCCのhasCandidateRouteとACC/CR/AAEのcandidateRouteForを追加。相互移動のための関係であり双方向因果ではない。三経路は合計式・必須段階・排他的網羅一覧ではない。
+TCCは観客・Audiovisual Language・制作可能性の持続的差分を検討する候補。E9/E10が正式でもAAE/TCC/Future Generative Architectureを昇格させない。
+
+制作示唆
+全148件で反復されていた注意文を共通Methodologyとして整理。8件だけに操作・条件・危険・比較を持つConditional Design Implicationを記載。143件はNot Yet Derivedとして必要な証拠を残す。共通文や未導出を完成したDesign Knowledgeへ数えない。転用成功は未実証。
+
+保存・操作
+v0.151公開履歴57は完全一致。v0.2公開履歴148を別保存。現行151の内蔵音声は141不変、変更名7+新規3を同じSamantha/en-USで生成。変更前7音声もHistorical Pronunciationとして保持。今回指示のSamantha方針を優先し英国voiceへ切替なし。IPAは一般米語の編集転写、専門校閲未実施。
+LRは1〜4のみで非連続集合も可。XはActivation(-)→Integration(+)、YはEpistemic(-)→Experiential(+)。座標・到達数・候補を採点値へ変えない。一時注釈は保存せず、共有HTMLから除去。
+
+到達状態
+入力にある正式仕様の同期・対象内容の補完・主要実装検査を終えた運用Baseline。詳細測定仕様や研究仮説の確定を意味しない。Safari Manual Validation Pending。検査の具体的範囲はValidation Notes参照。
+
+Input SHA-256
+Anime:JudgementSystem.pdf  ecdfd4bfab2999930fce3dfaa819357c9e9b29ee2561524ea6d7c2474fb3f6f1
+Work_Prompt_TAL_Lexicon_v0_21.txt  5bd14dcadc06d75cd74e72d89e9738fc05c3b990f3568bd7bb9a624544882307
+TAL_Alpha6_0_Interactive_Cognitive_Lexicon_v0_2_Public.html  15d91c65fe1b05b440ab56d64f5628468d575580000686c11b1df4cc1144adff

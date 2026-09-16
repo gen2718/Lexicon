@@ -1,0 +1,36 @@
+TAL v0.21 — Validation Notes
+Date: 2026-09-16
+Browser: Google Chrome 152.0.7977.65 / macOS / automated headless
+Load method: direct local file URL (file://), not set_content or localhost.
+
+実施済み
+- 入力コピー3点とDesktopの原本3点のSHA-256一致。
+- Main151、Satellite14、Boundary38、Canonical16、旧ID148、旧公開履歴57、v0.2公開履歴148の構造検査。
+- 4層25%、各層内比率100%、E9/E10/CTI非Core、E5一指標、E6正式名、CPI/CTI/TCCの分離。
+- 全151項目の5段階・見出し描画。全38境界・全14 Satellite・全225問題と解答パネルの描画・展開。
+- 重点44の共通③ゼロ、①=⑤ゼロ、異なる③44件。重複検査は意味の品質証明ではない。
+- E1/E6/E9/E10/CTI検索で正式項目が先頭へ到達。旧E6名・Optimization alias、英日検索・該当なし・リセット。
+- Category、Status、Framework Status、Core12/Potential3/Outcome1/Other135の区分フィルター。
+- 全登録済み参照先、TCC/ACCの実クリック往復、3候補経路の逆向き型。
+- 変更しない141音声は元データと完全一致。変更7と新規3は生成入力speechTextを現行Main Termと照合し、IPAの名称対応を編集点検。
+- 新しい10音声すべてでブラウザのplayingとendedイベントを確認。継承音声の再生、0.85倍速、停止、用語見出しクリックも確認。
+- 音声生成・再生確認を、発音内容の専門聴取校閲とは呼ばない。記号名の既存speechText（例：+→Plus）はそのまま保存。
+- 2Dの空欄開始、Full-Spelling Function、非連続LR-1/LR-4、軸X=0.5/Y=-0.5で右・上の描画（265,90）、再読込後の空欄を確認。
+- Public書き出し時、script形状の自由入力、非公開Entry、DBのメモ、履歴内のメモ、内部migrationの検査用文字列が出力HTMLから除去されることを確認。
+- 書き出したHTMLの単独再読込：151件、各操作UIの重複なし、音声再生、注釈なし。非公開メモはCSSで隠すだけでなくJSON/DOMから削除。
+- 検索への/キー移動、Escapeクリア、Tab移動、Enterによる解答展開、focus可視表示。
+- 1440pxと390pxで長いE6正式名、解答、比較、Framework概要を画像確認。横方向のはみ出し0。印刷PDFを生成し、先頭頁の文字とレイアウトを画像確認。
+- 通常操作時のHTTP/HTTPS/WebSocket要求0、JavaScript実行エラー0。
+- 外部参照は利用者がリンクを押したときだけ移動する。音声・表示・検索に外部Runtime依存なし。
+
+編集検査の方法
+対象62件の5段階とBridge13件の接続・225問を作成モデルが再読。入力・対比・作用対象・成立条件・認識到達の違いと、潜在力/Core/Outcome、候補/正式の誤用を点検した。独立した別専門家または学習者によるレビューではない。全151件の差分はMigration Mapでレビュー可能。
+
+未実施
+Safari Manual Validation Pending。今回のSafari・Edge実機操作を主張しない。ブラウザ間の完全同一性、全端末、全支援技術は未検証。
+専門家による全IPA・実音声の聴取、学習者試験、心理・因果・尺度・制作転用の実証は未実施。
+Masterの保持・検証は未実施。Public起点の共有版のみ。
+
+入力・履歴保存
+v0.151の57公開履歴は全フィールド一致。v0.2の148項目の音声以外の公開スナップショットは全フィールド一致。音声ハッシュを保存し、変更前7音声も別保存。
+静的HTMLのCurrent表記とRuntime・export filenameは0.21、FrameworkはAlpha 6.0。履歴だけに旧版表記・当時の保留を残す。
