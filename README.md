@@ -1,4 +1,4 @@
-### Interactive Cognitive Lexicon — Analytical Translation Edition Version 1.751
+# Interactive Cognitive Lexicon — Analytical Translation Edition Version 1.751
 
 世界中どこを探してもここまではできていないと思われる画期的な Lexicon です  
 日本で明治以来多くの Concept を取り入れようとしたのが全くうまく機能できずに間違った勝手な解釈が蔓延している日本語話者向けに  
