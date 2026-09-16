@@ -1,0 +1,88 @@
+﻿number,concept,map_type,priority,reason,historical_nodes,semantic_nodes,research_tray_items
+1,Individual,Temporal Concept Flow Map,Recommended,既存資料に基づく原語・遭遇・日本語の変化があり、現在の訳語だけでは見えにくい経路を読むため。,5,0,5
+2,Freedom,Temporal Concept Flow Map,Recommended,既存資料に基づく原語・遭遇・日本語の変化があり、現在の訳語だけでは見えにくい経路を読むため。,6,0,3
+3,Liberty,Temporal Concept Flow Map,Recommended,既存資料に基づく原語・遭遇・日本語の変化があり、現在の訳語だけでは見えにくい経路を読むため。,7,0,3
+4,Right,Temporal Concept Flow Map,Recommended,既存資料に基づく原語・遭遇・日本語の変化があり、現在の訳語だけでは見えにくい経路を読むため。,5,0,5
+5,Rights,Temporal Concept Flow Map,Recommended,既存資料に基づく原語・遭遇・日本語の変化があり、現在の訳語だけでは見えにくい経路を読むため。,6,0,4
+6,Nation,Temporal Concept Flow Map,Recommended,既存資料に基づく原語・遭遇・日本語の変化があり、現在の訳語だけでは見えにくい経路を読むため。,5,0,4
+7,Religion,Temporal Concept Flow Map,Recommended,既存資料に基づく原語・遭遇・日本語の変化があり、現在の訳語だけでは見えにくい経路を読むため。,6,0,3
+8,Economy,Temporal Concept Flow Map,Recommended,既存資料に基づく原語・遭遇・日本語の変化があり、現在の訳語だけでは見えにくい経路を読むため。,6,0,4
+9,Philosophy,Temporal Concept Flow Map,Recommended,既存資料に基づく原語・遭遇・日本語の変化があり、現在の訳語だけでは見えにくい経路を読むため。,7,0,3
+10,Modern,Temporal Concept Flow Map,Recommended,既存資料に基づく原語・遭遇・日本語の変化があり、現在の訳語だけでは見えにくい経路を読むため。,4,0,6
+11,Love,Temporal Concept Flow Map,Recommended,既存資料に基づく原語・遭遇・日本語の変化があり、現在の訳語だけでは見えにくい経路を読むため。,6,0,3
+12,Being,Temporal Concept Flow Map,Recommended,既存資料に基づく原語・遭遇・日本語の変化があり、現在の訳語だけでは見えにくい経路を読むため。,5,0,5
+13,Existence,Temporal Concept Flow Map,Recommended,既存資料に基づく原語・遭遇・日本語の変化があり、現在の訳語だけでは見えにくい経路を読むため。,5,0,5
+14,Beauty,Temporal Concept Flow Map,Recommended,既存資料に基づく原語・遭遇・日本語の変化があり、現在の訳語だけでは見えにくい経路を読むため。,6,0,4
+15,Aesthetics,Temporal Concept Flow Map,Recommended,既存資料に基づく原語・遭遇・日本語の変化があり、現在の訳語だけでは見えにくい経路を読むため。,8,0,3
+16,Society,Temporal Concept Flow Map,Recommended,既存資料に基づく原語・遭遇・日本語の変化があり、現在の訳語だけでは見えにくい経路を読むため。,7,0,3
+17,Public,Temporal Concept Flow Map,Recommended,既存資料に基づく原語・遭遇・日本語の変化があり、現在の訳語だけでは見えにくい経路を読むため。,2,0,7
+18,Culture,Temporal Concept Flow Map,Recommended,既存資料に基づく原語・遭遇・日本語の変化があり、現在の訳語だけでは見えにくい経路を読むため。,8,0,3
+19,Nature,Temporal Concept Flow Map,Recommended,既存資料に基づく原語・遭遇・日本語の変化があり、現在の訳語だけでは見えにくい経路を読むため。,6,0,3
+20,Natural Selection,Temporal Concept Flow Map,Recommended,既存資料に基づく原語・遭遇・日本語の変化があり、現在の訳語だけでは見えにくい経路を読むため。,3,0,7
+21,Liberties,Concept Formation Map · 非年表,Useful,「自由という条件と、個別に保護される領域を見分ける。」という認識を、近接概念との境界と訳語へ結ぶ。現時点の資料だけで歴史的な年表を作らない。,0,10,1
+22,Rule of Law,Concept Formation Map · 非年表,Useful,「法の厳格な執行と、権力自身が法に拘束されることを分ける。」という認識を、近接概念との境界と訳語へ結ぶ。現時点の資料だけで歴史的な年表を作らない。,0,10,1
+23,Rule by Law,Concept Formation Map · 非年表,Useful,「法が権力を拘束する場面と、権力が法を手段とする場面を分ける。」という認識を、近接概念との境界と訳語へ結ぶ。現時点の資料だけで歴史的な年表を作らない。,0,8,1
+24,Order in Law,Concept Formation Map · 非年表,Historical map not appropriate,この版のWorking Comparative Conceptなので、確立した学説の歴史として並べない。比較の組み立てを図にする。,0,9,1
+25,Order by Law,Concept Formation Map · 非年表,Historical map not appropriate,この版のWorking Comparative Conceptなので、確立した学説の歴史として並べない。比較の組み立てを図にする。,0,10,1
+26,Common Law,Concept Formation Map · 非年表,Useful,「判例を通じた法形成と、その修正・補完の関係を捉える。」という認識を、近接概念との境界と訳語へ結ぶ。現時点の資料だけで歴史的な年表を作らない。,0,10,1
+27,Equity,Concept Formation Map · 非年表,Useful,「既存の法的構造への補完・救済と、単なる個人的な公平感を分ける。」という認識を、近接概念との境界と訳語へ結ぶ。現時点の資料だけで歴史的な年表を作らない。,0,10,1
+28,Concept,Concept Formation Map · 非年表,Useful,「名前を覚えたことと、事例を見分け推論できることを分ける。」という認識を、近接概念との境界と訳語へ結ぶ。現時点の資料だけで歴史的な年表を作らない。,0,9,2
+29,Design,Branching Genealogy Map,Recommended,技芸・制作の領域は一本の進化順でなく、分化・制度化・合流として読む方が理解を助ける。共有図は各語の直接の祖先を確定するものではない。,0,0,1
+30,Architecture,Temporal Concept Flow Map,Recommended,資料で支えられた特定の出来事を時間の手がかりにする。ただし、空白の時代や日本語受容経路を補って連続した全史にはしない。,3,0,2
+31,Ethics,Temporal Concept Flow Map,Recommended,資料で支えられた特定の出来事を時間の手がかりにする。ただし、空白の時代や日本語受容経路を補って連続した全史にはしない。,2,0,2
+32,Morality,Translation / Conceptual Re-Cutting Map,Recommended,複数の原語の焦点と日本語の切り分けを並べて読む。左右の配置は年代でも、優劣でもない。,0,5,3
+33,Technology,Branching Genealogy Map,Recommended,技芸・制作の領域は一本の進化順でなく、分化・制度化・合流として読む方が理解を助ける。共有図は各語の直接の祖先を確定するものではない。,0,0,1
+34,Technic,Branching Genealogy Map,Recommended,技芸・制作の領域は一本の進化順でなく、分化・制度化・合流として読む方が理解を助ける。共有図は各語の直接の祖先を確定するものではない。,0,0,1
+35,Function,Translation / Conceptual Re-Cutting Map,Recommended,複数の原語の焦点と日本語の切り分けを並べて読む。左右の配置は年代でも、優劣でもない。,0,9,3
+36,System,Concept Formation Map · 非年表,Useful,「ものの集合と、相互作用によって振る舞うまとまりを分ける。」という認識を、近接概念との境界と訳語へ結ぶ。現時点の資料だけで歴史的な年表を作らない。,0,8,2
+37,Structure,Concept Formation Map · 非年表,Useful,「部品の名前と、部分同士の関係パターンを分ける。」という認識を、近接概念との境界と訳語へ結ぶ。現時点の資料だけで歴史的な年表を作らない。,0,8,2
+38,Form,Translation / Conceptual Re-Cutting Map,Recommended,複数の原語の焦点と日本語の切り分けを並べて読む。左右の配置は年代でも、優劣でもない。,0,9,3
+39,Shape,Concept Formation Map · 非年表,Optional,この版の学習目的では、まず「空間的な形状と、機能・構造・意味の全体を分ける。」を実例と対比で確かめればよい。大きな歴史図は任意とし、認識の組み立てを小さく示す。語に歴史がないという判断ではない。,0,7,2
+40,Art,Branching Genealogy Map,Recommended,技芸・制作の領域は一本の進化順でなく、分化・制度化・合流として読む方が理解を助ける。共有図は各語の直接の祖先を確定するものではない。,0,0,1
+41,Technique,Branching Genealogy Map,Recommended,技芸・制作の領域は一本の進化順でなく、分化・制度化・合流として読む方が理解を助ける。共有図は各語の直接の祖先を確定するものではない。,0,0,1
+42,Arts,Branching Genealogy Map,Recommended,技芸・制作の領域は一本の進化順でなく、分化・制度化・合流として読む方が理解を助ける。共有図は各語の直接の祖先を確定するものではない。,0,0,1
+43,Craft,Branching Genealogy Map,Recommended,技芸・制作の領域は一本の進化順でなく、分化・制度化・合流として読む方が理解を助ける。共有図は各語の直接の祖先を確定するものではない。,0,0,1
+44,Layer,Concept Formation Map · 非年表,Optional,この版の学習目的では、まず「何が別の層として共存しているかを見る。」を実例と対比で確かめればよい。大きな歴史図は任意とし、認識の組み立てを小さく示す。語に歴史がないという判断ではない。,0,8,2
+45,Level,Concept Formation Map · 非年表,Optional,この版の学習目的では、まず「どの順序・尺度における位置かを指定する。」を実例と対比で確かめればよい。大きな歴史図は任意とし、認識の組み立てを小さく示す。語に歴史がないという判断ではない。,0,8,2
+46,Dimension,Concept Formation Map · 非年表,Optional,この版の学習目的では、まず「何が別々に変わりうるかを問う。」を実例と対比で確かめればよい。大きな歴史図は任意とし、認識の組み立てを小さく示す。語に歴史がないという判断ではない。,0,8,2
+47,Element,Concept Formation Map · 非年表,Optional,この版の学習目的では、まず「この問いで何を分析単位として取り出すかを見る。」を実例と対比で確かめればよい。大きな歴史図は任意とし、認識の組み立てを小さく示す。語に歴史がないという判断ではない。,0,8,2
+48,Factor,Concept Formation Map · 非年表,Optional,この版の学習目的では、まず「結果の違いに何が関わるかを見る。」を実例と対比で確かめればよい。大きな歴史図は任意とし、認識の組み立てを小さく示す。語に歴史がないという判断ではない。,0,8,2
+49,Component,Concept Formation Map · 非年表,Optional,この版の学習目的では、まず「どの全体の構成に参加している部分かを問う。」を実例と対比で確かめればよい。大きな歴史図は任意とし、認識の組み立てを小さく示す。語に歴史がないという判断ではない。,0,8,2
+50,Affordance,Temporal Concept Flow Map,Recommended,資料で支えられた特定の出来事を時間の手がかりにする。ただし、空白の時代や日本語受容経路を補って連続した全史にはしない。,3,0,2
+51,Capability,Concept Formation Map · 非年表,Useful,「どの条件で、誰・何が何を実行できるか。」という認識を、近接概念との境界と訳語へ結ぶ。現時点の資料だけで歴史的な年表を作らない。,0,8,2
+52,Feature,Concept Formation Map · 非年表,Optional,この版の学習目的では、まず「何を備えているかを記述する。」を実例と対比で確かめればよい。大きな歴史図は任意とし、認識の組み立てを小さく示す。語に歴史がないという判断ではない。,0,8,2
+53,Signifier,Temporal Concept Flow Map,Recommended,資料で支えられた特定の出来事を時間の手がかりにする。ただし、空白の時代や日本語受容経路を補って連続した全史にはしない。,1,0,2
+54,Constraint,Concept Formation Map · 非年表,Optional,この版の学習目的では、まず「可能な選択の範囲を何が形づくるか。」を実例と対比で確かめればよい。大きな歴史図は任意とし、認識の組み立てを小さく示す。語に歴史がないという判断ではない。,0,8,2
+55,Specification,Concept Formation Map · 非年表,Useful,「何が満たされればよいかを検査可能にする。」という認識を、近接概念との境界と訳語へ結ぶ。現時点の資料だけで歴史的な年表を作らない。,0,8,2
+56,Subject,Translation / Conceptual Re-Cutting Map,Recommended,複数の原語の焦点と日本語の切り分けを並べて読む。左右の配置は年代でも、優劣でもない。,1,5,3
+57,Object,Translation / Conceptual Re-Cutting Map,Recommended,複数の原語の焦点と日本語の切り分けを並べて読む。左右の配置は年代でも、優劣でもない。,1,5,3
+58,Agent,Concept Formation Map · 非年表,Useful,「何が行為を開始し、または担っているか。」という認識を、近接概念との境界と訳語へ結ぶ。現時点の資料だけで歴史的な年表を作らない。,0,8,2
+59,Thing,Concept Formation Map · 非年表,Optional,この版の学習目的では、まず「何を一つの「何か」として数え、指しているか。」を実例と対比で確かめればよい。大きな歴史図は任意とし、認識の組み立てを小さく示す。語に歴史がないという判断ではない。,0,8,2
+60,Goods,Concept Formation Map · 非年表,Useful,「必要・利用・価値・交換の関係の中で何が供給されるか。」という認識を、近接概念との境界と訳語へ結ぶ。現時点の資料だけで歴史的な年表を作らない。,0,8,2
+61,Objectivity,Temporal Concept Flow Map,Recommended,資料で支えられた特定の出来事を時間の手がかりにする。ただし、空白の時代や日本語受容経路を補って連続した全史にはしない。,1,0,2
+62,Subjectivity,Translation / Conceptual Re-Cutting Map,Recommended,複数の原語の焦点と日本語の切り分けを並べて読む。左右の配置は年代でも、優劣でもない。,1,5,3
+63,Engine,Concept Formation Map · 非年表,Useful,「どの中核が入力を変換し、出力を生み続けるか。」という認識を、近接概念との境界と訳語へ結ぶ。現時点の資料だけで歴史的な年表を作らない。,0,8,2
+64,Mechanism,Concept Formation Map · 非年表,Useful,「その結果は、何の相互作用によって生じるか。」という認識を、近接概念との境界と訳語へ結ぶ。現時点の資料だけで歴史的な年表を作らない。,0,8,2
+65,Driver,Concept Formation Map · 非年表,Optional,この版の学習目的では、まず「変化の方向・勢いへ何が強く寄与するか。」を実例と対比で確かめればよい。大きな歴史図は任意とし、認識の組み立てを小さく示す。語に歴史がないという判断ではない。,0,8,2
+66,Process,Concept Formation Map · 非年表,Useful,「何がどの順序・条件で変わっていくか。」という認識を、近接概念との境界と訳語へ結ぶ。現時点の資料だけで歴史的な年表を作らない。,0,8,2
+67,Motor,Concept Formation Map · 非年表,Useful,「エネルギーを運動へ変える働きを物理例から捉える。」という認識を、近接概念との境界と訳語へ結ぶ。現時点の資料だけで歴史的な年表を作らない。,0,8,2
+68,Loop,Concept Formation Map · 非年表,Optional,この版の学習目的では、まず「どこからどこへ戻ってつながるか。」を実例と対比で確かめればよい。大きな歴史図は任意とし、認識の組み立てを小さく示す。語に歴史がないという判断ではない。,0,8,2
+69,Cycle,Concept Formation Map · 非年表,Optional,この版の学習目的では、まず「どの相が巡り、再び現れるか。」を実例と対比で確かめればよい。大きな歴史図は任意とし、認識の組み立てを小さく示す。語に歴史がないという判断ではない。,0,8,2
+70,Recursion,Concept Formation Map · 非年表,Useful,「同じ規則が、自分の一部・結果へ再び適用されるか。」という認識を、近接概念との境界と訳語へ結ぶ。現時点の資料だけで歴史的な年表を作らない。,0,8,2
+71,Iteration,Concept Formation Map · 非年表,Optional,この版の学習目的では、まず「同じ手順を次の回として実行するか。」を実例と対比で確かめればよい。大きな歴史図は任意とし、認識の組み立てを小さく示す。語に歴史がないという判断ではない。,0,8,2
+72,Feedback Loop,Concept Formation Map · 非年表,Useful,「結果・状態の情報が戻り、後続の振る舞いへ作用するか。」という認識を、近接概念との境界と訳語へ結ぶ。現時点の資料だけで歴史的な年表を作らない。,0,8,2
+73,Improvement,Concept Formation Map · 非年表,Useful,「何に照らして、前よりよくなったのか。」という認識を、近接概念との境界と訳語へ結ぶ。現時点の資料だけで歴史的な年表を作らない。,0,8,2
+74,Change,Concept Formation Map · 非年表,Optional,この版の学習目的では、まず「前後で何が異なったかを、良し悪しの前に捉える。」を実例と対比で確かめればよい。大きな歴史図は任意とし、認識の組み立てを小さく示す。語に歴史がないという判断ではない。,0,8,2
+75,Progress,Concept Formation Map · 非年表,Useful,「どの方向・目標に向けて進んだと判断しているか。」という認識を、近接概念との境界と訳語へ結ぶ。現時点の資料だけで歴史的な年表を作らない。,0,8,2
+76,Optimisation,Concept Formation Map · 非年表,Useful,「どの目的関数と制約の下で、より望ましい解を探すか。」という認識を、近接概念との境界と訳語へ結ぶ。現時点の資料だけで歴史的な年表を作らない。,0,8,2
+77,Development,Concept Formation Map · 非年表,Useful,「何が形成され、能力や構成が展開していくか。」という認識を、近接概念との境界と訳語へ結ぶ。現時点の資料だけで歴史的な年表を作らない。,0,8,2
+78,Refinement,Concept Formation Map · 非年表,Optional,この版の学習目的では、まず「既存のものをどの細部・精度・整合性で詰めるか。」を実例と対比で確かめればよい。大きな歴史図は任意とし、認識の組み立てを小さく示す。語に歴史がないという判断ではない。,0,8,2
+79,Criterion,Concept Formation Map · 非年表,Optional,この版の学習目的では、まず「何について判断するか、どの条件でよしとするか。」を実例と対比で確かめればよい。大きな歴史図は任意とし、認識の組み立てを小さく示す。語に歴史がないという判断ではない。,0,8,2
+80,Standard,Concept Formation Map · 非年表,Optional,この版の学習目的では、まず「何が共有された準拠条件・水準になっているか。」を実例と対比で確かめればよい。大きな歴史図は任意とし、認識の組み立てを小さく示す。語に歴史がないという判断ではない。,0,8,2
+81,Benchmark,Concept Formation Map · 非年表,Optional,この版の学習目的では、まず「何と比べて位置や違いを確かめるか。」を実例と対比で確かめればよい。大きな歴史図は任意とし、認識の組み立てを小さく示す。語に歴史がないという判断ではない。,0,8,2
+82,Analysis,Translation / Conceptual Re-Cutting Map,Recommended,複数の原語の焦点と日本語の切り分けを並べて読む。左右の配置は年代でも、優劣でもない。,0,7,3
+83,Synthesis,Concept Formation Map · 非年表,Useful,「分けて得たものを、どの関係でまとまりにするか。」という認識を、近接概念との境界と訳語へ結ぶ。現時点の資料だけで歴史的な年表を作らない。,0,8,2
+84,Evaluation,Concept Formation Map · 非年表,Useful,「何を基準に、どの程度よい・適切と判断するか。」という認識を、近接概念との境界と訳語へ結ぶ。現時点の資料だけで歴史的な年表を作らない。,0,8,2
+85,Interpretation,Concept Formation Map · 非年表,Useful,「この文脈では、何を意味すると読めるか。」という認識を、近接概念との境界と訳語へ結ぶ。現時点の資料だけで歴史的な年表を作らない。,0,8,2
+86,Explanation,Concept Formation Map · 非年表,Useful,「なぜ・どのようにそうなるのかを理解可能にする。」という認識を、近接概念との境界と訳語へ結ぶ。現時点の資料だけで歴史的な年表を作らない。,0,8,2
+87,Description,Concept Formation Map · 非年表,Optional,この版の学習目的では、まず「何が観察・記録されたかを他者がたどれるように示す。」を実例と対比で確かめればよい。大きな歴史図は任意とし、認識の組み立てを小さく示す。語に歴史がないという判断ではない。,0,8,2

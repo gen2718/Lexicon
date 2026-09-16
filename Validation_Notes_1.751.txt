@@ -1,0 +1,32 @@
+Version 1.751 · Validation · 2026-09-15
+
+自動検査436項目を通過。全87概念の描画、ノード配置、参照、既存87本文・86対比・87音声の保持を確認。Safari実機でのVersion 1.751の表示・操作・実音声および狭い画面幅の確認は未完了。既存版での確認と今回の確認を区別する。
+
+{
+  "flowMapNodes": 566,
+  "flowMapEdges": 534,
+  "mapModes": {
+    "history": 25,
+    "branch": 7,
+    "translation": 7,
+    "recognition": 48
+  },
+  "checks": 436,
+  "mainConcepts": 87,
+  "preservedEntries": 87,
+  "preservedContrastRecords": 86,
+  "contrasts": 86,
+  "feedbackBranches": 522,
+  "polysemyModes": 23,
+  "recuttingCases": 3,
+  "families": 17,
+  "routes": 15,
+  "genealogyNodes": 13,
+  "genealogyEdges": 14,
+  "audio": 87,
+  "publicScan": "pass",
+  "runtimeNetworkDependencies": 0,
+  "limitations": "VM is not Safari or proof of learning."
+}
+
+566ノード・534接続に加え、7概念は既存の共有系譜図13ノード・14接続を使用します。配置検査はノード矩形の重なりを対象にし、全接続線の視覚的な交差評価を保証しません。出典の外部リンクは利用者が開く場合のみ通信します。
