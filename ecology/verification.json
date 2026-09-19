@@ -1,0 +1,94 @@
+{
+  "passed": 22,
+  "method": "Source data and actual event handlers in a simulated DOM; not Safari pixel QA",
+  "checks": [
+    {
+      "name": "Six source hypothesis seeds, detached Class and unfilled compatibility values",
+      "passed": true
+    },
+    {
+      "name": "Default is six equal-size work nodes with no active overlays",
+      "passed": true
+    },
+    {
+      "name": "Every network has unique identities, valid endpoints and preserved operator grammar",
+      "passed": true
+    },
+    {
+      "name": "All work inspectors, six Micro views and 30 distinct Compare pairs render",
+      "passed": true
+    },
+    {
+      "name": "All eight overlay combinations keep every node; no Class-driven repositioning",
+      "passed": true
+    },
+    {
+      "name": "Calibration pointer drag, previous-state record, keyboard and note save handlers",
+      "passed": true
+    },
+    {
+      "name": "Pan, zoom and Fit all alter camera only; coordinate round trips remain calibrated",
+      "passed": true
+    },
+    {
+      "name": "Boundary coordinates remain visible; individual and all resets preserve notes",
+      "passed": true
+    },
+    {
+      "name": "Concept selection, current overlays and metadata survive JSON round trip",
+      "passed": true
+    },
+    {
+      "name": "Export handlers create JSON and plain text with notes, concepts and overlay state",
+      "passed": true
+    },
+    {
+      "name": "Macro label layout avoids overlap with all three overlays together",
+      "passed": true
+    },
+    {
+      "name": "Malformed imports rejected, unsupported IDs dropped, notes safely rendered",
+      "passed": true
+    },
+    {
+      "name": "Offline artifact, no local-user paths, complete disclosure and runtime error guard",
+      "passed": true
+    },
+    {
+      "name": "v0.1 work-level analysis, all six initial coordinates and all original identities preserved",
+      "passed": true
+    },
+    {
+      "name": "Both axes have five operational anchors and a non-scoring working hypothesis",
+      "passed": true
+    },
+    {
+      "name": "Fractional drag snaps to integer and displayed coordinates never claim decimal precision",
+      "passed": true
+    },
+    {
+      "name": "Four Edge types use arrows, undirected coupling, inhibition bars and shared convergence junctions",
+      "passed": true
+    },
+    {
+      "name": "All six networks and Compare pairs honour each Relation filter without losing nodes",
+      "passed": true
+    },
+    {
+      "name": "Institution-wide constraints, historical field, distributed pair and strong Closer centre remain distinct",
+      "passed": true
+    },
+    {
+      "name": "Real JSON Import handler accepts v0.1 decimals without moving or rounding the stored position",
+      "passed": true
+    },
+    {
+      "name": "Note-only changes and Export do not silently snap imported decimal coordinates",
+      "passed": true
+    },
+    {
+      "name": "Explicit coordinate editing snaps to integer; reset-all restores unchanged six seeds",
+      "passed": true
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "version": "0.11",
+  "date": "2026-09-19",
+  "checks": {
+    "embedded_dataset_matches_json": true,
+    "clean_initial_notes": true,
+    "six_works": true,
+    "baseline_v01_dataset_unchanged": true,
+    "share_files_no_origin_paths": true,
+    "no_external_runtime_dependencies": true
+  },
+  "files": {
+    "detective-cognitive-ecology-v0.11.html": {
+      "bytes": 160110,
+      "sha256": "67e42ed5bfb02be5f6fbbf74a376946a2b4bc9e6fb4585b59e13473e1a4d680c"
+    },
+    "data.json": {
+      "bytes": 125321,
+      "sha256": "2b06764ff430ad016f9c165f0c7614db58c6a138d491091c99d2a643668fe941"
+    },
+    "README.md": {
+      "bytes": 5424,
+      "sha256": "ab34a72214ef0a3a93cdc668616ccb80608a52433f041337ab06ab91c9a2b98d"
+    },
+    "Design-Notes.md": {
+      "bytes": 5505,
+      "sha256": "5130e7927acdb9e75a98d431c8f704a79325070bb9771edc82d7fe4eb80b8a3c"
+    },
+    "CHANGELOG.md": {
+      "bytes": 1297,
+      "sha256": "7dc336e6cef0f445bfaafde591d1521407276a8765d026185c6d7701ab23cee5"
+    },
+    "Requirements-Verification.md": {
+      "bytes": 3034,
+      "sha256": "3f0ca1597aaf770e991c4c913dbd77364b8bc110dd49c9e66e44d859861f34f0"
+    },
+    "Verification-Notes.md": {
+      "bytes": 3586,
+      "sha256": "8ed4c9c1d2eecdeadcfacdbbfe5500bc14d9afe18eeda8d187fe417673258b94"
+    },
+    "verification.json": {
+      "bytes": 3051,
+      "sha256": "f406a7de40ba20f56248c9091118c4511f835eeaafa2415a1062eda7ec072d4c"
+    }
+  }
+}

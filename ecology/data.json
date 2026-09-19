@@ -1,0 +1,3288 @@
+{
+  "schema": "detective-cognitive-ecology/0.11",
+  "version": "0.11",
+  "framework": "Alpha Version 6.0",
+  "snapshotId": "dce-0.11-calibration-release-20260919",
+  "revision": "Version 0.11 · Initial hypotheses preserved",
+  "reviewer": "",
+  "coreQuestion": "認知主体はどこに存在し、Viewerは何をEvidenceとして読み、どの時間幅・文脈幅でReality Reconstructionを行うのか？",
+  "operationalDefinition": "Investigator × Evidence Interface × Social / Institutional / Historical / Cultural / Environmental World × Temporal Integration × Viewer Reconstruction ▶︎ Detective Cognitive Ecology",
+  "generalModel": [
+    "Hidden State",
+    "Evidence Interface",
+    "Cognitive Operation",
+    "Temporal Integration",
+    "Reality Reconstruction"
+  ],
+  "axes": {
+    "x": "Character-Centred Cognitive Agency ↔ Distributed Ecological Cognition",
+    "y": "Direct Evidential Processing ↔ Contextual / Semantic Reconstruction",
+    "range": [
+      0,
+      100
+    ],
+    "meaning": "Analytical coordinates, not sophistication scores"
+  },
+  "temporalDefinition": "The designed placement, duration, ordering, delay, and reconfiguration of cognitive integration across audiovisual experience.",
+  "integrationLoci": [
+    "Shot",
+    "Scene",
+    "Sequence",
+    "Episode",
+    "Series",
+    "Character Pair",
+    "Institution",
+    "Historical Context",
+    "Environment"
+  ],
+  "operators": {
+    "+": "Aggregation / 集積",
+    "−": "Inhibition / 抑制",
+    "×": "Interaction / 相互作用",
+    "▶︎": "Transformation / 変換"
+  },
+  "compatibilitySchema": {
+    "function": [
+      "Transformer",
+      "Amplifier",
+      "Integrator",
+      "Constraint",
+      "Re-contextualiser"
+    ],
+    "layerReach": [
+      "LR-1",
+      "LR-2",
+      "LR-3",
+      "LR-4"
+    ],
+    "path": [
+      "Activation",
+      "Integration",
+      "Epistemic",
+      "Experiential / Semantic"
+    ]
+  },
+  "works": [
+    {
+      "id": "granada",
+      "title": "Granada Sherlock Holmes",
+      "short": "Granada Holmes",
+      "year": "1984–1994",
+      "initial": {
+        "x": 30,
+        "y": 40
+      },
+      "architecture": [
+        "World",
+        "Perception",
+        "Discrimination",
+        "Abduction",
+        "Delayed Integration",
+        "Reconstruction"
+      ],
+      "evidence": [
+        "Object",
+        "Physical Detail",
+        "Behavioural Detail",
+        "Social Code",
+        "Urban Information"
+      ],
+      "evidenceOverlay": "Object / Detail / Behaviour / Social Code",
+      "hiddenState": "Latent causal structure of the world",
+      "concepts": [
+        "Holmesian Cognitive Architecture Preservation",
+        "Holmesian Cognitive Ecology",
+        "Decodable World",
+        "Micro-Behavioural Evidentiary Field",
+        "Integration Delay",
+        "Low-Amplitude High-Information Acting"
+      ],
+      "microBehaviour": "Behaviour ▶︎ Cognitive Process Information",
+      "environment": "Environment as Decodable World",
+      "temporal": {
+        "path": "Observation ▶︎ Later Explanation",
+        "window": "Medium Integration Delay",
+        "loci": [
+          "Shot",
+          "Scene",
+          "Sequence",
+          "Episode"
+        ]
+      },
+      "formalism": "Low–Medium",
+      "classMetadata": "S-Class",
+      "interpretation": "物・細部・振る舞いが、すでに存在する世界の因果を読む手掛かりになる。Holmesの選別と推論、後の説明、Viewerの再構成の間に時間差を置く。",
+      "analyticalStatus": "Initial hypothesis / 初期仮説・ユーザー提供分析",
+      "hiddenStateExternalisation": {
+        "observableEvidence": [
+          "Object",
+          "Physical Detail",
+          "Behavioural Detail",
+          "Social Code",
+          "Urban Information"
+        ],
+        "inferredState": "Latent causal structure of the world",
+        "definition": "Observable audiovisual information transforms an otherwise invisible cognitive, institutional, moral, social or causal state into something the Viewer can infer."
+      },
+      "compatibility": {
+        "function": [],
+        "layerReach": [],
+        "path": [],
+        "sophisticationContribution": null,
+        "secondPass": {
+          "nodeIdentityTracking": "granada",
+          "episodeDelta": null,
+          "backwardRecontextualisationLinks": [],
+          "coordinateCalibration": "work-level hypothesis",
+          "seriesBoundaryCrossing": []
+        },
+        "status": "Reserved metadata; 未提供値は未設定。座標から推定しない。"
+      },
+      "network": {
+        "nodes": [
+          {
+            "id": "granada:n1",
+            "label": "Object / Detail",
+            "type": "Evidence Interface",
+            "x": 115,
+            "y": 90,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "granada:n1",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "granada:n2",
+            "label": "Holmes Perception",
+            "type": "Character",
+            "x": 365,
+            "y": 90,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "granada:n2",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "granada:n3",
+            "label": "Salience Detection",
+            "type": "Cognitive Operator",
+            "x": 615,
+            "y": 90,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "granada:n3",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "granada:n4",
+            "label": "Abduction",
+            "type": "Cognitive Operator",
+            "x": 865,
+            "y": 90,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "granada:n4",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "granada:n5",
+            "label": "Integration Delay",
+            "type": "Temporal Integration",
+            "x": 865,
+            "y": 285,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "granada:n5",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "granada:n6",
+            "label": "Explanation",
+            "type": "Cognitive Operator",
+            "x": 615,
+            "y": 285,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "granada:n6",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "granada:n7",
+            "label": "Reality Reconstruction",
+            "type": "Outcome",
+            "x": 365,
+            "y": 285,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "granada:n7",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "granada:hidden",
+            "label": "Latent causal structure of the world",
+            "type": "Hidden State",
+            "x": 115,
+            "y": 485,
+            "description": "直接観察できないが、Observable EvidenceからViewerが推論する状態。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "granada:hidden",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "granada:viewer",
+            "label": "Viewer Reconstruction",
+            "type": "Viewer Reconstruction",
+            "x": 615,
+            "y": 485,
+            "description": "観察可能な情報と作品の文脈を統合し、隠れた現実を再構成する。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "granada:viewer",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "granada:world",
+            "label": "Decodable World / Social Code",
+            "type": "Environment",
+            "x": 115,
+            "y": 285,
+            "description": "Decodable World：世界は細部・行動・社会コードとして読むことができる。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "granada:world",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "granada:watson",
+            "label": "Watson",
+            "type": "Character",
+            "x": 865,
+            "y": 485,
+            "description": "Holmesの強い認知中心を保ちながら、Holmesian Cognitive Ecologyへの参加を明示する。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "granada:watson",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          }
+        ],
+        "edges": [
+          {
+            "id": "granada:edge-1",
+            "source": "granada:n1",
+            "target": "granada:n2",
+            "operator": "▶︎",
+            "reason": "前の認知処理／条件が、次の処理や読解へ変換される。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "granada:edge-2",
+            "source": "granada:n2",
+            "target": "granada:n3",
+            "operator": "▶︎",
+            "reason": "前の認知処理／条件が、次の処理や読解へ変換される。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "granada:edge-3",
+            "source": "granada:n3",
+            "target": "granada:n4",
+            "operator": "▶︎",
+            "reason": "前の認知処理／条件が、次の処理や読解へ変換される。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "granada:edge-4",
+            "source": "granada:n4",
+            "target": "granada:n5",
+            "operator": "▶︎",
+            "reason": "前の認知処理／条件が、次の処理や読解へ変換される。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "granada:edge-5",
+            "source": "granada:n5",
+            "target": "granada:n6",
+            "operator": "▶︎",
+            "reason": "前の認知処理／条件が、次の処理や読解へ変換される。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "granada:edge-6",
+            "source": "granada:n6",
+            "target": "granada:n7",
+            "operator": "▶︎",
+            "reason": "前の認知処理／条件が、次の処理や読解へ変換される。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "granada:edge-7",
+            "source": "granada:n1",
+            "target": "granada:hidden",
+            "operator": "▶︎",
+            "reason": "Hidden State Externalisation：観察可能な情報が、隠れた状態を推論可能にする。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "granada:edge-8",
+            "source": "granada:hidden",
+            "target": "granada:viewer",
+            "operator": "+",
+            "reason": "推論されたHidden Stateを再構成へ集積する。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "aggregation",
+            "direction": "converging",
+            "convergenceGroup": "granada:join:granada:viewer"
+          },
+          {
+            "id": "granada:edge-9",
+            "source": "granada:n7",
+            "target": "granada:viewer",
+            "operator": "▶︎",
+            "reason": "作品内の帰結を、ViewerのReality Reconstructionへ接続する。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "granada:edge-10",
+            "source": "granada:world",
+            "target": "granada:n2",
+            "operator": "×",
+            "reason": "解読可能な環境とHolmesの知覚が相互作用する。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "coupling",
+            "direction": "none"
+          },
+          {
+            "id": "granada:v011-holmes-watson",
+            "source": "granada:n2",
+            "target": "granada:watson",
+            "operator": "×",
+            "reason": "Holmes × Watson：強いCognitive Centreを維持した人物間の認知的関係。",
+            "provenance": "Version 0.11 user-specified ecological hypothesis; no new score or causal measurement",
+            "type": "coupling",
+            "direction": "none"
+          },
+          {
+            "id": "granada:v011-watson-world",
+            "source": "granada:watson",
+            "target": "granada:world",
+            "operator": "×",
+            "reason": "Watson × Decodable World / Social Code：解読可能な世界と人物間の相互関係。",
+            "provenance": "Version 0.11 user-specified ecological hypothesis; no new score or causal measurement",
+            "type": "coupling",
+            "direction": "none"
+          }
+        ],
+        "provenance": "User-provided example chains; node typing, layout and supplemental edges are editorial hypotheses. Version 0.11 distinguishes processing, coupling, constraint and aggregation without changing work scores or Macro coordinates.",
+        "ecologyNote": "Holmesを強いCognitive Centreとして維持する。同時にHolmes × Watson × Decodable World / Social Codeが存在し、個人の処理だけでは表せない関係も持つ。"
+      },
+      "evidenceFamilies": [
+        "Material Detail",
+        "Behaviour",
+        "Social Context",
+        "Place"
+      ],
+      "conceptRecords": [
+        {
+          "id": "granada:concept-1",
+          "label": "Holmesian Cognitive Architecture Preservation",
+          "metadata": {
+            "function": [],
+            "layerReach": [],
+            "path": [],
+            "sophisticationContribution": null,
+            "secondPass": {
+              "nodeIdentityTracking": "granada:concept-1",
+              "episodeDelta": null,
+              "backwardRecontextualisationLinks": [],
+              "coordinateCalibration": null,
+              "seriesBoundaryCrossing": []
+            }
+          }
+        },
+        {
+          "id": "granada:concept-2",
+          "label": "Holmesian Cognitive Ecology",
+          "metadata": {
+            "function": [],
+            "layerReach": [],
+            "path": [],
+            "sophisticationContribution": null,
+            "secondPass": {
+              "nodeIdentityTracking": "granada:concept-2",
+              "episodeDelta": null,
+              "backwardRecontextualisationLinks": [],
+              "coordinateCalibration": null,
+              "seriesBoundaryCrossing": []
+            }
+          }
+        },
+        {
+          "id": "granada:concept-3",
+          "label": "Decodable World",
+          "metadata": {
+            "function": [],
+            "layerReach": [],
+            "path": [],
+            "sophisticationContribution": null,
+            "secondPass": {
+              "nodeIdentityTracking": "granada:concept-3",
+              "episodeDelta": null,
+              "backwardRecontextualisationLinks": [],
+              "coordinateCalibration": null,
+              "seriesBoundaryCrossing": []
+            }
+          }
+        },
+        {
+          "id": "granada:concept-4",
+          "label": "Micro-Behavioural Evidentiary Field",
+          "metadata": {
+            "function": [],
+            "layerReach": [],
+            "path": [],
+            "sophisticationContribution": null,
+            "secondPass": {
+              "nodeIdentityTracking": "granada:concept-4",
+              "episodeDelta": null,
+              "backwardRecontextualisationLinks": [],
+              "coordinateCalibration": null,
+              "seriesBoundaryCrossing": []
+            }
+          }
+        },
+        {
+          "id": "granada:concept-5",
+          "label": "Integration Delay",
+          "metadata": {
+            "function": [],
+            "layerReach": [],
+            "path": [],
+            "sophisticationContribution": null,
+            "secondPass": {
+              "nodeIdentityTracking": "granada:concept-5",
+              "episodeDelta": null,
+              "backwardRecontextualisationLinks": [],
+              "coordinateCalibration": null,
+              "seriesBoundaryCrossing": []
+            }
+          }
+        },
+        {
+          "id": "granada:concept-6",
+          "label": "Low-Amplitude High-Information Acting",
+          "metadata": {
+            "function": [],
+            "layerReach": [],
+            "path": [],
+            "sophisticationContribution": null,
+            "secondPass": {
+              "nodeIdentityTracking": "granada:concept-6",
+              "episodeDelta": null,
+              "backwardRecontextualisationLinks": [],
+              "coordinateCalibration": null,
+              "seriesBoundaryCrossing": []
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "prime",
+      "title": "Prime Suspect",
+      "short": "Prime Suspect",
+      "year": "1991–2006",
+      "initial": {
+        "x": 70,
+        "y": 44
+      },
+      "architecture": [
+        "Evidence",
+        "Procedure",
+        "Institutional Friction",
+        "Verification / Authority",
+        "Operational Reality"
+      ],
+      "evidence": [
+        "Police Procedure",
+        "Behaviour",
+        "Institutional Resistance",
+        "Authority",
+        "Witness Interaction",
+        "Forensic Evidence"
+      ],
+      "evidenceOverlay": "Procedure / Behaviour / Institution / Forensic Evidence",
+      "hiddenState": "Institutional power, resistance and operational reality",
+      "concepts": [
+        "Invisible Formalism",
+        "Low-Salience High-Integration Architecture",
+        "Temporal Friction Realism",
+        "Micro-Behavioural Evidentiary Field",
+        "Institutional Behavioural Process"
+      ],
+      "microBehaviour": "Behaviour ▶︎ Authority / Resistance / Institutional Relationship",
+      "environment": "Environment as Institution",
+      "temporal": {
+        "path": "Procedure ▶︎ Verification ▶︎ Institutional Action",
+        "window": "Medium–Long Integration Delay",
+        "loci": [
+          "Scene",
+          "Sequence",
+          "Episode",
+          "Institution"
+        ]
+      },
+      "formalism": "Very Low Visibility",
+      "classMetadata": "Upper B-Class / A-Class Border — provisional analytical position",
+      "interpretation": "Recognition ≠ Action。知ることと実行することの間に、証拠・手続・権限・抵抗が介在する。制度は背景ではなく、認知を行動可能な現実へ変える構造の一部。",
+      "analyticalStatus": "Initial hypothesis / 初期仮説・ユーザー提供分析",
+      "hiddenStateExternalisation": {
+        "observableEvidence": [
+          "Police Procedure",
+          "Behaviour",
+          "Institutional Resistance",
+          "Authority",
+          "Witness Interaction",
+          "Forensic Evidence"
+        ],
+        "inferredState": "Institutional power, resistance and operational reality",
+        "definition": "Observable audiovisual information transforms an otherwise invisible cognitive, institutional, moral, social or causal state into something the Viewer can infer."
+      },
+      "compatibility": {
+        "function": [],
+        "layerReach": [],
+        "path": [],
+        "sophisticationContribution": null,
+        "secondPass": {
+          "nodeIdentityTracking": "prime",
+          "episodeDelta": null,
+          "backwardRecontextualisationLinks": [],
+          "coordinateCalibration": "work-level hypothesis",
+          "seriesBoundaryCrossing": []
+        },
+        "status": "Reserved metadata; 未提供値は未設定。座標から推定しない。"
+      },
+      "network": {
+        "nodes": [
+          {
+            "id": "prime:n1",
+            "label": "Evidence",
+            "type": "Evidence Interface",
+            "x": 115,
+            "y": 90,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "prime:n1",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "prime:n2",
+            "label": "Behaviour",
+            "type": "Evidence Interface",
+            "x": 365,
+            "y": 90,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "prime:n2",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "prime:n3",
+            "label": "Police Procedure",
+            "type": "Cognitive Operator",
+            "x": 615,
+            "y": 90,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "prime:n3",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "prime:n4",
+            "label": "Institutional Friction",
+            "type": "Constraint",
+            "x": 865,
+            "y": 90,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "prime:n4",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "prime:n5",
+            "label": "Verification",
+            "type": "Cognitive Operator",
+            "x": 865,
+            "y": 285,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "prime:n5",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "prime:n6",
+            "label": "Temporal Friction",
+            "type": "Temporal Integration",
+            "x": 615,
+            "y": 285,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "prime:n6",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "prime:n7",
+            "label": "Operational Reality",
+            "type": "Outcome",
+            "x": 365,
+            "y": 285,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "prime:n7",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "prime:hidden",
+            "label": "Institutional power, resistance and operational reality",
+            "type": "Hidden State",
+            "x": 115,
+            "y": 485,
+            "description": "直接観察できないが、Observable EvidenceからViewerが推論する状態。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "prime:hidden",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "prime:viewer",
+            "label": "Viewer Reconstruction",
+            "type": "Viewer Reconstruction",
+            "x": 615,
+            "y": 485,
+            "description": "観察可能な情報と作品の文脈を統合し、隠れた現実を再構成する。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "prime:viewer",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "prime:action",
+            "label": "Immediate Action",
+            "type": "Outcome",
+            "x": 115,
+            "y": 285,
+            "description": "Recognition ≠ Action：認識だけでは直ちに行動できない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "prime:action",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "prime:institution",
+            "label": "Police Institution",
+            "type": "Environment",
+            "x": 865,
+            "y": 485,
+            "description": "制度は背景や障害だけでなく、認知を構成する要素となるという仮説。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "prime:institution",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          }
+        ],
+        "edges": [
+          {
+            "id": "prime:edge-1",
+            "source": "prime:n1",
+            "target": "prime:n2",
+            "operator": "▶︎",
+            "reason": "前の認知処理／条件が、次の処理や読解へ変換される。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "prime:edge-2",
+            "source": "prime:n2",
+            "target": "prime:n3",
+            "operator": "▶︎",
+            "reason": "前の認知処理／条件が、次の処理や読解へ変換される。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "prime:edge-3",
+            "source": "prime:n3",
+            "target": "prime:n4",
+            "operator": "▶︎",
+            "reason": "前の認知処理／条件が、次の処理や読解へ変換される。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "prime:edge-4",
+            "source": "prime:n4",
+            "target": "prime:n5",
+            "operator": "▶︎",
+            "reason": "前の認知処理／条件が、次の処理や読解へ変換される。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "prime:edge-5",
+            "source": "prime:n5",
+            "target": "prime:n6",
+            "operator": "▶︎",
+            "reason": "前の認知処理／条件が、次の処理や読解へ変換される。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "prime:edge-6",
+            "source": "prime:n6",
+            "target": "prime:n7",
+            "operator": "▶︎",
+            "reason": "前の認知処理／条件が、次の処理や読解へ変換される。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "prime:edge-7",
+            "source": "prime:n1",
+            "target": "prime:hidden",
+            "operator": "▶︎",
+            "reason": "Hidden State Externalisation：観察可能な情報が、隠れた状態を推論可能にする。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "prime:edge-8",
+            "source": "prime:hidden",
+            "target": "prime:viewer",
+            "operator": "+",
+            "reason": "推論されたHidden Stateを再構成へ集積する。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "aggregation",
+            "direction": "converging",
+            "convergenceGroup": "prime:join:prime:viewer"
+          },
+          {
+            "id": "prime:edge-9",
+            "source": "prime:n7",
+            "target": "prime:viewer",
+            "operator": "▶︎",
+            "reason": "作品内の帰結を、ViewerのReality Reconstructionへ接続する。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "prime:edge-10",
+            "source": "prime:n4",
+            "target": "prime:action",
+            "operator": "−",
+            "reason": "Institutional FrictionがImmediate Actionを抑制する。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "constraint",
+            "direction": "inhibitory"
+          },
+          {
+            "id": "prime:edge-11",
+            "source": "prime:n3",
+            "target": "prime:n7",
+            "operator": "+",
+            "reason": "証拠に手続が加わり、実行可能な現実を組み立てる。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "aggregation",
+            "direction": "converging",
+            "convergenceGroup": "prime:join:prime:n7"
+          },
+          {
+            "id": "prime:v011-institution-procedure",
+            "source": "prime:institution",
+            "target": "prime:n3",
+            "operator": "×",
+            "reason": "Police Institution × Police Procedure：制度と手続が共同で、何を知り、確かめ、実行できるかを決める。",
+            "provenance": "Version 0.11 user-specified ecological hypothesis; no new score or causal measurement",
+            "type": "coupling",
+            "direction": "none"
+          },
+          {
+            "id": "prime:v011-procedure-behaviour",
+            "source": "prime:n3",
+            "target": "prime:n2",
+            "operator": "×",
+            "reason": "Procedure × Behaviour：手続と振る舞いが相互に権限・抵抗の意味を変える。",
+            "provenance": "Version 0.11 user-specified ecological hypothesis; no new score or causal measurement",
+            "type": "coupling",
+            "direction": "none"
+          },
+          {
+            "id": "prime:v011-institution-behaviour",
+            "source": "prime:institution",
+            "target": "prime:n2",
+            "operator": "×",
+            "reason": "Institution × Behaviour：制度内の関係と行動が相互に認知を構成する。",
+            "provenance": "Version 0.11 user-specified ecological hypothesis; no new score or causal measurement",
+            "type": "coupling",
+            "direction": "none"
+          },
+          {
+            "id": "prime:v011-institution-friction",
+            "source": "prime:institution",
+            "target": "prime:n4",
+            "operator": "×",
+            "reason": "Institution × Institutional Friction：摩擦は一段階の処理に限定されず、制度全体の関係から生じる。",
+            "provenance": "Version 0.11 user-specified ecological hypothesis; no new score or causal measurement",
+            "type": "coupling",
+            "direction": "none"
+          },
+          {
+            "id": "prime:v011-friction-verification",
+            "source": "prime:n4",
+            "target": "prime:n5",
+            "operator": "−",
+            "reason": "Institutional FrictionがVerificationの進行と実行可能性を制限する。",
+            "provenance": "Version 0.11 user-specified ecological hypothesis; no new score or causal measurement",
+            "type": "constraint",
+            "direction": "inhibitory"
+          },
+          {
+            "id": "prime:v011-friction-procedure",
+            "source": "prime:n4",
+            "target": "prime:n3",
+            "operator": "−",
+            "reason": "System-wide Constraint：制度的摩擦がProcedureへ継続的に作用する。",
+            "provenance": "Version 0.11 user-specified ecological hypothesis; no new score or causal measurement",
+            "type": "constraint",
+            "direction": "inhibitory"
+          },
+          {
+            "id": "prime:v011-evidence-reality",
+            "source": "prime:n1",
+            "target": "prime:n7",
+            "operator": "+",
+            "reason": "EvidenceとVerificationをOperational Realityの成立条件として集積する。",
+            "provenance": "Version 0.11 user-specified ecological hypothesis; no new score or causal measurement",
+            "type": "aggregation",
+            "direction": "converging",
+            "convergenceGroup": "prime:join:prime:n7"
+          },
+          {
+            "id": "prime:v011-verification-reality",
+            "source": "prime:n5",
+            "target": "prime:n7",
+            "operator": "+",
+            "reason": "VerificationをEvidenceと同じ集積点へ接続する。",
+            "provenance": "Version 0.11 user-specified ecological hypothesis; no new score or causal measurement",
+            "type": "aggregation",
+            "direction": "converging",
+            "convergenceGroup": "prime:join:prime:n7"
+          }
+        ],
+        "provenance": "User-provided example chains; node typing, layout and supplemental edges are editorial hypotheses. Version 0.11 distinguishes processing, coupling, constraint and aggregation without changing work scores or Macro coordinates.",
+        "ecologyNote": "Institution × Procedure × Behaviourが認知を共同構成する。Institutional FrictionはImmediate Actionに加え、手続と検証にも作用するSystem-wide Constraintとして読む。"
+      },
+      "evidenceFamilies": [
+        "Procedure",
+        "Behaviour",
+        "Institution",
+        "Material Detail"
+      ],
+      "conceptRecords": [
+        {
+          "id": "prime:concept-1",
+          "label": "Invisible Formalism",
+          "metadata": {
+            "function": [],
+            "layerReach": [],
+            "path": [],
+            "sophisticationContribution": null,
+            "secondPass": {
+              "nodeIdentityTracking": "prime:concept-1",
+              "episodeDelta": null,
+              "backwardRecontextualisationLinks": [],
+              "coordinateCalibration": null,
+              "seriesBoundaryCrossing": []
+            }
+          }
+        },
+        {
+          "id": "prime:concept-2",
+          "label": "Low-Salience High-Integration Architecture",
+          "metadata": {
+            "function": [],
+            "layerReach": [],
+            "path": [],
+            "sophisticationContribution": null,
+            "secondPass": {
+              "nodeIdentityTracking": "prime:concept-2",
+              "episodeDelta": null,
+              "backwardRecontextualisationLinks": [],
+              "coordinateCalibration": null,
+              "seriesBoundaryCrossing": []
+            }
+          }
+        },
+        {
+          "id": "prime:concept-3",
+          "label": "Temporal Friction Realism",
+          "metadata": {
+            "function": [],
+            "layerReach": [],
+            "path": [],
+            "sophisticationContribution": null,
+            "secondPass": {
+              "nodeIdentityTracking": "prime:concept-3",
+              "episodeDelta": null,
+              "backwardRecontextualisationLinks": [],
+              "coordinateCalibration": null,
+              "seriesBoundaryCrossing": []
+            }
+          }
+        },
+        {
+          "id": "prime:concept-4",
+          "label": "Micro-Behavioural Evidentiary Field",
+          "metadata": {
+            "function": [],
+            "layerReach": [],
+            "path": [],
+            "sophisticationContribution": null,
+            "secondPass": {
+              "nodeIdentityTracking": "prime:concept-4",
+              "episodeDelta": null,
+              "backwardRecontextualisationLinks": [],
+              "coordinateCalibration": null,
+              "seriesBoundaryCrossing": []
+            }
+          }
+        },
+        {
+          "id": "prime:concept-5",
+          "label": "Institutional Behavioural Process",
+          "metadata": {
+            "function": [],
+            "layerReach": [],
+            "path": [],
+            "sophisticationContribution": null,
+            "secondPass": {
+              "nodeIdentityTracking": "prime:concept-5",
+              "episodeDelta": null,
+              "backwardRecontextualisationLinks": [],
+              "coordinateCalibration": null,
+              "seriesBoundaryCrossing": []
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "foyle",
+      "title": "Foyle’s War",
+      "short": "Foyle’s War",
+      "year": "2002–2015",
+      "initial": {
+        "x": 78,
+        "y": 88
+      },
+      "architecture": [
+        "History",
+        "Constraint",
+        "Human Choice",
+        "Moral Judgement",
+        "Meaning"
+      ],
+      "evidence": [
+        "Historical Context",
+        "Social Constraint",
+        "Behaviour",
+        "Moral Choice",
+        "Off-Screen Historical Pressure"
+      ],
+      "evidenceOverlay": "History / Moral Context / Social Constraint",
+      "hiddenState": "Historical causality and moral position",
+      "concepts": [
+        "Historical Ambient Causality",
+        "Semantic Off-Screen Space",
+        "Low-Amplitude High-Information Acting",
+        "Invisible Formalism",
+        "Genre as Cognitive Interface"
+      ],
+      "microBehaviour": "Behaviour ▶︎ Judgement / Ethical Position / Already-Known Information",
+      "environment": "Environment as Historical Causality",
+      "temporal": {
+        "path": "Incident ↔ Historical Context",
+        "window": "Episode-Level / Context-Level Integration",
+        "loci": [
+          "Scene",
+          "Episode",
+          "Historical Context"
+        ]
+      },
+      "formalism": "Very Low Visibility",
+      "classMetadata": "A-Class-level candidate / established strong case in current research context",
+      "interpretation": "事件の外にある歴史的圧力が、人間の選択肢と倫理的判断を制約する。画面内の行為を、その場に映らない歴史と往復して読む。",
+      "analyticalStatus": "Initial hypothesis / 初期仮説・ユーザー提供分析",
+      "hiddenStateExternalisation": {
+        "observableEvidence": [
+          "Historical Context",
+          "Social Constraint",
+          "Behaviour",
+          "Moral Choice",
+          "Off-Screen Historical Pressure"
+        ],
+        "inferredState": "Historical causality and moral position",
+        "definition": "Observable audiovisual information transforms an otherwise invisible cognitive, institutional, moral, social or causal state into something the Viewer can infer."
+      },
+      "compatibility": {
+        "function": [],
+        "layerReach": [],
+        "path": [],
+        "sophisticationContribution": null,
+        "secondPass": {
+          "nodeIdentityTracking": "foyle",
+          "episodeDelta": null,
+          "backwardRecontextualisationLinks": [],
+          "coordinateCalibration": "work-level hypothesis",
+          "seriesBoundaryCrossing": []
+        },
+        "status": "Reserved metadata; 未提供値は未設定。座標から推定しない。"
+      },
+      "network": {
+        "nodes": [
+          {
+            "id": "foyle:n1",
+            "label": "Historical Environment",
+            "type": "Environment",
+            "x": 115,
+            "y": 90,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "foyle:n1",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "foyle:n2",
+            "label": "Social Constraint",
+            "type": "Constraint",
+            "x": 365,
+            "y": 90,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "foyle:n2",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "foyle:n3",
+            "label": "Human Choice",
+            "type": "Cognitive Operator",
+            "x": 615,
+            "y": 90,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "foyle:n3",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "foyle:n4",
+            "label": "Foyle Judgement",
+            "type": "Character",
+            "x": 865,
+            "y": 90,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "foyle:n4",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "foyle:n5",
+            "label": "Semantic Off-Screen Space",
+            "type": "Temporal Integration",
+            "x": 865,
+            "y": 285,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "foyle:n5",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "foyle:n6",
+            "label": "Historical Cognition",
+            "type": "Outcome",
+            "x": 615,
+            "y": 285,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "foyle:n6",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "foyle:hidden",
+            "label": "Historical causality and moral position",
+            "type": "Hidden State",
+            "x": 115,
+            "y": 485,
+            "description": "直接観察できないが、Observable EvidenceからViewerが推論する状態。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "foyle:hidden",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "foyle:viewer",
+            "label": "Viewer Reconstruction",
+            "type": "Viewer Reconstruction",
+            "x": 615,
+            "y": 485,
+            "description": "観察可能な情報と作品の文脈を統合し、隠れた現実を再構成する。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "foyle:viewer",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          }
+        ],
+        "edges": [
+          {
+            "id": "foyle:edge-1",
+            "source": "foyle:n1",
+            "target": "foyle:n2",
+            "operator": "▶︎",
+            "reason": "前の認知処理／条件が、次の処理や読解へ変換される。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "foyle:edge-2",
+            "source": "foyle:n2",
+            "target": "foyle:n3",
+            "operator": "▶︎",
+            "reason": "前の認知処理／条件が、次の処理や読解へ変換される。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "foyle:edge-3",
+            "source": "foyle:n3",
+            "target": "foyle:n4",
+            "operator": "▶︎",
+            "reason": "前の認知処理／条件が、次の処理や読解へ変換される。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "foyle:edge-4",
+            "source": "foyle:n4",
+            "target": "foyle:n5",
+            "operator": "▶︎",
+            "reason": "前の認知処理／条件が、次の処理や読解へ変換される。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "foyle:edge-5",
+            "source": "foyle:n5",
+            "target": "foyle:n6",
+            "operator": "▶︎",
+            "reason": "前の認知処理／条件が、次の処理や読解へ変換される。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "foyle:edge-6",
+            "source": "foyle:n1",
+            "target": "foyle:hidden",
+            "operator": "▶︎",
+            "reason": "Hidden State Externalisation：観察可能な情報が、隠れた状態を推論可能にする。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "foyle:edge-7",
+            "source": "foyle:hidden",
+            "target": "foyle:viewer",
+            "operator": "+",
+            "reason": "推論されたHidden Stateを再構成へ集積する。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "aggregation",
+            "direction": "converging",
+            "convergenceGroup": "foyle:join:foyle:viewer"
+          },
+          {
+            "id": "foyle:edge-8",
+            "source": "foyle:n6",
+            "target": "foyle:viewer",
+            "operator": "▶︎",
+            "reason": "作品内の帰結を、ViewerのReality Reconstructionへ接続する。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "foyle:edge-9",
+            "source": "foyle:n1",
+            "target": "foyle:n3",
+            "operator": "−",
+            "reason": "歴史的状況が、人間に可能な選択を制約する。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "constraint",
+            "direction": "inhibitory"
+          },
+          {
+            "id": "foyle:v011-history-constraint",
+            "source": "foyle:n1",
+            "target": "foyle:n2",
+            "operator": "×",
+            "reason": "History / Wartime EnvironmentとSocial Constraintの相互依存。歴史は最初の入力で終わらない。",
+            "provenance": "Version 0.11 user-specified ecological hypothesis; no new score or causal measurement",
+            "type": "coupling",
+            "direction": "none"
+          },
+          {
+            "id": "foyle:v011-history-choice",
+            "source": "foyle:n1",
+            "target": "foyle:n3",
+            "operator": "×",
+            "reason": "Historical EnvironmentとHuman Choiceの継続的な関係が、選択の意味を生成する。",
+            "provenance": "Version 0.11 user-specified ecological hypothesis; no new score or causal measurement",
+            "type": "coupling",
+            "direction": "none"
+          },
+          {
+            "id": "foyle:v011-history-moral",
+            "source": "foyle:n1",
+            "target": "foyle:n4",
+            "operator": "×",
+            "reason": "History / Wartime EnvironmentがFoyleの倫理的判断の意味に継続的に参加する。",
+            "provenance": "Version 0.11 user-specified ecological hypothesis; no new score or causal measurement",
+            "type": "coupling",
+            "direction": "none"
+          },
+          {
+            "id": "foyle:v011-history-meaning",
+            "source": "foyle:n1",
+            "target": "foyle:n6",
+            "operator": "×",
+            "reason": "HistoryはHistorical Cognition / Moral Meaningを成立させるCausal Context。双方向の線は解釈上の相互依存であり、過去そのものを変える因果を主張しない。",
+            "provenance": "Version 0.11 user-specified ecological hypothesis; no new score or causal measurement",
+            "type": "coupling",
+            "direction": "none"
+          }
+        ],
+        "provenance": "User-provided example chains; node typing, layout and supplemental edges are editorial hypotheses. Version 0.11 distinguishes processing, coupling, constraint and aggregation without changing work scores or Macro coordinates.",
+        "ecologyNote": "History / Wartime EnvironmentはContextual Field。Social Constraint・Human Choice・Moral Judgement / Meaningへ継続して作用する。×は解釈の相互依存であり、過去への逆向き因果ではない。"
+      },
+      "evidenceFamilies": [
+        "History",
+        "Behaviour",
+        "Social Context",
+        "Moral Context"
+      ],
+      "conceptRecords": [
+        {
+          "id": "foyle:concept-1",
+          "label": "Historical Ambient Causality",
+          "metadata": {
+            "function": [],
+            "layerReach": [],
+            "path": [],
+            "sophisticationContribution": null,
+            "secondPass": {
+              "nodeIdentityTracking": "foyle:concept-1",
+              "episodeDelta": null,
+              "backwardRecontextualisationLinks": [],
+              "coordinateCalibration": null,
+              "seriesBoundaryCrossing": []
+            }
+          }
+        },
+        {
+          "id": "foyle:concept-2",
+          "label": "Semantic Off-Screen Space",
+          "metadata": {
+            "function": [],
+            "layerReach": [],
+            "path": [],
+            "sophisticationContribution": null,
+            "secondPass": {
+              "nodeIdentityTracking": "foyle:concept-2",
+              "episodeDelta": null,
+              "backwardRecontextualisationLinks": [],
+              "coordinateCalibration": null,
+              "seriesBoundaryCrossing": []
+            }
+          }
+        },
+        {
+          "id": "foyle:concept-3",
+          "label": "Low-Amplitude High-Information Acting",
+          "metadata": {
+            "function": [],
+            "layerReach": [],
+            "path": [],
+            "sophisticationContribution": null,
+            "secondPass": {
+              "nodeIdentityTracking": "foyle:concept-3",
+              "episodeDelta": null,
+              "backwardRecontextualisationLinks": [],
+              "coordinateCalibration": null,
+              "seriesBoundaryCrossing": []
+            }
+          }
+        },
+        {
+          "id": "foyle:concept-4",
+          "label": "Invisible Formalism",
+          "metadata": {
+            "function": [],
+            "layerReach": [],
+            "path": [],
+            "sophisticationContribution": null,
+            "secondPass": {
+              "nodeIdentityTracking": "foyle:concept-4",
+              "episodeDelta": null,
+              "backwardRecontextualisationLinks": [],
+              "coordinateCalibration": null,
+              "seriesBoundaryCrossing": []
+            }
+          }
+        },
+        {
+          "id": "foyle:concept-5",
+          "label": "Genre as Cognitive Interface",
+          "metadata": {
+            "function": [],
+            "layerReach": [],
+            "path": [],
+            "sophisticationContribution": null,
+            "secondPass": {
+              "nodeIdentityTracking": "foyle:concept-5",
+              "episodeDelta": null,
+              "backwardRecontextualisationLinks": [],
+              "coordinateCalibration": null,
+              "seriesBoundaryCrossing": []
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "endeavour",
+      "title": "Endeavour",
+      "short": "Endeavour",
+      "year": "2012–2023",
+      "initial": {
+        "x": 58,
+        "y": 84
+      },
+      "architecture": [
+        "Culture + Place + History",
+        "Atmospheric Integration",
+        "Symbolic Relation",
+        "Re-contextualisation",
+        "Meaning"
+      ],
+      "evidence": [
+        "Oxford",
+        "Architecture",
+        "Music",
+        "Cultural Symbol",
+        "Social Class",
+        "Historical Reconstruction",
+        "Place",
+        "Character Relation"
+      ],
+      "evidenceOverlay": "Culture / Symbol / Place / Atmosphere",
+      "hiddenState": "Cultural-semantic relation",
+      "concepts": [
+        "Information Space",
+        "Atmospheric Information",
+        "Historical-Reconstructive Environment",
+        "Cultural Information Space",
+        "Long-Window Re-contextualisation",
+        "Perceptible Formalism"
+      ],
+      "microBehaviour": "Behaviour ▶︎ Emotion / Cultural Relation / Long-Term Character Change",
+      "environment": "Environment as Cultural Information Space",
+      "temporal": {
+        "path": "Scene ↔ Episode ↔ Series",
+        "window": "Long Integration Window",
+        "loci": [
+          "Scene",
+          "Episode",
+          "Series",
+          "Historical Context",
+          "Environment"
+        ]
+      },
+      "formalism": "Medium–High",
+      "classMetadata": "A-Class",
+      "interpretation": "Oxford、建築、音楽、階級、長期の人物関係が文化的な情報空間をつくる。雰囲気と象徴の関係は、場面を越えた再文脈化によって読み替わる。",
+      "analyticalStatus": "Initial hypothesis / 初期仮説・ユーザー提供分析",
+      "hiddenStateExternalisation": {
+        "observableEvidence": [
+          "Oxford",
+          "Architecture",
+          "Music",
+          "Cultural Symbol",
+          "Social Class",
+          "Historical Reconstruction",
+          "Place",
+          "Character Relation"
+        ],
+        "inferredState": "Cultural-semantic relation",
+        "definition": "Observable audiovisual information transforms an otherwise invisible cognitive, institutional, moral, social or causal state into something the Viewer can infer."
+      },
+      "compatibility": {
+        "function": [],
+        "layerReach": [],
+        "path": [],
+        "sophisticationContribution": null,
+        "secondPass": {
+          "nodeIdentityTracking": "endeavour",
+          "episodeDelta": null,
+          "backwardRecontextualisationLinks": [],
+          "coordinateCalibration": "work-level hypothesis",
+          "seriesBoundaryCrossing": []
+        },
+        "status": "Reserved metadata; 未提供値は未設定。座標から推定しない。"
+      },
+      "network": {
+        "nodes": [
+          {
+            "id": "endeavour:n1",
+            "label": "Place / Culture / Symbol",
+            "type": "Environment",
+            "x": 115,
+            "y": 90,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "endeavour:n1",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "endeavour:n2",
+            "label": "Atmospheric Integration",
+            "type": "Cognitive Operator",
+            "x": 365,
+            "y": 90,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "endeavour:n2",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "endeavour:n3",
+            "label": "Character Relation",
+            "type": "Character",
+            "x": 615,
+            "y": 90,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "endeavour:n3",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "endeavour:n4",
+            "label": "Long-Window Re-contextualisation",
+            "type": "Temporal Integration",
+            "x": 865,
+            "y": 90,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "endeavour:n4",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "endeavour:n5",
+            "label": "Semantic Reconstruction",
+            "type": "Outcome",
+            "x": 865,
+            "y": 285,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "endeavour:n5",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "endeavour:hidden",
+            "label": "Cultural-semantic relation",
+            "type": "Hidden State",
+            "x": 115,
+            "y": 485,
+            "description": "直接観察できないが、Observable EvidenceからViewerが推論する状態。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "endeavour:hidden",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "endeavour:viewer",
+            "label": "Viewer Reconstruction",
+            "type": "Viewer Reconstruction",
+            "x": 615,
+            "y": 485,
+            "description": "観察可能な情報と作品の文脈を統合し、隠れた現実を再構成する。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "endeavour:viewer",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "endeavour:symbolic",
+            "label": "Symbolic Interpretation",
+            "type": "Cognitive Operator",
+            "x": 365,
+            "y": 285,
+            "description": "Culture / Place / Symbolを解釈し、人物関係や雰囲気と結び付ける。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "endeavour:symbolic",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          }
+        ],
+        "edges": [
+          {
+            "id": "endeavour:edge-1",
+            "source": "endeavour:n1",
+            "target": "endeavour:n2",
+            "operator": "▶︎",
+            "reason": "前の認知処理／条件が、次の処理や読解へ変換される。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "endeavour:edge-2",
+            "source": "endeavour:n2",
+            "target": "endeavour:n3",
+            "operator": "▶︎",
+            "reason": "前の認知処理／条件が、次の処理や読解へ変換される。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "endeavour:edge-3",
+            "source": "endeavour:n3",
+            "target": "endeavour:n4",
+            "operator": "▶︎",
+            "reason": "前の認知処理／条件が、次の処理や読解へ変換される。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "endeavour:edge-4",
+            "source": "endeavour:n4",
+            "target": "endeavour:n5",
+            "operator": "▶︎",
+            "reason": "前の認知処理／条件が、次の処理や読解へ変換される。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "endeavour:edge-5",
+            "source": "endeavour:n1",
+            "target": "endeavour:hidden",
+            "operator": "▶︎",
+            "reason": "Hidden State Externalisation：観察可能な情報が、隠れた状態を推論可能にする。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "endeavour:edge-6",
+            "source": "endeavour:hidden",
+            "target": "endeavour:viewer",
+            "operator": "+",
+            "reason": "推論されたHidden Stateを再構成へ集積する。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "aggregation",
+            "direction": "converging",
+            "convergenceGroup": "endeavour:join:endeavour:viewer"
+          },
+          {
+            "id": "endeavour:edge-7",
+            "source": "endeavour:n5",
+            "target": "endeavour:viewer",
+            "operator": "▶︎",
+            "reason": "作品内の帰結を、ViewerのReality Reconstructionへ接続する。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "endeavour:edge-8",
+            "source": "endeavour:n1",
+            "target": "endeavour:n3",
+            "operator": "×",
+            "reason": "文化・場所と人物関係が相互作用して意味を変える。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "coupling",
+            "direction": "none"
+          },
+          {
+            "id": "endeavour:v011-culture-atmosphere",
+            "source": "endeavour:n1",
+            "target": "endeavour:n2",
+            "operator": "×",
+            "reason": "Oxford / Culture / Place × Atmospheric Information / Integration：文化空間と雰囲気が意味を共同生成する。",
+            "provenance": "Version 0.11 user-specified ecological hypothesis; no new score or causal measurement",
+            "type": "coupling",
+            "direction": "none"
+          },
+          {
+            "id": "endeavour:v011-culture-symbolic",
+            "source": "endeavour:n1",
+            "target": "endeavour:symbolic",
+            "operator": "×",
+            "reason": "Place / Culture / Symbol × Symbolic Interpretation：場所を入力として消費するだけではない。",
+            "provenance": "Version 0.11 user-specified ecological hypothesis; no new score or causal measurement",
+            "type": "coupling",
+            "direction": "none"
+          },
+          {
+            "id": "endeavour:v011-symbolic-meaning",
+            "source": "endeavour:symbolic",
+            "target": "endeavour:n5",
+            "operator": "▶︎",
+            "reason": "Symbolic InterpretationがSemantic Reconstructionへ変換される。",
+            "provenance": "Version 0.11 user-specified ecological hypothesis; no new score or causal measurement",
+            "type": "primary",
+            "direction": "forward"
+          }
+        ],
+        "provenance": "User-provided example chains; node typing, layout and supplemental edges are editorial hypotheses. Version 0.11 distinguishes processing, coupling, constraint and aggregation without changing work scores or Macro coordinates.",
+        "ecologyNote": "Oxford / Culture / Placeは情報を渡すだけのInputではない。Character Relation・Atmospheric Integration・Symbolic Interpretationと相互作用するMeaning-producing Information Space。"
+      },
+      "evidenceFamilies": [
+        "Culture",
+        "Place",
+        "History",
+        "Social Context",
+        "Character Relation"
+      ],
+      "conceptRecords": [
+        {
+          "id": "endeavour:concept-1",
+          "label": "Information Space",
+          "metadata": {
+            "function": [],
+            "layerReach": [],
+            "path": [],
+            "sophisticationContribution": null,
+            "secondPass": {
+              "nodeIdentityTracking": "endeavour:concept-1",
+              "episodeDelta": null,
+              "backwardRecontextualisationLinks": [],
+              "coordinateCalibration": null,
+              "seriesBoundaryCrossing": []
+            }
+          }
+        },
+        {
+          "id": "endeavour:concept-2",
+          "label": "Atmospheric Information",
+          "metadata": {
+            "function": [],
+            "layerReach": [],
+            "path": [],
+            "sophisticationContribution": null,
+            "secondPass": {
+              "nodeIdentityTracking": "endeavour:concept-2",
+              "episodeDelta": null,
+              "backwardRecontextualisationLinks": [],
+              "coordinateCalibration": null,
+              "seriesBoundaryCrossing": []
+            }
+          }
+        },
+        {
+          "id": "endeavour:concept-3",
+          "label": "Historical-Reconstructive Environment",
+          "metadata": {
+            "function": [],
+            "layerReach": [],
+            "path": [],
+            "sophisticationContribution": null,
+            "secondPass": {
+              "nodeIdentityTracking": "endeavour:concept-3",
+              "episodeDelta": null,
+              "backwardRecontextualisationLinks": [],
+              "coordinateCalibration": null,
+              "seriesBoundaryCrossing": []
+            }
+          }
+        },
+        {
+          "id": "endeavour:concept-4",
+          "label": "Cultural Information Space",
+          "metadata": {
+            "function": [],
+            "layerReach": [],
+            "path": [],
+            "sophisticationContribution": null,
+            "secondPass": {
+              "nodeIdentityTracking": "endeavour:concept-4",
+              "episodeDelta": null,
+              "backwardRecontextualisationLinks": [],
+              "coordinateCalibration": null,
+              "seriesBoundaryCrossing": []
+            }
+          }
+        },
+        {
+          "id": "endeavour:concept-5",
+          "label": "Long-Window Re-contextualisation",
+          "metadata": {
+            "function": [],
+            "layerReach": [],
+            "path": [],
+            "sophisticationContribution": null,
+            "secondPass": {
+              "nodeIdentityTracking": "endeavour:concept-5",
+              "episodeDelta": null,
+              "backwardRecontextualisationLinks": [],
+              "coordinateCalibration": null,
+              "seriesBoundaryCrossing": []
+            }
+          }
+        },
+        {
+          "id": "endeavour:concept-6",
+          "label": "Perceptible Formalism",
+          "metadata": {
+            "function": [],
+            "layerReach": [],
+            "path": [],
+            "sophisticationContribution": null,
+            "secondPass": {
+              "nodeIdentityTracking": "endeavour:concept-6",
+              "episodeDelta": null,
+              "backwardRecontextualisationLinks": [],
+              "coordinateCalibration": null,
+              "seriesBoundaryCrossing": []
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bridge",
+      "title": "The Bridge / Bron / Broen",
+      "short": "The Bridge",
+      "year": "2011–2018",
+      "initial": {
+        "x": 90,
+        "y": 92
+      },
+      "architecture": [
+        "Environment + Border + Cognitive Difference",
+        "Cross-Cognitive Interaction",
+        "Affective / Social Integration",
+        "Meaning"
+      ],
+      "evidence": [
+        "Environment",
+        "Border",
+        "Character Difference",
+        "National / Cultural Difference",
+        "Behavioural Mismatch",
+        "Light",
+        "Climate",
+        "Urban Space"
+      ],
+      "evidenceOverlay": "Environment / Border / Cognitive Difference",
+      "hiddenState": "Cross-cultural and cross-cognitive state",
+      "concepts": [
+        "Character–Environment Coupling",
+        "Cognitive Asymmetry",
+        "Distributed Cognitive Ecology",
+        "Environment as Cognitive-Affective Field",
+        "Cross-Cognitive Integration"
+      ],
+      "microBehaviour": "Behaviour ▶︎ Cognitive Difference / Social Mismatch",
+      "environment": "Environment as Cognitive-Affective Field",
+      "temporal": {
+        "path": "Character Pair ↔ Episode ↔ Environment",
+        "window": "Long and Distributed Integration Window",
+        "loci": [
+          "Scene",
+          "Episode",
+          "Character Pair",
+          "Environment"
+        ]
+      },
+      "formalism": "Medium",
+      "classMetadata": "Not formally fixed / Class未確定",
+      "interpretation": "SagaとMartinを知能の上下として配置しない。異なる認知系の相互作用が情報を生む。国境・気候・都市空間も認知と感情の成立に参加する。人物対の例はSaga／Martinに焦点を置き、全シーズンの人物構成を代表するとはしない。",
+      "analyticalStatus": "Initial hypothesis / 初期仮説・ユーザー提供分析",
+      "hiddenStateExternalisation": {
+        "observableEvidence": [
+          "Environment",
+          "Border",
+          "Character Difference",
+          "National / Cultural Difference",
+          "Behavioural Mismatch",
+          "Light",
+          "Climate",
+          "Urban Space"
+        ],
+        "inferredState": "Cross-cultural and cross-cognitive state",
+        "definition": "Observable audiovisual information transforms an otherwise invisible cognitive, institutional, moral, social or causal state into something the Viewer can infer."
+      },
+      "compatibility": {
+        "function": [],
+        "layerReach": [],
+        "path": [],
+        "sophisticationContribution": null,
+        "secondPass": {
+          "nodeIdentityTracking": "bridge",
+          "episodeDelta": null,
+          "backwardRecontextualisationLinks": [],
+          "coordinateCalibration": "work-level hypothesis",
+          "seriesBoundaryCrossing": []
+        },
+        "status": "Reserved metadata; 未提供値は未設定。座標から推定しない。"
+      },
+      "network": {
+        "nodes": [
+          {
+            "id": "bridge:n1",
+            "label": "Environment",
+            "type": "Environment",
+            "x": 115,
+            "y": 90,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "bridge:n1",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "bridge:n2",
+            "label": "Cross-Cognitive Interaction",
+            "type": "Cognitive Operator",
+            "x": 365,
+            "y": 90,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "bridge:n2",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "bridge:n3",
+            "label": "Character–Environment Coupling",
+            "type": "Cognitive Operator",
+            "x": 615,
+            "y": 90,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "bridge:n3",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "bridge:n4",
+            "label": "Affective World-Building",
+            "type": "Temporal Integration",
+            "x": 865,
+            "y": 90,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "bridge:n4",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "bridge:n5",
+            "label": "Social Meaning",
+            "type": "Outcome",
+            "x": 865,
+            "y": 285,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "bridge:n5",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "bridge:hidden",
+            "label": "Cross-cultural and cross-cognitive state",
+            "type": "Hidden State",
+            "x": 115,
+            "y": 485,
+            "description": "直接観察できないが、Observable EvidenceからViewerが推論する状態。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "bridge:hidden",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "bridge:viewer",
+            "label": "Viewer Reconstruction",
+            "type": "Viewer Reconstruction",
+            "x": 615,
+            "y": 485,
+            "description": "観察可能な情報と作品の文脈を統合し、隠れた現実を再構成する。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "bridge:viewer",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "bridge:saga",
+            "label": "Saga — Cognitive System",
+            "type": "Character",
+            "x": 115,
+            "y": 285,
+            "description": "異なる認知システム。Martinに対する優劣を意味しない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "bridge:saga",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "bridge:martin",
+            "label": "Martin — Cognitive System",
+            "type": "Character",
+            "x": 365,
+            "y": 285,
+            "description": "異なる認知システム。Sagaに対する優劣を意味しない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "bridge:martin",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "bridge:border",
+            "label": "Border",
+            "type": "Environment",
+            "x": 865,
+            "y": 485,
+            "description": "Version 0.1のEnvironment / Borderから国境を明示し、人物対とのCouplingを読む。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "bridge:border",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          }
+        ],
+        "edges": [
+          {
+            "id": "bridge:edge-1",
+            "source": "bridge:n1",
+            "target": "bridge:n2",
+            "operator": "▶︎",
+            "reason": "前の認知処理／条件が、次の処理や読解へ変換される。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "bridge:edge-2",
+            "source": "bridge:n2",
+            "target": "bridge:n3",
+            "operator": "▶︎",
+            "reason": "前の認知処理／条件が、次の処理や読解へ変換される。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "bridge:edge-3",
+            "source": "bridge:n3",
+            "target": "bridge:n4",
+            "operator": "▶︎",
+            "reason": "前の認知処理／条件が、次の処理や読解へ変換される。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "bridge:edge-4",
+            "source": "bridge:n4",
+            "target": "bridge:n5",
+            "operator": "▶︎",
+            "reason": "前の認知処理／条件が、次の処理や読解へ変換される。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "bridge:edge-5",
+            "source": "bridge:n1",
+            "target": "bridge:hidden",
+            "operator": "▶︎",
+            "reason": "Hidden State Externalisation：観察可能な情報が、隠れた状態を推論可能にする。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "bridge:edge-6",
+            "source": "bridge:hidden",
+            "target": "bridge:viewer",
+            "operator": "+",
+            "reason": "推論されたHidden Stateを再構成へ集積する。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "aggregation",
+            "direction": "converging",
+            "convergenceGroup": "bridge:join:bridge:viewer"
+          },
+          {
+            "id": "bridge:edge-7",
+            "source": "bridge:n5",
+            "target": "bridge:viewer",
+            "operator": "▶︎",
+            "reason": "作品内の帰結を、ViewerのReality Reconstructionへ接続する。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "bridge:edge-8",
+            "source": "bridge:saga",
+            "target": "bridge:martin",
+            "operator": "×",
+            "reason": "異なる認知系の相互作用が、差異・齟齬・社会的情報を生む。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "coupling",
+            "direction": "none"
+          },
+          {
+            "id": "bridge:edge-9",
+            "source": "bridge:saga",
+            "target": "bridge:n2",
+            "operator": "+",
+            "reason": "Sagaの認知特性を相互認知の場へ集積する。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "aggregation",
+            "direction": "converging",
+            "convergenceGroup": "bridge:join:bridge:n2"
+          },
+          {
+            "id": "bridge:edge-10",
+            "source": "bridge:martin",
+            "target": "bridge:n2",
+            "operator": "+",
+            "reason": "Martinの認知特性を相互認知の場へ集積する。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "aggregation",
+            "direction": "converging",
+            "convergenceGroup": "bridge:join:bridge:n2"
+          },
+          {
+            "id": "bridge:edge-11",
+            "source": "bridge:n1",
+            "target": "bridge:n3",
+            "operator": "×",
+            "reason": "Environmentと人物の認知差が相互作用する。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "coupling",
+            "direction": "none"
+          },
+          {
+            "id": "bridge:v011-environment-border",
+            "source": "bridge:n1",
+            "target": "bridge:border",
+            "operator": "×",
+            "reason": "Environment × Border：環境と国境が相互依存的な情報の場を形成する。",
+            "provenance": "Version 0.11 user-specified ecological hypothesis; no new score or causal measurement",
+            "type": "coupling",
+            "direction": "none"
+          },
+          {
+            "id": "bridge:v011-environment-saga",
+            "source": "bridge:n1",
+            "target": "bridge:saga",
+            "operator": "×",
+            "reason": "Environment × Saga：認知差と環境の関係が情報を生む。",
+            "provenance": "Version 0.11 user-specified ecological hypothesis; no new score or causal measurement",
+            "type": "coupling",
+            "direction": "none"
+          },
+          {
+            "id": "bridge:v011-border-martin",
+            "source": "bridge:border",
+            "target": "bridge:martin",
+            "operator": "×",
+            "reason": "Border × Martin：国境と社会的・認知的差異を共同で読む。",
+            "provenance": "Version 0.11 user-specified ecological hypothesis; no new score or causal measurement",
+            "type": "coupling",
+            "direction": "none"
+          },
+          {
+            "id": "bridge:v011-border-saga",
+            "source": "bridge:border",
+            "target": "bridge:saga",
+            "operator": "×",
+            "reason": "Border × Saga：一つの中心人物に還元できない認知系の接続。",
+            "provenance": "Version 0.11 user-specified ecological hypothesis; no new score or causal measurement",
+            "type": "coupling",
+            "direction": "none"
+          }
+        ],
+        "provenance": "User-provided example chains; node typing, layout and supplemental edges are editorial hypotheses. Version 0.11 distinguishes processing, coupling, constraint and aggregation without changing work scores or Macro coordinates.",
+        "ecologyNote": "Environment × Border × Saga / Martin Cognitive Difference。人物対の知能の上下ではなく、認知差と環境が共同で意味を生成するDistributed Ecological Coupling。"
+      },
+      "evidenceFamilies": [
+        "Environment",
+        "Culture",
+        "Behaviour",
+        "Place",
+        "Character Relation"
+      ],
+      "conceptRecords": [
+        {
+          "id": "bridge:concept-1",
+          "label": "Character–Environment Coupling",
+          "metadata": {
+            "function": [],
+            "layerReach": [],
+            "path": [],
+            "sophisticationContribution": null,
+            "secondPass": {
+              "nodeIdentityTracking": "bridge:concept-1",
+              "episodeDelta": null,
+              "backwardRecontextualisationLinks": [],
+              "coordinateCalibration": null,
+              "seriesBoundaryCrossing": []
+            }
+          }
+        },
+        {
+          "id": "bridge:concept-2",
+          "label": "Cognitive Asymmetry",
+          "metadata": {
+            "function": [],
+            "layerReach": [],
+            "path": [],
+            "sophisticationContribution": null,
+            "secondPass": {
+              "nodeIdentityTracking": "bridge:concept-2",
+              "episodeDelta": null,
+              "backwardRecontextualisationLinks": [],
+              "coordinateCalibration": null,
+              "seriesBoundaryCrossing": []
+            }
+          }
+        },
+        {
+          "id": "bridge:concept-3",
+          "label": "Distributed Cognitive Ecology",
+          "metadata": {
+            "function": [],
+            "layerReach": [],
+            "path": [],
+            "sophisticationContribution": null,
+            "secondPass": {
+              "nodeIdentityTracking": "bridge:concept-3",
+              "episodeDelta": null,
+              "backwardRecontextualisationLinks": [],
+              "coordinateCalibration": null,
+              "seriesBoundaryCrossing": []
+            }
+          }
+        },
+        {
+          "id": "bridge:concept-4",
+          "label": "Environment as Cognitive-Affective Field",
+          "metadata": {
+            "function": [],
+            "layerReach": [],
+            "path": [],
+            "sophisticationContribution": null,
+            "secondPass": {
+              "nodeIdentityTracking": "bridge:concept-4",
+              "episodeDelta": null,
+              "backwardRecontextualisationLinks": [],
+              "coordinateCalibration": null,
+              "seriesBoundaryCrossing": []
+            }
+          }
+        },
+        {
+          "id": "bridge:concept-5",
+          "label": "Cross-Cognitive Integration",
+          "metadata": {
+            "function": [],
+            "layerReach": [],
+            "path": [],
+            "sophisticationContribution": null,
+            "secondPass": {
+              "nodeIdentityTracking": "bridge:concept-5",
+              "episodeDelta": null,
+              "backwardRecontextualisationLinks": [],
+              "coordinateCalibration": null,
+              "seriesBoundaryCrossing": []
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "closer",
+      "title": "The Closer",
+      "short": "The Closer",
+      "year": "2005–2012",
+      "initial": {
+        "x": 18,
+        "y": 20
+      },
+      "architecture": [
+        "Human Behaviour",
+        "Manipulation",
+        "Interrogation",
+        "Confession",
+        "Closure"
+      ],
+      "evidence": [
+        "Speech",
+        "Deception",
+        "Behavioural Response",
+        "Interrogation",
+        "Inconsistency"
+      ],
+      "evidenceOverlay": "Speech / Deception / Interrogation Response",
+      "hiddenState": "Intent / deception",
+      "concepts": [
+        "Characterised Cognitive Engine",
+        "Interrogation as Cognitive Engine",
+        "Short-Window Integration",
+        "Agent-Centred Operation"
+      ],
+      "microBehaviour": "Behaviour ▶︎ Deception / Interrogation State",
+      "environment": "Environment as Operational Arena",
+      "temporal": {
+        "path": "Question ▶︎ Response ▶︎ Inconsistency ▶︎ Trap ▶︎ Confession",
+        "window": "Short–Medium Integration Window",
+        "loci": [
+          "Shot",
+          "Scene",
+          "Sequence"
+        ]
+      },
+      "formalism": "High",
+      "classMetadata": "Not formally fixed / Class未確定",
+      "interpretation": "発話・応答・不整合を読み、尋問の操作で隠れた意図へ近づく。左下の配置はCharacter-Centred × Local Integrationを表す。品質が低いという意味ではない。",
+      "analyticalStatus": "Initial hypothesis / 初期仮説・ユーザー提供分析",
+      "hiddenStateExternalisation": {
+        "observableEvidence": [
+          "Speech",
+          "Deception",
+          "Behavioural Response",
+          "Interrogation",
+          "Inconsistency"
+        ],
+        "inferredState": "Intent / deception",
+        "definition": "Observable audiovisual information transforms an otherwise invisible cognitive, institutional, moral, social or causal state into something the Viewer can infer."
+      },
+      "compatibility": {
+        "function": [],
+        "layerReach": [],
+        "path": [],
+        "sophisticationContribution": null,
+        "secondPass": {
+          "nodeIdentityTracking": "closer",
+          "episodeDelta": null,
+          "backwardRecontextualisationLinks": [],
+          "coordinateCalibration": "work-level hypothesis",
+          "seriesBoundaryCrossing": []
+        },
+        "status": "Reserved metadata; 未提供値は未設定。座標から推定しない。"
+      },
+      "network": {
+        "nodes": [
+          {
+            "id": "closer:n1",
+            "label": "Speech / Behaviour",
+            "type": "Evidence Interface",
+            "x": 115,
+            "y": 90,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "closer:n1",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "closer:n2",
+            "label": "Brenda Detection",
+            "type": "Character",
+            "x": 365,
+            "y": 90,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "closer:n2",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "closer:n3",
+            "label": "Manipulation",
+            "type": "Cognitive Operator",
+            "x": 615,
+            "y": 90,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "closer:n3",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "closer:n4",
+            "label": "Interrogation Trap",
+            "type": "Cognitive Operator",
+            "x": 865,
+            "y": 90,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "closer:n4",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "closer:n5",
+            "label": "Confession",
+            "type": "Evidence Interface",
+            "x": 865,
+            "y": 285,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "closer:n5",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "closer:n6",
+            "label": "Closure",
+            "type": "Outcome",
+            "x": 615,
+            "y": 285,
+            "description": "提供された内部認知経路の要素。接続は分析的な関係を表し、実測の因果効果ではない。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "closer:n6",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "closer:hidden",
+            "label": "Intent / deception",
+            "type": "Hidden State",
+            "x": 115,
+            "y": 485,
+            "description": "直接観察できないが、Observable EvidenceからViewerが推論する状態。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "closer:hidden",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          },
+          {
+            "id": "closer:viewer",
+            "label": "Viewer Reconstruction",
+            "type": "Viewer Reconstruction",
+            "x": 615,
+            "y": 485,
+            "description": "観察可能な情報と作品の文脈を統合し、隠れた現実を再構成する。",
+            "metadata": {
+              "function": [],
+              "layerReach": [],
+              "path": [],
+              "sophisticationContribution": null,
+              "secondPass": {
+                "nodeIdentityTracking": "closer:viewer",
+                "episodeDelta": null,
+                "backwardRecontextualisationLinks": [],
+                "coordinateCalibration": null,
+                "seriesBoundaryCrossing": []
+              }
+            }
+          }
+        ],
+        "edges": [
+          {
+            "id": "closer:edge-1",
+            "source": "closer:n1",
+            "target": "closer:n2",
+            "operator": "▶︎",
+            "reason": "前の認知処理／条件が、次の処理や読解へ変換される。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "closer:edge-2",
+            "source": "closer:n2",
+            "target": "closer:n3",
+            "operator": "▶︎",
+            "reason": "前の認知処理／条件が、次の処理や読解へ変換される。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "closer:edge-3",
+            "source": "closer:n3",
+            "target": "closer:n4",
+            "operator": "▶︎",
+            "reason": "前の認知処理／条件が、次の処理や読解へ変換される。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "closer:edge-4",
+            "source": "closer:n4",
+            "target": "closer:n5",
+            "operator": "▶︎",
+            "reason": "前の認知処理／条件が、次の処理や読解へ変換される。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "closer:edge-5",
+            "source": "closer:n5",
+            "target": "closer:n6",
+            "operator": "▶︎",
+            "reason": "前の認知処理／条件が、次の処理や読解へ変換される。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "closer:edge-6",
+            "source": "closer:n1",
+            "target": "closer:hidden",
+            "operator": "▶︎",
+            "reason": "Hidden State Externalisation：観察可能な情報が、隠れた状態を推論可能にする。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "closer:edge-7",
+            "source": "closer:hidden",
+            "target": "closer:viewer",
+            "operator": "+",
+            "reason": "推論されたHidden Stateを再構成へ集積する。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "aggregation",
+            "direction": "converging",
+            "convergenceGroup": "closer:join:closer:viewer"
+          },
+          {
+            "id": "closer:edge-8",
+            "source": "closer:n6",
+            "target": "closer:viewer",
+            "operator": "▶︎",
+            "reason": "作品内の帰結を、ViewerのReality Reconstructionへ接続する。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "primary",
+            "direction": "forward"
+          },
+          {
+            "id": "closer:edge-9",
+            "source": "closer:n4",
+            "target": "closer:n5",
+            "operator": "×",
+            "reason": "問いの設計と相手の応答が相互作用する。",
+            "provenance": "Editorial network based on supplied analytical chain",
+            "type": "coupling",
+            "direction": "none"
+          }
+        ],
+        "provenance": "User-provided example chains; node typing, layout and supplemental edges are editorial hypotheses. Version 0.11 distinguishes processing, coupling, constraint and aggregation without changing work scores or Macro coordinates.",
+        "ecologyNote": "Brendaを中心とするPrimary Processing Pathが主体。Speech / Behaviour ▶︎ Detection ▶︎ Manipulation ▶︎ Interrogation Trap ▶︎ Confession。他作品に合わせて分散的に作り変えない。"
+      },
+      "evidenceFamilies": [
+        "Speech",
+        "Behaviour",
+        "Deception",
+        "Procedure"
+      ],
+      "conceptRecords": [
+        {
+          "id": "closer:concept-1",
+          "label": "Characterised Cognitive Engine",
+          "metadata": {
+            "function": [],
+            "layerReach": [],
+            "path": [],
+            "sophisticationContribution": null,
+            "secondPass": {
+              "nodeIdentityTracking": "closer:concept-1",
+              "episodeDelta": null,
+              "backwardRecontextualisationLinks": [],
+              "coordinateCalibration": null,
+              "seriesBoundaryCrossing": []
+            }
+          }
+        },
+        {
+          "id": "closer:concept-2",
+          "label": "Interrogation as Cognitive Engine",
+          "metadata": {
+            "function": [],
+            "layerReach": [],
+            "path": [],
+            "sophisticationContribution": null,
+            "secondPass": {
+              "nodeIdentityTracking": "closer:concept-2",
+              "episodeDelta": null,
+              "backwardRecontextualisationLinks": [],
+              "coordinateCalibration": null,
+              "seriesBoundaryCrossing": []
+            }
+          }
+        },
+        {
+          "id": "closer:concept-3",
+          "label": "Short-Window Integration",
+          "metadata": {
+            "function": [],
+            "layerReach": [],
+            "path": [],
+            "sophisticationContribution": null,
+            "secondPass": {
+              "nodeIdentityTracking": "closer:concept-3",
+              "episodeDelta": null,
+              "backwardRecontextualisationLinks": [],
+              "coordinateCalibration": null,
+              "seriesBoundaryCrossing": []
+            }
+          }
+        },
+        {
+          "id": "closer:concept-4",
+          "label": "Agent-Centred Operation",
+          "metadata": {
+            "function": [],
+            "layerReach": [],
+            "path": [],
+            "sophisticationContribution": null,
+            "secondPass": {
+              "nodeIdentityTracking": "closer:concept-4",
+              "episodeDelta": null,
+              "backwardRecontextualisationLinks": [],
+              "coordinateCalibration": null,
+              "seriesBoundaryCrossing": []
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "calibration": {
+    "granada": {
+      "x": 30,
+      "y": 40,
+      "note": "",
+      "updatedAt": null
+    },
+    "prime": {
+      "x": 70,
+      "y": 44,
+      "note": "",
+      "updatedAt": null
+    },
+    "foyle": {
+      "x": 78,
+      "y": 88,
+      "note": "",
+      "updatedAt": null
+    },
+    "endeavour": {
+      "x": 58,
+      "y": 84,
+      "note": "",
+      "updatedAt": null
+    },
+    "bridge": {
+      "x": 90,
+      "y": 92,
+      "note": "",
+      "updatedAt": null
+    },
+    "closer": {
+      "x": 18,
+      "y": 20,
+      "note": "",
+      "updatedAt": null
+    }
+  },
+  "provenance": {
+    "source": "User-provided Detective Cognitive Ecology Version 0.1 brief",
+    "supplied": [
+      "Initial coordinates",
+      "Work-specific analytical chains",
+      "Evidence interfaces",
+      "Hidden states",
+      "Concepts",
+      "Class metadata",
+      "Formalism labels",
+      "Temporal descriptions"
+    ],
+    "editorial": [
+      "Micro-network typing and supplemental connections",
+      "Integration locus tags",
+      "Evidence family comparison tags"
+    ],
+    "limits": "Second-Pass analytical interface, not a new scoring framework. Full Alpha 6.0 scoring rules and episode-level analyses are not included in the supplied brief. No new scores are generated.",
+    "v011": "Derived from the v0.1 dataset. Original work-level analysis, initial coordinates, evidence and Class metadata preserved. Edge semantics and limited explicit contextual nodes follow the supplied Calibration Edition request."
+  },
+  "edition": "Calibration Edition",
+  "compatibleImportSchemas": [
+    "detective-cognitive-ecology/0.1",
+    "detective-cognitive-ecology/0.11"
+  ],
+  "coordinatePolicy": {
+    "meaning": "Analytical Hypothesis Coordinate, not quality",
+    "display": "rounded integer",
+    "editing": "integer snap",
+    "legacyImport": "Preserve exact numeric coordinates until explicitly edited. Display rounded integers; export retains untouched decimal values."
+  },
+  "calibrationGuide": {
+    "purpose": "Human Analytical Calibration. Observation ▶︎ Hypothesis ▶︎ Comparison ▶︎ Calibration ▶︎ Falsification. Anchors are references, not scoring rules or hard thresholds.",
+    "x": [
+      [
+        0,
+        "Highly Localised Individual Cognition",
+        "推論・処理がほぼ一人の捜査者に集中する。他者・制度・環境は主に入力や障害であり、認知を共同で成立させない。"
+      ],
+      [
+        25,
+        "Character-Centred Cognition with External Support",
+        "中心人物が明確な認知の核。他者・社会・環境は支援・制約・情報供給を担うが、認知系を共同構成するほどではない。Granada Holmesを考える参照域。"
+      ],
+      [
+        50,
+        "Coupled Cognitive System",
+        "一人だけでは認知過程を十分に説明できない。人物間の相互作用・組織・環境・社会文脈が処理に不可欠となる移行域。"
+      ],
+      [
+        75,
+        "Distributed Institutional / Historical / Environmental Cognition",
+        "制度・歴史・文化・人物ネットワーク・環境が認知に実質的に参加する。主人公の知能だけでは捜査を説明できない。Prime SuspectとFoyle’s Warは異なる仕組みでこの域へ近づく仮説。"
+      ],
+      [
+        100,
+        "Fully Distributed Ecological Cognition",
+        "認知を一人に局在させる説明が成立しない。人物・環境・文化・制度・歴史などが再構成に必要な情報と意味を共同生成する。The Bridgeを検討する端点。"
+      ]
+    ],
+    "y": [
+      [
+        0,
+        "Immediate Evidential Processing",
+        "その場で観察できる局所的Evidenceだけで、多くの解釈が成立する。現在のやり取り・捜査行為の中で意味が生成される。"
+      ],
+      [
+        25,
+        "Local Scene / Sequence Reconstruction",
+        "一場面または短いSequenceの範囲で文脈を統合する。解釈の中心は局所的。The Closerの多くの尋問場面を考える参照域。"
+      ],
+      [
+        50,
+        "Episode-Level Contextual Reconstruction",
+        "複数場面・手続段階に分散した情報が意味の成立に必要。その場のEvidenceだけでは不十分。"
+      ],
+      [
+        75,
+        "Extended Cultural / Institutional / Historical Reconstruction",
+        "制度・文化・歴史・環境の文脈が、Evidenceと行為の意味を理解するために不可欠。解釈は目の前の捜査を越える。"
+      ],
+      [
+        100,
+        "Distributed Long-Window Semantic Reconstruction",
+        "長い時間幅、複数人物、文化・歴史、環境関係、シリーズの再文脈化を統合して意味が成立する。一つの局所的Evidenceでは意味を包摂できない。"
+      ]
+    ]
+  },
+  "cognitiveCentreDissolution": {
+    "status": "Working Hypothesis / Hypothesis Seed; not an additional axis or score",
+    "path": [
+      "Individual Cognitive Centre",
+      "Coupled Cognition",
+      "Institutional Cognition",
+      "Distributed Cognitive Ecology"
+    ]
+  },
+  "edgeSemantics": {
+    "primary": {
+      "name": "Primary Processing Path",
+      "operator": "▶︎",
+      "description": "主要な認知処理・情報変換の進行。",
+      "visual": "solid directed line"
+    },
+    "coupling": {
+      "name": "Ecological Coupling",
+      "operator": "×",
+      "description": "一方向の順序ではなく、要素が相互依存的に情報と意味を生成する。",
+      "visual": "dotted non-directional coupling line"
+    },
+    "constraint": {
+      "name": "Constraint / Inhibition",
+      "operator": "−",
+      "description": "別の認知・処理・行為を抑制・遅延・制限する。",
+      "visual": "dashed line with terminal bar"
+    },
+    "aggregation": {
+      "name": "Aggregation / Convergence",
+      "operator": "+",
+      "description": "複数の情報・要素を共通の接続点へ集積する。",
+      "visual": "converging relation with shared junction"
+    }
+  }
+}
