@@ -1,0 +1,818 @@
+{
+  "main": [
+    {
+      "id": "individual",
+      "kind": "preserve",
+      "stableIdPreserved": true,
+      "number": 1
+    },
+    {
+      "id": "freedom",
+      "kind": "preserve",
+      "stableIdPreserved": true,
+      "number": 2
+    },
+    {
+      "id": "liberty",
+      "kind": "preserve",
+      "stableIdPreserved": true,
+      "number": 3
+    },
+    {
+      "id": "right",
+      "kind": "preserve",
+      "stableIdPreserved": true,
+      "number": 4
+    },
+    {
+      "id": "rights",
+      "kind": "preserve",
+      "stableIdPreserved": true,
+      "number": 5
+    },
+    {
+      "id": "nation",
+      "kind": "preserve",
+      "stableIdPreserved": true,
+      "number": 6
+    },
+    {
+      "id": "society",
+      "kind": "preserve",
+      "stableIdPreserved": true,
+      "number": 16
+    },
+    {
+      "id": "public",
+      "kind": "preserve",
+      "stableIdPreserved": true,
+      "number": 17
+    },
+    {
+      "id": "religion",
+      "kind": "preserve",
+      "stableIdPreserved": true,
+      "number": 7
+    },
+    {
+      "id": "culture",
+      "kind": "preserve",
+      "stableIdPreserved": true,
+      "number": 18
+    },
+    {
+      "id": "economy",
+      "kind": "preserve",
+      "stableIdPreserved": true,
+      "number": 8
+    },
+    {
+      "id": "philosophy",
+      "kind": "preserve",
+      "stableIdPreserved": true,
+      "number": 9
+    },
+    {
+      "id": "modern",
+      "kind": "preserve",
+      "stableIdPreserved": true,
+      "number": 10
+    },
+    {
+      "id": "love",
+      "kind": "preserve",
+      "stableIdPreserved": true,
+      "number": 11
+    },
+    {
+      "id": "being",
+      "kind": "preserve",
+      "stableIdPreserved": true,
+      "number": 12
+    },
+    {
+      "id": "existence",
+      "kind": "preserve",
+      "stableIdPreserved": true,
+      "number": 13
+    },
+    {
+      "id": "beauty",
+      "kind": "preserve",
+      "stableIdPreserved": true,
+      "number": 14
+    },
+    {
+      "id": "aesthetics",
+      "kind": "preserve",
+      "stableIdPreserved": true,
+      "number": 15
+    },
+    {
+      "id": "nature",
+      "kind": "preserve",
+      "stableIdPreserved": true,
+      "number": 19
+    },
+    {
+      "id": "natural-selection",
+      "kind": "preserve",
+      "stableIdPreserved": true,
+      "number": 20
+    },
+    {
+      "id": "liberties",
+      "kind": "preserve",
+      "stableIdPreserved": true,
+      "number": 21
+    },
+    {
+      "id": "rule-of-law",
+      "kind": "preserve",
+      "stableIdPreserved": true,
+      "number": 22
+    },
+    {
+      "id": "rule-by-law",
+      "kind": "preserve",
+      "stableIdPreserved": true,
+      "number": 23
+    },
+    {
+      "id": "order-in-law",
+      "kind": "preserve",
+      "stableIdPreserved": true,
+      "number": 24
+    },
+    {
+      "id": "order-by-law",
+      "kind": "preserve",
+      "stableIdPreserved": true,
+      "number": 25
+    },
+    {
+      "id": "common-law",
+      "kind": "preserve",
+      "stableIdPreserved": true,
+      "number": 26
+    },
+    {
+      "id": "equity",
+      "kind": "preserve",
+      "stableIdPreserved": true,
+      "number": 27
+    },
+    {
+      "id": "concept",
+      "kind": "additive",
+      "stableIdPreserved": true,
+      "number": 28
+    },
+    {
+      "id": "design",
+      "kind": "additive",
+      "stableIdPreserved": true,
+      "number": 29
+    },
+    {
+      "id": "architecture",
+      "kind": "additive",
+      "stableIdPreserved": true,
+      "number": 30
+    },
+    {
+      "id": "structure",
+      "kind": "additive",
+      "stableIdPreserved": true,
+      "number": 37
+    },
+    {
+      "id": "system",
+      "kind": "additive",
+      "stableIdPreserved": true,
+      "number": 36
+    },
+    {
+      "id": "function",
+      "kind": "additive",
+      "stableIdPreserved": true,
+      "number": 35
+    },
+    {
+      "id": "form",
+      "kind": "additive",
+      "stableIdPreserved": true,
+      "number": 38
+    },
+    {
+      "id": "shape",
+      "kind": "additive",
+      "stableIdPreserved": true,
+      "number": 39
+    },
+    {
+      "id": "art",
+      "kind": "additive",
+      "stableIdPreserved": true,
+      "number": 40
+    },
+    {
+      "id": "arts",
+      "kind": "additive",
+      "stableIdPreserved": true,
+      "number": 42
+    },
+    {
+      "id": "craft",
+      "kind": "additive",
+      "stableIdPreserved": true,
+      "number": 43
+    },
+    {
+      "id": "technique",
+      "kind": "additive",
+      "stableIdPreserved": true,
+      "number": 41
+    },
+    {
+      "id": "technic",
+      "kind": "additive",
+      "stableIdPreserved": true,
+      "number": 34
+    },
+    {
+      "id": "technology",
+      "kind": "additive",
+      "stableIdPreserved": true,
+      "number": 33
+    },
+    {
+      "id": "ethics",
+      "kind": "preserve",
+      "stableIdPreserved": true,
+      "number": 31
+    },
+    {
+      "id": "morality",
+      "kind": "preserve",
+      "stableIdPreserved": true,
+      "number": 32
+    },
+    {
+      "id": "layer",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 44
+    },
+    {
+      "id": "level",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 45
+    },
+    {
+      "id": "dimension",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 46
+    },
+    {
+      "id": "element",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 47
+    },
+    {
+      "id": "factor",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 48
+    },
+    {
+      "id": "component",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 49
+    },
+    {
+      "id": "affordance",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 50
+    },
+    {
+      "id": "capability",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 51
+    },
+    {
+      "id": "feature",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 52
+    },
+    {
+      "id": "signifier",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 53
+    },
+    {
+      "id": "constraint",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 54
+    },
+    {
+      "id": "specification",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 55
+    },
+    {
+      "id": "subject",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 56
+    },
+    {
+      "id": "object",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 57
+    },
+    {
+      "id": "agent",
+      "kind": "full",
+      "stableIdPreserved": true,
+      "number": 58
+    },
+    {
+      "id": "thing",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 59
+    },
+    {
+      "id": "goods",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 60
+    },
+    {
+      "id": "objectivity",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 61
+    },
+    {
+      "id": "subjectivity",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 62
+    },
+    {
+      "id": "engine",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 63
+    },
+    {
+      "id": "mechanism",
+      "kind": "full",
+      "stableIdPreserved": true,
+      "number": 64
+    },
+    {
+      "id": "driver",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 65
+    },
+    {
+      "id": "process",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 66
+    },
+    {
+      "id": "motor",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 67
+    },
+    {
+      "id": "loop",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 68
+    },
+    {
+      "id": "cycle",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 69
+    },
+    {
+      "id": "recursion",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 70
+    },
+    {
+      "id": "iteration",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 71
+    },
+    {
+      "id": "feedback-loop",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 72
+    },
+    {
+      "id": "improvement",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 73
+    },
+    {
+      "id": "change",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 74
+    },
+    {
+      "id": "progress",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 75
+    },
+    {
+      "id": "optimization",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 76
+    },
+    {
+      "id": "development",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 77
+    },
+    {
+      "id": "refinement",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 78
+    },
+    {
+      "id": "criterion",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 79
+    },
+    {
+      "id": "standard",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 80
+    },
+    {
+      "id": "benchmark",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 81
+    },
+    {
+      "id": "analysis",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 82
+    },
+    {
+      "id": "synthesis",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 83
+    },
+    {
+      "id": "evaluation",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 84
+    },
+    {
+      "id": "interpretation",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 85
+    },
+    {
+      "id": "explanation",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 86
+    },
+    {
+      "id": "description",
+      "kind": "targeted",
+      "stableIdPreserved": true,
+      "number": 87
+    },
+    {
+      "id": "tool",
+      "kind": "new",
+      "stableIdPreserved": false,
+      "number": 88
+    },
+    {
+      "id": "proxy",
+      "kind": "new",
+      "stableIdPreserved": false,
+      "number": 89
+    },
+    {
+      "id": "medium",
+      "kind": "new",
+      "stableIdPreserved": false,
+      "number": 90
+    },
+    {
+      "id": "device",
+      "kind": "new",
+      "stableIdPreserved": false,
+      "number": 91
+    },
+    {
+      "id": "machine",
+      "kind": "new",
+      "stableIdPreserved": false,
+      "number": 92
+    },
+    {
+      "id": "equipment",
+      "kind": "new",
+      "stableIdPreserved": false,
+      "number": 93
+    },
+    {
+      "id": "appliance",
+      "kind": "new",
+      "stableIdPreserved": false,
+      "number": 94
+    },
+    {
+      "id": "gadget",
+      "kind": "new",
+      "stableIdPreserved": false,
+      "number": 95
+    },
+    {
+      "id": "resource",
+      "kind": "new",
+      "stableIdPreserved": false,
+      "number": 96
+    },
+    {
+      "id": "source",
+      "kind": "new",
+      "stableIdPreserved": false,
+      "number": 97
+    }
+  ],
+  "satellites": [
+    {
+      "id": "purpose",
+      "action": "Supplement"
+    },
+    {
+      "id": "effect",
+      "action": "Supplement"
+    },
+    {
+      "id": "role",
+      "action": "Supplement"
+    },
+    {
+      "id": "use",
+      "action": "Supplement"
+    },
+    {
+      "id": "engineering",
+      "action": "Keep"
+    },
+    {
+      "id": "planning",
+      "action": "Keep"
+    },
+    {
+      "id": "styling",
+      "action": "Keep"
+    },
+    {
+      "id": "building",
+      "action": "Keep"
+    },
+    {
+      "id": "construction",
+      "action": "Keep"
+    },
+    {
+      "id": "person",
+      "action": "Keep"
+    },
+    {
+      "id": "self",
+      "action": "Keep"
+    },
+    {
+      "id": "citizen",
+      "action": "Keep"
+    },
+    {
+      "id": "state",
+      "action": "Keep"
+    },
+    {
+      "id": "community",
+      "action": "Keep"
+    },
+    {
+      "id": "worldview",
+      "action": "Keep"
+    },
+    {
+      "id": "ideology",
+      "action": "Keep"
+    },
+    {
+      "id": "law",
+      "action": "Keep"
+    },
+    {
+      "id": "custom",
+      "action": "Keep"
+    },
+    {
+      "id": "label",
+      "action": "Keep"
+    },
+    {
+      "id": "organisation",
+      "action": "Keep"
+    },
+    {
+      "id": "market-price",
+      "action": "Keep"
+    },
+    {
+      "id": "recent-date",
+      "action": "Keep"
+    },
+    {
+      "id": "strong-desire",
+      "action": "Keep"
+    },
+    {
+      "id": "scenery",
+      "action": "Keep"
+    },
+    {
+      "id": "obstacle",
+      "action": "Keep"
+    },
+    {
+      "id": "relation",
+      "action": "Keep"
+    },
+    {
+      "id": "requirement",
+      "action": "Keep"
+    },
+    {
+      "id": "agency",
+      "action": "Supplement"
+    },
+    {
+      "id": "entity",
+      "action": "Keep"
+    },
+    {
+      "id": "environment",
+      "action": "Supplement"
+    },
+    {
+      "id": "action",
+      "action": "Supplement"
+    },
+    {
+      "id": "outcome",
+      "action": "Supplement"
+    },
+    {
+      "id": "repetition",
+      "action": "Keep"
+    },
+    {
+      "id": "complexity",
+      "action": "Keep"
+    },
+    {
+      "id": "intersubjectivity",
+      "action": "Keep"
+    },
+    {
+      "id": "sophistication",
+      "action": "Keep"
+    },
+    {
+      "id": "feedback",
+      "action": "Supplement"
+    },
+    {
+      "id": "actual-affordance",
+      "action": "Keep"
+    },
+    {
+      "id": "perceived-affordance",
+      "action": "Keep"
+    },
+    {
+      "id": "positive-feedback",
+      "action": "Keep"
+    },
+    {
+      "id": "negative-feedback",
+      "action": "Keep"
+    },
+    {
+      "id": "commodity",
+      "action": "Keep"
+    },
+    {
+      "id": "service",
+      "action": "Keep"
+    },
+    {
+      "id": "public-goods",
+      "action": "Keep"
+    },
+    {
+      "id": "economic-goods",
+      "action": "Keep"
+    },
+    {
+      "id": "value",
+      "action": "Keep"
+    },
+    {
+      "id": "good",
+      "action": "Keep"
+    },
+    {
+      "id": "the-good",
+      "action": "Keep"
+    },
+    {
+      "id": "assistant",
+      "action": "Add"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "intersubjectivity",
+      "action": "Keep candidate; no promotion"
+    },
+    {
+      "id": "sophistication",
+      "action": "Keep candidate; no promotion"
+    },
+    {
+      "id": "feedback",
+      "action": "Keep candidate; no promotion"
+    },
+    {
+      "id": "requirement",
+      "action": "Keep candidate; no promotion"
+    },
+    {
+      "id": "agency",
+      "action": "Keep candidate; no promotion"
+    },
+    {
+      "id": "entity",
+      "action": "Keep candidate; no promotion"
+    },
+    {
+      "id": "good",
+      "action": "Keep candidate; no promotion"
+    },
+    {
+      "id": "the-good",
+      "action": "Keep candidate; no promotion"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "tool",
+    "text": "Tool",
+    "provider": "macOS say / afconvert",
+    "voice": "Flo (English (UK))",
+    "language": "en-GB",
+    "format": "AAC in M4A / audio/mp4",
+    "generated": "2026-09-18",
+    "sha256": "5ec64b464498265f6b8eae879159a35eb723ce9b96c69a57087050cadae4cd5f",
+    "ipa": "/tuːl/",
+    "ipaStatus": "Editorial British transcription; independent specialist review pending"
+  },
+  {
+    "id": "proxy",
+    "text": "Proxy",
+    "provider": "macOS say / afconvert",
+    "voice": "Flo (English (UK))",
+    "language": "en-GB",
+    "format": "AAC in M4A / audio/mp4",
+    "generated": "2026-09-18",
+    "sha256": "55c9e9af363d68589b06231f9c2dad86ee2cc38efe212a92f51d308e4c7cc674",
+    "ipa": "/ˈprɒksi/",
+    "ipaStatus": "Editorial British transcription; independent specialist review pending"
+  },
+  {
+    "id": "medium",
+    "text": "Medium",
+    "provider": "macOS say / afconvert",
+    "voice": "Flo (English (UK))",
+    "language": "en-GB",
+    "format": "AAC in M4A / audio/mp4",
+    "generated": "2026-09-18",
+    "sha256": "d7f716d699632885d0d8df474374e79526fc2759df54a623ee4338b37233530d",
+    "ipa": "/ˈmiːdiəm/",
+    "ipaStatus": "Editorial British transcription; independent specialist review pending"
+  },
+  {
+    "id": "device",
+    "text": "Device",
+    "provider": "macOS say / afconvert",
+    "voice": "Flo (English (UK))",
+    "language": "en-GB",
+    "format": "AAC in M4A / audio/mp4",
+    "generated": "2026-09-18",
+    "sha256": "21c5eb5ddf1b2bd758aae868cd60d30647a5651d44bfdd0793bb632e053b54d9",
+    "ipa": "/dɪˈvaɪs/",
+    "ipaStatus": "Editorial British transcription; independent specialist review pending"
+  },
+  {
+    "id": "machine",
+    "text": "Machine",
+    "provider": "macOS say / afconvert",
+    "voice": "Flo (English (UK))",
+    "language": "en-GB",
+    "format": "AAC in M4A / audio/mp4",
+    "generated": "2026-09-18",
+    "sha256": "a0cd11425d7eb0e9f7970be856fc2f6edf8ef217eac95518756f2f72571f454f",
+    "ipa": "/məˈʃiːn/",
+    "ipaStatus": "Editorial British transcription; independent specialist review pending"
+  },
+  {
+    "id": "equipment",
+    "text": "Equipment",
+    "provider": "macOS say / afconvert",
+    "voice": "Flo (English (UK))",
+    "language": "en-GB",
+    "format": "AAC in M4A / audio/mp4",
+    "generated": "2026-09-18",
+    "sha256": "e1c58371238094b5d3a7c52a1970f7a1396ba9fda5648a7872b1f4c44999eec4",
+    "ipa": "/ɪˈkwɪpmənt/",
+    "ipaStatus": "Editorial British transcription; independent specialist review pending"
+  },
+  {
+    "id": "appliance",
+    "text": "Appliance",
+    "provider": "macOS say / afconvert",
+    "voice": "Flo (English (UK))",
+    "language": "en-GB",
+    "format": "AAC in M4A / audio/mp4",
+    "generated": "2026-09-18",
+    "sha256": "f3cdfcf35dc4189ed4c7660b0b690b5202abee1cbb35476b2acd8690e0abf478",
+    "ipa": "/əˈplaɪəns/",
+    "ipaStatus": "Editorial British transcription; independent specialist review pending"
+  },
+  {
+    "id": "gadget",
+    "text": "Gadget",
+    "provider": "macOS say / afconvert",
+    "voice": "Flo (English (UK))",
+    "language": "en-GB",
+    "format": "AAC in M4A / audio/mp4",
+    "generated": "2026-09-18",
+    "sha256": "94f05912423e37ac356f556fcda41ed7edd680c1a19ebe95c2c21b11bf499aa5",
+    "ipa": "/ˈɡædʒɪt/",
+    "ipaStatus": "Editorial British transcription; independent specialist review pending"
+  },
+  {
+    "id": "resource",
+    "text": "Resource",
+    "provider": "macOS say / afconvert",
+    "voice": "Flo (English (UK))",
+    "language": "en-GB",
+    "format": "AAC in M4A / audio/mp4",
+    "generated": "2026-09-18",
+    "sha256": "e94a8a4e8205a5701a5c25ba9837372922d54b17d2dc519eb583e8c99483aed4",
+    "ipa": "/rɪˈzɔːs/",
+    "ipaStatus": "Editorial British transcription; independent specialist review pending"
+  },
+  {
+    "id": "source",
+    "text": "Source",
+    "provider": "macOS say / afconvert",
+    "voice": "Flo (English (UK))",
+    "language": "en-GB",
+    "format": "AAC in M4A / audio/mp4",
+    "generated": "2026-09-18",
+    "sha256": "40d649a7df6a75fa961c5aa862f3c7146284c1a482ebfb8ad7951a30bad91f01",
+    "ipa": "/sɔːs/",
+    "ipaStatus": "Editorial British transcription; independent specialist review pending"
+  }
+]

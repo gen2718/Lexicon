@@ -1,0 +1,2914 @@
+[
+  {
+    "source": "1.752",
+    "sourceId": "individual-check0",
+    "targetConcept": "individual",
+    "action": "Keep",
+    "finalId": "individual-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "individual-check1",
+    "targetConcept": "individual",
+    "action": "Keep",
+    "finalId": "individual-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "individual-check2",
+    "targetConcept": "individual",
+    "action": "Keep",
+    "finalId": "individual-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "freedom-check0",
+    "targetConcept": "freedom",
+    "action": "Keep",
+    "finalId": "freedom-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "freedom-check1",
+    "targetConcept": "freedom",
+    "action": "Keep",
+    "finalId": "freedom-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "freedom-check2",
+    "targetConcept": "freedom",
+    "action": "Keep",
+    "finalId": "freedom-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "liberty-check0",
+    "targetConcept": "liberty",
+    "action": "Keep",
+    "finalId": "liberty-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "liberty-check1",
+    "targetConcept": "liberty",
+    "action": "Keep",
+    "finalId": "liberty-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "liberty-check2",
+    "targetConcept": "liberty",
+    "action": "Keep",
+    "finalId": "liberty-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "right-check0",
+    "targetConcept": "right",
+    "action": "Keep",
+    "finalId": "right-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "right-check1",
+    "targetConcept": "right",
+    "action": "Keep",
+    "finalId": "right-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "right-check2",
+    "targetConcept": "right",
+    "action": "Keep",
+    "finalId": "right-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "rights-check0",
+    "targetConcept": "rights",
+    "action": "Keep",
+    "finalId": "rights-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "rights-check1",
+    "targetConcept": "rights",
+    "action": "Keep",
+    "finalId": "rights-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "rights-check2",
+    "targetConcept": "rights",
+    "action": "Keep",
+    "finalId": "rights-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "nation-check0",
+    "targetConcept": "nation",
+    "action": "Keep",
+    "finalId": "nation-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "nation-check1",
+    "targetConcept": "nation",
+    "action": "Keep",
+    "finalId": "nation-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "nation-check2",
+    "targetConcept": "nation",
+    "action": "Keep",
+    "finalId": "nation-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "society-check0",
+    "targetConcept": "society",
+    "action": "Keep",
+    "finalId": "society-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "society-check1",
+    "targetConcept": "society",
+    "action": "Keep",
+    "finalId": "society-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "society-check2",
+    "targetConcept": "society",
+    "action": "Keep",
+    "finalId": "society-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "public-check0",
+    "targetConcept": "public",
+    "action": "Keep",
+    "finalId": "public-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "public-check1",
+    "targetConcept": "public",
+    "action": "Keep",
+    "finalId": "public-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "public-check2",
+    "targetConcept": "public",
+    "action": "Keep",
+    "finalId": "public-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "religion-check0",
+    "targetConcept": "religion",
+    "action": "Keep",
+    "finalId": "religion-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "religion-check1",
+    "targetConcept": "religion",
+    "action": "Keep",
+    "finalId": "religion-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "religion-check2",
+    "targetConcept": "religion",
+    "action": "Keep",
+    "finalId": "religion-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "culture-check0",
+    "targetConcept": "culture",
+    "action": "Keep",
+    "finalId": "culture-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "culture-check1",
+    "targetConcept": "culture",
+    "action": "Keep",
+    "finalId": "culture-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "culture-check2",
+    "targetConcept": "culture",
+    "action": "Keep",
+    "finalId": "culture-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "economy-check0",
+    "targetConcept": "economy",
+    "action": "Keep",
+    "finalId": "economy-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "economy-check1",
+    "targetConcept": "economy",
+    "action": "Keep",
+    "finalId": "economy-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "economy-check2",
+    "targetConcept": "economy",
+    "action": "Keep",
+    "finalId": "economy-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "philosophy-check0",
+    "targetConcept": "philosophy",
+    "action": "Keep",
+    "finalId": "philosophy-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "philosophy-check1",
+    "targetConcept": "philosophy",
+    "action": "Keep",
+    "finalId": "philosophy-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "philosophy-check2",
+    "targetConcept": "philosophy",
+    "action": "Keep",
+    "finalId": "philosophy-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "modern-check0",
+    "targetConcept": "modern",
+    "action": "Keep",
+    "finalId": "modern-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "modern-check1",
+    "targetConcept": "modern",
+    "action": "Keep",
+    "finalId": "modern-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "modern-check2",
+    "targetConcept": "modern",
+    "action": "Keep",
+    "finalId": "modern-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "love-check0",
+    "targetConcept": "love",
+    "action": "Keep",
+    "finalId": "love-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "love-check1",
+    "targetConcept": "love",
+    "action": "Keep",
+    "finalId": "love-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "love-check2",
+    "targetConcept": "love",
+    "action": "Keep",
+    "finalId": "love-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "being-check0",
+    "targetConcept": "being",
+    "action": "Keep",
+    "finalId": "being-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "being-check1",
+    "targetConcept": "being",
+    "action": "Keep",
+    "finalId": "being-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "being-check2",
+    "targetConcept": "being",
+    "action": "Keep",
+    "finalId": "being-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "existence-check0",
+    "targetConcept": "existence",
+    "action": "Keep",
+    "finalId": "existence-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "existence-check1",
+    "targetConcept": "existence",
+    "action": "Keep",
+    "finalId": "existence-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "existence-check2",
+    "targetConcept": "existence",
+    "action": "Keep",
+    "finalId": "existence-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "beauty-check0",
+    "targetConcept": "beauty",
+    "action": "Keep",
+    "finalId": "beauty-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "beauty-check1",
+    "targetConcept": "beauty",
+    "action": "Keep",
+    "finalId": "beauty-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "beauty-check2",
+    "targetConcept": "beauty",
+    "action": "Keep",
+    "finalId": "beauty-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "aesthetics-check0",
+    "targetConcept": "aesthetics",
+    "action": "Keep",
+    "finalId": "aesthetics-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "aesthetics-check1",
+    "targetConcept": "aesthetics",
+    "action": "Keep",
+    "finalId": "aesthetics-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "aesthetics-check2",
+    "targetConcept": "aesthetics",
+    "action": "Keep",
+    "finalId": "aesthetics-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "nature-check0",
+    "targetConcept": "nature",
+    "action": "Keep",
+    "finalId": "nature-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "nature-check1",
+    "targetConcept": "nature",
+    "action": "Keep",
+    "finalId": "nature-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "nature-check2",
+    "targetConcept": "nature",
+    "action": "Keep",
+    "finalId": "nature-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "natural-selection-check0",
+    "targetConcept": "natural-selection",
+    "action": "Keep",
+    "finalId": "natural-selection-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "natural-selection-check1",
+    "targetConcept": "natural-selection",
+    "action": "Keep",
+    "finalId": "natural-selection-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "natural-selection-check2",
+    "targetConcept": "natural-selection",
+    "action": "Keep",
+    "finalId": "natural-selection-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "liberties-check0",
+    "targetConcept": "liberties",
+    "action": "Keep",
+    "finalId": "liberties-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "liberties-check1",
+    "targetConcept": "liberties",
+    "action": "Keep",
+    "finalId": "liberties-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "liberties-check2",
+    "targetConcept": "liberties",
+    "action": "Keep",
+    "finalId": "liberties-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "rule-of-law-check0",
+    "targetConcept": "rule-of-law",
+    "action": "Keep",
+    "finalId": "rule-of-law-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "rule-of-law-check1",
+    "targetConcept": "rule-of-law",
+    "action": "Keep",
+    "finalId": "rule-of-law-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "rule-of-law-check2",
+    "targetConcept": "rule-of-law",
+    "action": "Keep",
+    "finalId": "rule-of-law-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "rule-by-law-check0",
+    "targetConcept": "rule-by-law",
+    "action": "Keep",
+    "finalId": "rule-by-law-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "rule-by-law-check1",
+    "targetConcept": "rule-by-law",
+    "action": "Keep",
+    "finalId": "rule-by-law-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "rule-by-law-check2",
+    "targetConcept": "rule-by-law",
+    "action": "Keep",
+    "finalId": "rule-by-law-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "order-in-law-check0",
+    "targetConcept": "order-in-law",
+    "action": "Keep",
+    "finalId": "order-in-law-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "order-in-law-check1",
+    "targetConcept": "order-in-law",
+    "action": "Keep",
+    "finalId": "order-in-law-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "order-in-law-check2",
+    "targetConcept": "order-in-law",
+    "action": "Keep",
+    "finalId": "order-in-law-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "order-by-law-check0",
+    "targetConcept": "order-by-law",
+    "action": "Keep",
+    "finalId": "order-by-law-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "order-by-law-check1",
+    "targetConcept": "order-by-law",
+    "action": "Keep",
+    "finalId": "order-by-law-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "order-by-law-check2",
+    "targetConcept": "order-by-law",
+    "action": "Keep",
+    "finalId": "order-by-law-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "common-law-check0",
+    "targetConcept": "common-law",
+    "action": "Keep",
+    "finalId": "common-law-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "common-law-check1",
+    "targetConcept": "common-law",
+    "action": "Keep",
+    "finalId": "common-law-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "common-law-check2",
+    "targetConcept": "common-law",
+    "action": "Keep",
+    "finalId": "common-law-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "equity-check0",
+    "targetConcept": "equity",
+    "action": "Keep",
+    "finalId": "equity-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "equity-check1",
+    "targetConcept": "equity",
+    "action": "Keep",
+    "finalId": "equity-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "equity-check2",
+    "targetConcept": "equity",
+    "action": "Keep",
+    "finalId": "equity-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "concept-check0",
+    "targetConcept": "concept",
+    "action": "Keep",
+    "finalId": "concept-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "concept-check1",
+    "targetConcept": "concept",
+    "action": "Keep",
+    "finalId": "concept-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "concept-check2",
+    "targetConcept": "concept",
+    "action": "Keep",
+    "finalId": "concept-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "design-check0",
+    "targetConcept": "design",
+    "action": "Keep",
+    "finalId": "design-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "design-check1",
+    "targetConcept": "design",
+    "action": "Keep",
+    "finalId": "design-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "design-check2",
+    "targetConcept": "design",
+    "action": "Keep",
+    "finalId": "design-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "architecture-check0",
+    "targetConcept": "architecture",
+    "action": "Keep",
+    "finalId": "architecture-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "architecture-check1",
+    "targetConcept": "architecture",
+    "action": "Keep",
+    "finalId": "architecture-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "architecture-check2",
+    "targetConcept": "architecture",
+    "action": "Keep",
+    "finalId": "architecture-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "structure-check0",
+    "targetConcept": "structure",
+    "action": "Keep",
+    "finalId": "structure-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "structure-check1",
+    "targetConcept": "structure",
+    "action": "Keep",
+    "finalId": "structure-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "structure-check2",
+    "targetConcept": "structure",
+    "action": "Keep",
+    "finalId": "structure-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "system-check0",
+    "targetConcept": "system",
+    "action": "Keep",
+    "finalId": "system-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "system-check1",
+    "targetConcept": "system",
+    "action": "Keep",
+    "finalId": "system-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "system-check2",
+    "targetConcept": "system",
+    "action": "Keep",
+    "finalId": "system-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "function-check0",
+    "targetConcept": "function",
+    "action": "Keep",
+    "finalId": "function-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "function-check1",
+    "targetConcept": "function",
+    "action": "Keep",
+    "finalId": "function-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "function-check2",
+    "targetConcept": "function",
+    "action": "Keep",
+    "finalId": "function-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "form-check0",
+    "targetConcept": "form",
+    "action": "Keep",
+    "finalId": "form-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "form-check1",
+    "targetConcept": "form",
+    "action": "Keep",
+    "finalId": "form-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "form-check2",
+    "targetConcept": "form",
+    "action": "Keep",
+    "finalId": "form-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "shape-check0",
+    "targetConcept": "shape",
+    "action": "Keep",
+    "finalId": "shape-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "shape-check1",
+    "targetConcept": "shape",
+    "action": "Keep",
+    "finalId": "shape-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "shape-check2",
+    "targetConcept": "shape",
+    "action": "Keep",
+    "finalId": "shape-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "art-check0",
+    "targetConcept": "art",
+    "action": "Keep",
+    "finalId": "art-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "art-check1",
+    "targetConcept": "art",
+    "action": "Keep",
+    "finalId": "art-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "art-check2",
+    "targetConcept": "art",
+    "action": "Keep",
+    "finalId": "art-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "arts-check0",
+    "targetConcept": "arts",
+    "action": "Keep",
+    "finalId": "arts-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "arts-check1",
+    "targetConcept": "arts",
+    "action": "Keep",
+    "finalId": "arts-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "arts-check2",
+    "targetConcept": "arts",
+    "action": "Keep",
+    "finalId": "arts-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "craft-check0",
+    "targetConcept": "craft",
+    "action": "Keep",
+    "finalId": "craft-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "craft-check1",
+    "targetConcept": "craft",
+    "action": "Keep",
+    "finalId": "craft-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "craft-check2",
+    "targetConcept": "craft",
+    "action": "Keep",
+    "finalId": "craft-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "technique-check0",
+    "targetConcept": "technique",
+    "action": "Keep",
+    "finalId": "technique-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "technique-check1",
+    "targetConcept": "technique",
+    "action": "Keep",
+    "finalId": "technique-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "technique-check2",
+    "targetConcept": "technique",
+    "action": "Keep",
+    "finalId": "technique-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "technic-check0",
+    "targetConcept": "technic",
+    "action": "Keep",
+    "finalId": "technic-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "technic-check1",
+    "targetConcept": "technic",
+    "action": "Keep",
+    "finalId": "technic-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "technic-check2",
+    "targetConcept": "technic",
+    "action": "Keep",
+    "finalId": "technic-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "technology-check0",
+    "targetConcept": "technology",
+    "action": "Keep",
+    "finalId": "technology-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "technology-check1",
+    "targetConcept": "technology",
+    "action": "Keep",
+    "finalId": "technology-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "technology-check2",
+    "targetConcept": "technology",
+    "action": "Keep",
+    "finalId": "technology-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "ethics-check0",
+    "targetConcept": "ethics",
+    "action": "Keep",
+    "finalId": "ethics-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "ethics-check1",
+    "targetConcept": "ethics",
+    "action": "Keep",
+    "finalId": "ethics-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "ethics-check2",
+    "targetConcept": "ethics",
+    "action": "Keep",
+    "finalId": "ethics-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "morality-check0",
+    "targetConcept": "morality",
+    "action": "Keep",
+    "finalId": "morality-check0",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "morality-check1",
+    "targetConcept": "morality",
+    "action": "Keep",
+    "finalId": "morality-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "morality-check2",
+    "targetConcept": "morality",
+    "action": "Keep",
+    "finalId": "morality-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "layer-check0",
+    "targetConcept": "layer",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-layer-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "layer-check1",
+    "targetConcept": "layer",
+    "action": "Keep",
+    "finalId": "layer-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "layer-check2",
+    "targetConcept": "layer",
+    "action": "Keep",
+    "finalId": "layer-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "level-check0",
+    "targetConcept": "level",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-level-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "level-check1",
+    "targetConcept": "level",
+    "action": "Keep",
+    "finalId": "level-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "level-check2",
+    "targetConcept": "level",
+    "action": "Keep",
+    "finalId": "level-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "dimension-check0",
+    "targetConcept": "dimension",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-dimension-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "dimension-check1",
+    "targetConcept": "dimension",
+    "action": "Keep",
+    "finalId": "dimension-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "dimension-check2",
+    "targetConcept": "dimension",
+    "action": "Keep",
+    "finalId": "dimension-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "element-check0",
+    "targetConcept": "element",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-element-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "element-check1",
+    "targetConcept": "element",
+    "action": "Keep",
+    "finalId": "element-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "element-check2",
+    "targetConcept": "element",
+    "action": "Keep",
+    "finalId": "element-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "factor-check0",
+    "targetConcept": "factor",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-factor-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "factor-check1",
+    "targetConcept": "factor",
+    "action": "Keep",
+    "finalId": "factor-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "factor-check2",
+    "targetConcept": "factor",
+    "action": "Keep",
+    "finalId": "factor-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "component-check0",
+    "targetConcept": "component",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-component-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "component-check1",
+    "targetConcept": "component",
+    "action": "Keep",
+    "finalId": "component-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "component-check2",
+    "targetConcept": "component",
+    "action": "Keep",
+    "finalId": "component-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "affordance-check0",
+    "targetConcept": "affordance",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-affordance-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "affordance-check1",
+    "targetConcept": "affordance",
+    "action": "Keep",
+    "finalId": "affordance-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "affordance-check2",
+    "targetConcept": "affordance",
+    "action": "Keep",
+    "finalId": "affordance-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "capability-check0",
+    "targetConcept": "capability",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-capability-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "capability-check1",
+    "targetConcept": "capability",
+    "action": "Keep",
+    "finalId": "capability-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "capability-check2",
+    "targetConcept": "capability",
+    "action": "Keep",
+    "finalId": "capability-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "feature-check0",
+    "targetConcept": "feature",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-feature-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "feature-check1",
+    "targetConcept": "feature",
+    "action": "Keep",
+    "finalId": "feature-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "feature-check2",
+    "targetConcept": "feature",
+    "action": "Keep",
+    "finalId": "feature-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "signifier-check0",
+    "targetConcept": "signifier",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-signifier-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "signifier-check1",
+    "targetConcept": "signifier",
+    "action": "Keep",
+    "finalId": "signifier-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "signifier-check2",
+    "targetConcept": "signifier",
+    "action": "Keep",
+    "finalId": "signifier-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "constraint-check0",
+    "targetConcept": "constraint",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-constraint-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "constraint-check1",
+    "targetConcept": "constraint",
+    "action": "Keep",
+    "finalId": "constraint-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "constraint-check2",
+    "targetConcept": "constraint",
+    "action": "Keep",
+    "finalId": "constraint-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "specification-check0",
+    "targetConcept": "specification",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-specification-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "specification-check1",
+    "targetConcept": "specification",
+    "action": "Keep",
+    "finalId": "specification-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "specification-check2",
+    "targetConcept": "specification",
+    "action": "Keep",
+    "finalId": "specification-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "subject-check0",
+    "targetConcept": "subject",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-subject-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "subject-check1",
+    "targetConcept": "subject",
+    "action": "Keep",
+    "finalId": "subject-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "subject-check2",
+    "targetConcept": "subject",
+    "action": "Keep",
+    "finalId": "subject-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "object-check0",
+    "targetConcept": "object",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-object-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "object-check1",
+    "targetConcept": "object",
+    "action": "Keep",
+    "finalId": "object-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "object-check2",
+    "targetConcept": "object",
+    "action": "Keep",
+    "finalId": "object-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "agent-check0",
+    "targetConcept": "agent",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-agent-1",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "agent-check1",
+    "targetConcept": "agent",
+    "action": "Keep",
+    "finalId": "agent-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "agent-check2",
+    "targetConcept": "agent",
+    "action": "Keep",
+    "finalId": "agent-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "thing-check0",
+    "targetConcept": "thing",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-thing-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "thing-check1",
+    "targetConcept": "thing",
+    "action": "Keep",
+    "finalId": "thing-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "thing-check2",
+    "targetConcept": "thing",
+    "action": "Keep",
+    "finalId": "thing-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "goods-check0",
+    "targetConcept": "goods",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-goods-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "goods-check1",
+    "targetConcept": "goods",
+    "action": "Keep",
+    "finalId": "goods-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "goods-check2",
+    "targetConcept": "goods",
+    "action": "Keep",
+    "finalId": "goods-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "objectivity-check0",
+    "targetConcept": "objectivity",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-objectivity-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "objectivity-check1",
+    "targetConcept": "objectivity",
+    "action": "Keep",
+    "finalId": "objectivity-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "objectivity-check2",
+    "targetConcept": "objectivity",
+    "action": "Keep",
+    "finalId": "objectivity-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "subjectivity-check0",
+    "targetConcept": "subjectivity",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-subjectivity-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "subjectivity-check1",
+    "targetConcept": "subjectivity",
+    "action": "Keep",
+    "finalId": "subjectivity-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "subjectivity-check2",
+    "targetConcept": "subjectivity",
+    "action": "Keep",
+    "finalId": "subjectivity-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "engine-check0",
+    "targetConcept": "engine",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-engine-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "engine-check1",
+    "targetConcept": "engine",
+    "action": "Keep",
+    "finalId": "engine-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "engine-check2",
+    "targetConcept": "engine",
+    "action": "Keep",
+    "finalId": "engine-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "mechanism-check0",
+    "targetConcept": "mechanism",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-mechanism-1",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "mechanism-check1",
+    "targetConcept": "mechanism",
+    "action": "Keep",
+    "finalId": "mechanism-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "mechanism-check2",
+    "targetConcept": "mechanism",
+    "action": "Keep",
+    "finalId": "mechanism-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "driver-check0",
+    "targetConcept": "driver",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-driver-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "driver-check1",
+    "targetConcept": "driver",
+    "action": "Keep",
+    "finalId": "driver-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "driver-check2",
+    "targetConcept": "driver",
+    "action": "Keep",
+    "finalId": "driver-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "process-check0",
+    "targetConcept": "process",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-process-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "process-check1",
+    "targetConcept": "process",
+    "action": "Keep",
+    "finalId": "process-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "process-check2",
+    "targetConcept": "process",
+    "action": "Keep",
+    "finalId": "process-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "motor-check0",
+    "targetConcept": "motor",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-motor-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "motor-check1",
+    "targetConcept": "motor",
+    "action": "Keep",
+    "finalId": "motor-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "motor-check2",
+    "targetConcept": "motor",
+    "action": "Keep",
+    "finalId": "motor-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "loop-check0",
+    "targetConcept": "loop",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-loop-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "loop-check1",
+    "targetConcept": "loop",
+    "action": "Keep",
+    "finalId": "loop-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "loop-check2",
+    "targetConcept": "loop",
+    "action": "Keep",
+    "finalId": "loop-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "cycle-check0",
+    "targetConcept": "cycle",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-cycle-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "cycle-check1",
+    "targetConcept": "cycle",
+    "action": "Keep",
+    "finalId": "cycle-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "cycle-check2",
+    "targetConcept": "cycle",
+    "action": "Keep",
+    "finalId": "cycle-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "recursion-check0",
+    "targetConcept": "recursion",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-recursion-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "recursion-check1",
+    "targetConcept": "recursion",
+    "action": "Keep",
+    "finalId": "recursion-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "recursion-check2",
+    "targetConcept": "recursion",
+    "action": "Keep",
+    "finalId": "recursion-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "iteration-check0",
+    "targetConcept": "iteration",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-iteration-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "iteration-check1",
+    "targetConcept": "iteration",
+    "action": "Keep",
+    "finalId": "iteration-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "iteration-check2",
+    "targetConcept": "iteration",
+    "action": "Keep",
+    "finalId": "iteration-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "feedback-loop-check0",
+    "targetConcept": "feedback-loop",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-feedback-loop-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "feedback-loop-check1",
+    "targetConcept": "feedback-loop",
+    "action": "Keep",
+    "finalId": "feedback-loop-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "feedback-loop-check2",
+    "targetConcept": "feedback-loop",
+    "action": "Keep",
+    "finalId": "feedback-loop-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "improvement-check0",
+    "targetConcept": "improvement",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-improvement-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "improvement-check1",
+    "targetConcept": "improvement",
+    "action": "Keep",
+    "finalId": "improvement-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "improvement-check2",
+    "targetConcept": "improvement",
+    "action": "Keep",
+    "finalId": "improvement-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "change-check0",
+    "targetConcept": "change",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-change-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "change-check1",
+    "targetConcept": "change",
+    "action": "Keep",
+    "finalId": "change-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "change-check2",
+    "targetConcept": "change",
+    "action": "Keep",
+    "finalId": "change-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "progress-check0",
+    "targetConcept": "progress",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-progress-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "progress-check1",
+    "targetConcept": "progress",
+    "action": "Keep",
+    "finalId": "progress-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "progress-check2",
+    "targetConcept": "progress",
+    "action": "Keep",
+    "finalId": "progress-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "optimization-check0",
+    "targetConcept": "optimization",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-optimization-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "optimization-check1",
+    "targetConcept": "optimization",
+    "action": "Keep",
+    "finalId": "optimization-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "optimization-check2",
+    "targetConcept": "optimization",
+    "action": "Keep",
+    "finalId": "optimization-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "development-check0",
+    "targetConcept": "development",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-development-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "development-check1",
+    "targetConcept": "development",
+    "action": "Keep",
+    "finalId": "development-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "development-check2",
+    "targetConcept": "development",
+    "action": "Keep",
+    "finalId": "development-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "refinement-check0",
+    "targetConcept": "refinement",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-refinement-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "refinement-check1",
+    "targetConcept": "refinement",
+    "action": "Keep",
+    "finalId": "refinement-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "refinement-check2",
+    "targetConcept": "refinement",
+    "action": "Keep",
+    "finalId": "refinement-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "criterion-check0",
+    "targetConcept": "criterion",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-criterion-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "criterion-check1",
+    "targetConcept": "criterion",
+    "action": "Keep",
+    "finalId": "criterion-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "criterion-check2",
+    "targetConcept": "criterion",
+    "action": "Keep",
+    "finalId": "criterion-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "standard-check0",
+    "targetConcept": "standard",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-standard-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "standard-check1",
+    "targetConcept": "standard",
+    "action": "Keep",
+    "finalId": "standard-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "standard-check2",
+    "targetConcept": "standard",
+    "action": "Keep",
+    "finalId": "standard-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "benchmark-check0",
+    "targetConcept": "benchmark",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-benchmark-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "benchmark-check1",
+    "targetConcept": "benchmark",
+    "action": "Keep",
+    "finalId": "benchmark-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "benchmark-check2",
+    "targetConcept": "benchmark",
+    "action": "Keep",
+    "finalId": "benchmark-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "analysis-check0",
+    "targetConcept": "analysis",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-analysis-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "analysis-check1",
+    "targetConcept": "analysis",
+    "action": "Keep",
+    "finalId": "analysis-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "analysis-check2",
+    "targetConcept": "analysis",
+    "action": "Keep",
+    "finalId": "analysis-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "synthesis-check0",
+    "targetConcept": "synthesis",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-synthesis-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "synthesis-check1",
+    "targetConcept": "synthesis",
+    "action": "Keep",
+    "finalId": "synthesis-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "synthesis-check2",
+    "targetConcept": "synthesis",
+    "action": "Keep",
+    "finalId": "synthesis-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "evaluation-check0",
+    "targetConcept": "evaluation",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-evaluation-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "evaluation-check1",
+    "targetConcept": "evaluation",
+    "action": "Keep",
+    "finalId": "evaluation-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "evaluation-check2",
+    "targetConcept": "evaluation",
+    "action": "Keep",
+    "finalId": "evaluation-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "interpretation-check0",
+    "targetConcept": "interpretation",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-interpretation-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "interpretation-check1",
+    "targetConcept": "interpretation",
+    "action": "Keep",
+    "finalId": "interpretation-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "interpretation-check2",
+    "targetConcept": "interpretation",
+    "action": "Keep",
+    "finalId": "interpretation-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "explanation-check0",
+    "targetConcept": "explanation",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-explanation-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "explanation-check1",
+    "targetConcept": "explanation",
+    "action": "Keep",
+    "finalId": "explanation-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "explanation-check2",
+    "targetConcept": "explanation",
+    "action": "Keep",
+    "finalId": "explanation-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "description-check0",
+    "targetConcept": "description",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-description-recognition",
+    "reason": "Generic recognition prompt replaced by concept-specific scenario; Boundary/Transfer kept"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "description-check1",
+    "targetConcept": "description",
+    "action": "Keep",
+    "finalId": "description-check1",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "1.752",
+    "sourceId": "description-check2",
+    "targetConcept": "description",
+    "action": "Keep",
+    "finalId": "description-check2",
+    "reason": "Valid existing case retained"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-agent-1",
+    "targetConcept": "agent",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-agent-1",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-agent-2",
+    "targetConcept": "agent",
+    "action": "Add",
+    "finalId": "v1753-agent-2",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-agent-3",
+    "targetConcept": "agent",
+    "action": "Add",
+    "finalId": "v1753-agent-3",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-tool-1",
+    "targetConcept": "tool",
+    "action": "Add",
+    "finalId": "v1753-tool-1",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-tool-2",
+    "targetConcept": "tool",
+    "action": "Add",
+    "finalId": "v1753-tool-2",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-tool-3",
+    "targetConcept": "tool",
+    "action": "Add",
+    "finalId": "v1753-tool-3",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-proxy-1",
+    "targetConcept": "proxy",
+    "action": "Add",
+    "finalId": "v1753-proxy-1",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-proxy-2",
+    "targetConcept": "proxy",
+    "action": "Add",
+    "finalId": "v1753-proxy-2",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-proxy-3",
+    "targetConcept": "proxy",
+    "action": "Add",
+    "finalId": "v1753-proxy-3",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-medium-1",
+    "targetConcept": "medium",
+    "action": "Add",
+    "finalId": "v1753-medium-1",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-medium-2",
+    "targetConcept": "medium",
+    "action": "Add",
+    "finalId": "v1753-medium-2",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-medium-3",
+    "targetConcept": "medium",
+    "action": "Add",
+    "finalId": "v1753-medium-3",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-device-1",
+    "targetConcept": "device",
+    "action": "Add",
+    "finalId": "v1753-device-1",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-device-2",
+    "targetConcept": "device",
+    "action": "Add",
+    "finalId": "v1753-device-2",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-device-3",
+    "targetConcept": "device",
+    "action": "Add",
+    "finalId": "v1753-device-3",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-machine-1",
+    "targetConcept": "machine",
+    "action": "Add",
+    "finalId": "v1753-machine-1",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-machine-2",
+    "targetConcept": "machine",
+    "action": "Add",
+    "finalId": "v1753-machine-2",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-machine-3",
+    "targetConcept": "machine",
+    "action": "Add",
+    "finalId": "v1753-machine-3",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-mechanism-1",
+    "targetConcept": "mechanism",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-mechanism-1",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-mechanism-2",
+    "targetConcept": "mechanism",
+    "action": "Add",
+    "finalId": "v1753-mechanism-2",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-mechanism-3",
+    "targetConcept": "mechanism",
+    "action": "Add",
+    "finalId": "v1753-mechanism-3",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-equipment-1",
+    "targetConcept": "equipment",
+    "action": "Add",
+    "finalId": "v1753-equipment-1",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-equipment-2",
+    "targetConcept": "equipment",
+    "action": "Add",
+    "finalId": "v1753-equipment-2",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-equipment-3",
+    "targetConcept": "equipment",
+    "action": "Add",
+    "finalId": "v1753-equipment-3",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-appliance-1",
+    "targetConcept": "appliance",
+    "action": "Add",
+    "finalId": "v1753-appliance-1",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-appliance-2",
+    "targetConcept": "appliance",
+    "action": "Add",
+    "finalId": "v1753-appliance-2",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-appliance-3",
+    "targetConcept": "appliance",
+    "action": "Add",
+    "finalId": "v1753-appliance-3",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-gadget-1",
+    "targetConcept": "gadget",
+    "action": "Add",
+    "finalId": "v1753-gadget-1",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-gadget-2",
+    "targetConcept": "gadget",
+    "action": "Add",
+    "finalId": "v1753-gadget-2",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-gadget-3",
+    "targetConcept": "gadget",
+    "action": "Add",
+    "finalId": "v1753-gadget-3",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-resource-1",
+    "targetConcept": "resource",
+    "action": "Add",
+    "finalId": "v1753-resource-1",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-resource-2",
+    "targetConcept": "resource",
+    "action": "Add",
+    "finalId": "v1753-resource-2",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-resource-3",
+    "targetConcept": "resource",
+    "action": "Add",
+    "finalId": "v1753-resource-3",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-source-1",
+    "targetConcept": "source",
+    "action": "Add",
+    "finalId": "v1753-source-1",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-source-2",
+    "targetConcept": "source",
+    "action": "Add",
+    "finalId": "v1753-source-2",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-source-3",
+    "targetConcept": "source",
+    "action": "Add",
+    "finalId": "v1753-source-3",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-layer-recognition",
+    "targetConcept": "layer",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-layer-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-level-recognition",
+    "targetConcept": "level",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-level-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-dimension-recognition",
+    "targetConcept": "dimension",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-dimension-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-element-recognition",
+    "targetConcept": "element",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-element-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-factor-recognition",
+    "targetConcept": "factor",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-factor-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-component-recognition",
+    "targetConcept": "component",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-component-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-affordance-recognition",
+    "targetConcept": "affordance",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-affordance-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-capability-recognition",
+    "targetConcept": "capability",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-capability-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-feature-recognition",
+    "targetConcept": "feature",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-feature-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-signifier-recognition",
+    "targetConcept": "signifier",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-signifier-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-constraint-recognition",
+    "targetConcept": "constraint",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-constraint-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-specification-recognition",
+    "targetConcept": "specification",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-specification-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-subject-recognition",
+    "targetConcept": "subject",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-subject-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-object-recognition",
+    "targetConcept": "object",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-object-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-thing-recognition",
+    "targetConcept": "thing",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-thing-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-goods-recognition",
+    "targetConcept": "goods",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-goods-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-objectivity-recognition",
+    "targetConcept": "objectivity",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-objectivity-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-subjectivity-recognition",
+    "targetConcept": "subjectivity",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-subjectivity-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-engine-recognition",
+    "targetConcept": "engine",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-engine-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-driver-recognition",
+    "targetConcept": "driver",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-driver-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-process-recognition",
+    "targetConcept": "process",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-process-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-motor-recognition",
+    "targetConcept": "motor",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-motor-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-loop-recognition",
+    "targetConcept": "loop",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-loop-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-cycle-recognition",
+    "targetConcept": "cycle",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-cycle-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-recursion-recognition",
+    "targetConcept": "recursion",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-recursion-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-iteration-recognition",
+    "targetConcept": "iteration",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-iteration-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-feedback-loop-recognition",
+    "targetConcept": "feedback-loop",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-feedback-loop-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-improvement-recognition",
+    "targetConcept": "improvement",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-improvement-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-change-recognition",
+    "targetConcept": "change",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-change-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-progress-recognition",
+    "targetConcept": "progress",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-progress-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-optimization-recognition",
+    "targetConcept": "optimization",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-optimization-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-development-recognition",
+    "targetConcept": "development",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-development-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-refinement-recognition",
+    "targetConcept": "refinement",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-refinement-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-criterion-recognition",
+    "targetConcept": "criterion",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-criterion-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-standard-recognition",
+    "targetConcept": "standard",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-standard-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-benchmark-recognition",
+    "targetConcept": "benchmark",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-benchmark-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-analysis-recognition",
+    "targetConcept": "analysis",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-analysis-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-synthesis-recognition",
+    "targetConcept": "synthesis",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-synthesis-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-evaluation-recognition",
+    "targetConcept": "evaluation",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-evaluation-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-interpretation-recognition",
+    "targetConcept": "interpretation",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-interpretation-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-explanation-recognition",
+    "targetConcept": "explanation",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-explanation-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-description-recognition",
+    "targetConcept": "description",
+    "action": "Replace with explicit supersession",
+    "finalId": "v1753-description-recognition",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-concept-supplement",
+    "targetConcept": "concept",
+    "action": "Add",
+    "finalId": "v1753-concept-supplement",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-design-supplement",
+    "targetConcept": "design",
+    "action": "Add",
+    "finalId": "v1753-design-supplement",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-architecture-supplement",
+    "targetConcept": "architecture",
+    "action": "Add",
+    "finalId": "v1753-architecture-supplement",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-structure-supplement",
+    "targetConcept": "structure",
+    "action": "Add",
+    "finalId": "v1753-structure-supplement",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-system-supplement",
+    "targetConcept": "system",
+    "action": "Add",
+    "finalId": "v1753-system-supplement",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-function-supplement",
+    "targetConcept": "function",
+    "action": "Add",
+    "finalId": "v1753-function-supplement",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-form-supplement",
+    "targetConcept": "form",
+    "action": "Add",
+    "finalId": "v1753-form-supplement",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-shape-supplement",
+    "targetConcept": "shape",
+    "action": "Add",
+    "finalId": "v1753-shape-supplement",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-art-supplement",
+    "targetConcept": "art",
+    "action": "Add",
+    "finalId": "v1753-art-supplement",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-arts-supplement",
+    "targetConcept": "arts",
+    "action": "Add",
+    "finalId": "v1753-arts-supplement",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-craft-supplement",
+    "targetConcept": "craft",
+    "action": "Add",
+    "finalId": "v1753-craft-supplement",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-technique-supplement",
+    "targetConcept": "technique",
+    "action": "Add",
+    "finalId": "v1753-technique-supplement",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-technic-supplement",
+    "targetConcept": "technic",
+    "action": "Add",
+    "finalId": "v1753-technic-supplement",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-technology-supplement",
+    "targetConcept": "technology",
+    "action": "Add",
+    "finalId": "v1753-technology-supplement",
+    "reason": "Scenario-specific self comparison; no forced binary scoring"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-assistant-recognition",
+    "targetConcept": "assistant,agent",
+    "action": "Add",
+    "finalId": "v1753-assistant-recognition",
+    "reason": "Self-comparison; satellite dialog or Guide and related entry"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-assistant-boundary",
+    "targetConcept": "assistant,proxy",
+    "action": "Add",
+    "finalId": "v1753-assistant-boundary",
+    "reason": "Self-comparison; satellite dialog or Guide and related entry"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-assistant-transfer",
+    "targetConcept": "assistant,capability,constraint",
+    "action": "Add",
+    "finalId": "v1753-assistant-transfer",
+    "reason": "Self-comparison; satellite dialog or Guide and related entry"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-cross-01",
+    "targetConcept": "tool,assistant,agent,proxy,constraint",
+    "action": "Add",
+    "finalId": "v1753-cross-01",
+    "reason": "Self-comparison; satellite dialog or Guide and related entry"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-cross-02",
+    "targetConcept": "proxy,benchmark,criterion,optimization,improvement",
+    "action": "Add",
+    "finalId": "v1753-cross-02",
+    "reason": "Self-comparison; satellite dialog or Guide and related entry"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-cross-03",
+    "targetConcept": "appliance,equipment,gadget,machine,change",
+    "action": "Add",
+    "finalId": "v1753-cross-03",
+    "reason": "Self-comparison; satellite dialog or Guide and related entry"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-cross-04",
+    "targetConcept": "source,resource,objectivity,evaluation",
+    "action": "Add",
+    "finalId": "v1753-cross-04",
+    "reason": "Self-comparison; satellite dialog or Guide and related entry"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-cross-05",
+    "targetConcept": "equipment,resource,capability,system",
+    "action": "Add",
+    "finalId": "v1753-cross-05",
+    "reason": "Self-comparison; satellite dialog or Guide and related entry"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-cross-06",
+    "targetConcept": "device,medium,mechanism,subjectivity,evaluation",
+    "action": "Add",
+    "finalId": "v1753-cross-06",
+    "reason": "Self-comparison; satellite dialog or Guide and related entry"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-cross-07",
+    "targetConcept": "development,factor,feedback-loop,mechanism,description",
+    "action": "Add",
+    "finalId": "v1753-cross-07",
+    "reason": "Self-comparison; satellite dialog or Guide and related entry"
+  },
+  {
+    "source": "Manuscript",
+    "sourceId": "v1753-cross-08",
+    "targetConcept": "proxy,criterion,evaluation,improvement,objectivity",
+    "action": "Add",
+    "finalId": "v1753-cross-08",
+    "reason": "Self-comparison; satellite dialog or Guide and related entry"
+  }
+]

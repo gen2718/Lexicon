@@ -1,0 +1,305 @@
+{
+  "mapping": {
+    "question": "question + v17.orientation",
+    "guidance": "guidance + current Stage 1",
+    "primer": "primer + current Stage 2",
+    "process": "process join arrow + Stage 3 + primary flow steps",
+    "integration": "revision1753.integration + Stage 4 context sections",
+    "formation": "master + compact(first full sentence) + Stage 5 + flow formation node",
+    "primaryBoundary": "coords + revision1753.primaryBoundary + v17.core + independent boundary panel",
+    "recognitionDelta": "revision1753.recognitionDelta + Stage 5 / revision panel",
+    "translationDiagnostics": "diag + labelled risk/recovery + Japanese flow focus",
+    "etymologicalGenesis": "revision1753.etymologicalGenesis; existing etym/history preserved; new etym field",
+    "sourceIds": "v1753-src-* refs (private conversation and baseline handled as provenance, not external URLs)",
+    "tests": "checks with qualitative renderer; old Recognition supersession explicitly logged",
+    "historical snapshots": "baselineStages and revision1753.previous, excluded from search; labelled historical text"
+  },
+  "manuscriptCorrespondence": [
+    {
+      "id": "agent",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "tool",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "proxy",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "medium",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "device",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "machine",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "mechanism",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "equipment",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "appliance",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "gadget",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "resource",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "source",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "layer",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "level",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "dimension",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "element",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "factor",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "component",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "affordance",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "capability",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "feature",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "signifier",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "constraint",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "specification",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "subject",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "object",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "thing",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "goods",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "objectivity",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "subjectivity",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "engine",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "driver",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "process",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "motor",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "loop",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "cycle",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "recursion",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "iteration",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "feedback-loop",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "improvement",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "change",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "progress",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "optimization",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "development",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "refinement",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "criterion",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "standard",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "benchmark",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "analysis",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "synthesis",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "evaluation",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "interpretation",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "explanation",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "description",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "concept",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "design",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "architecture",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "structure",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "system",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "function",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "form",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "shape",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "art",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "arts",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "craft",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "technique",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "technic",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    },
+    {
+      "id": "technology",
+      "result": "Markdown/JSON exact manuscript fields agree"
+    }
+  ],
+  "privacyCorrections": [
+    {
+      "path": "targetedExistingMainDrafts.interpretation.after.supplementaryIntegration",
+      "before": "本人固有の評価表現",
+      "after": "代理遂行の関係が形成されたという一般化された報告",
+      "reason": "Public用に一般化"
+    },
+    {
+      "path": "targetedExistingMainDrafts.iteration.after.supplementaryIntegration",
+      "before": "本人固有の利用期間を含む例",
+      "after": "長期間の利用という一般化された条件",
+      "reason": "Public用の一般化。期間固有の発言を教材へ転記しない。"
+    }
+  ]
+}

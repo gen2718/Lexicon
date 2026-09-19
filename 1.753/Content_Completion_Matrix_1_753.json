@@ -1,0 +1,1715 @@
+[
+  {
+    "id": "individual",
+    "changedStages": [],
+    "beforeIssue": "Outside revision scope",
+    "actualChange": "preserve",
+    "recognitionDelta": "Preserved",
+    "boundary": "Individual ≠ Person ≠ Self ≠ Individuality; Individual ≠ Individualism",
+    "testIds": [
+      "individual-check0",
+      "individual-check1",
+      "individual-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "freedom",
+    "changedStages": [],
+    "beforeIssue": "Outside revision scope",
+    "actualChange": "preserve",
+    "recognitionDelta": "Preserved",
+    "boundary": "Freedom ↔ Liberty; Freedom ≠ Licence; Choice ≠ Effective opportunity",
+    "testIds": [
+      "freedom-check0",
+      "freedom-check1",
+      "freedom-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "liberty",
+    "changedStages": [],
+    "beforeIssue": "Outside revision scope",
+    "actualChange": "preserve",
+    "recognitionDelta": "Preserved",
+    "boundary": "Liberty ↔ Freedom; Non-interference ≠ Non-domination",
+    "testIds": [
+      "liberty-check0",
+      "liberty-check1",
+      "liberty-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "right",
+    "changedStages": [],
+    "beforeIssue": "Outside revision scope",
+    "actualChange": "preserve",
+    "recognitionDelta": "Preserved",
+    "boundary": "Right ≠ Might ≠ Desire; right（正当）≠ a right（権利）",
+    "testIds": [
+      "right-check0",
+      "right-check1",
+      "right-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "rights",
+    "changedStages": [],
+    "beforeIssue": "Outside revision scope",
+    "actualChange": "preserve",
+    "recognitionDelta": "Preserved",
+    "boundary": "Rights ≠ Interests ≠ Privileges（特権という日常語義）; Rights ↔ Duties",
+    "testIds": [
+      "rights-check0",
+      "rights-check1",
+      "rights-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "nation",
+    "changedStages": [],
+    "beforeIssue": "Outside revision scope",
+    "actualChange": "preserve",
+    "recognitionDelta": "Preserved",
+    "boundary": "Nation ≠ State ≠ Society ≠ Ethnicity",
+    "testIds": [
+      "nation-check0",
+      "nation-check1",
+      "nation-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "society",
+    "changedStages": [],
+    "beforeIssue": "Outside revision scope",
+    "actualChange": "preserve",
+    "recognitionDelta": "Preserved",
+    "boundary": "Society ≠ Nation ≠ State ≠ Community; Society ↔ Individuals",
+    "testIds": [
+      "society-check0",
+      "society-check1",
+      "society-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "public",
+    "changedStages": [],
+    "beforeIssue": "Outside revision scope",
+    "actualChange": "preserve",
+    "recognitionDelta": "Preserved",
+    "boundary": "Public ≠ Government ≠ State ≠ Society; Public ≠ Unrestricted access",
+    "testIds": [
+      "public-check0",
+      "public-check1",
+      "public-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "religion",
+    "changedStages": [],
+    "beforeIssue": "Outside revision scope",
+    "actualChange": "preserve",
+    "recognitionDelta": "Preserved",
+    "boundary": "Religion ≠ Faith ≠ Belief ≠ Morality ≠ Spirituality; Religion ↔ Culture",
+    "testIds": [
+      "religion-check0",
+      "religion-check1",
+      "religion-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "culture",
+    "changedStages": [],
+    "beforeIssue": "Outside revision scope",
+    "actualChange": "preserve",
+    "recognitionDelta": "Preserved",
+    "boundary": "Culture ≠ Society ≠ Nation ≠ Tradition; Culture ≠ High culture",
+    "testIds": [
+      "culture-check0",
+      "culture-check1",
+      "culture-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "economy",
+    "changedStages": [],
+    "beforeIssue": "Outside revision scope",
+    "actualChange": "preserve",
+    "recognitionDelta": "Preserved",
+    "boundary": "Economy ≠ Economics ≠ Money ≠ Market ≠ Capitalism ≠ Finance",
+    "testIds": [
+      "economy-check0",
+      "economy-check1",
+      "economy-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "philosophy",
+    "changedStages": [],
+    "beforeIssue": "Outside revision scope",
+    "actualChange": "preserve",
+    "recognitionDelta": "Preserved",
+    "boundary": "Philosophy ≠ Opinion ≠ Worldview ≠ Ideology; Philosophy ↔ Science",
+    "testIds": [
+      "philosophy-check0",
+      "philosophy-check1",
+      "philosophy-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "modern",
+    "changedStages": [],
+    "beforeIssue": "Outside revision scope",
+    "actualChange": "preserve",
+    "recognitionDelta": "Preserved",
+    "boundary": "Modern ≠ Modernity ≠ Modernisation ≠ Modernism",
+    "testIds": [
+      "modern-check0",
+      "modern-check1",
+      "modern-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "love",
+    "changedStages": [],
+    "beforeIssue": "Outside revision scope",
+    "actualChange": "preserve",
+    "recognitionDelta": "Preserved",
+    "boundary": "Love ≠ Romantic love ≠ Desire ≠ Attachment ≠ Care",
+    "testIds": [
+      "love-check0",
+      "love-check1",
+      "love-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "being",
+    "changedStages": [],
+    "beforeIssue": "Outside revision scope",
+    "actualChange": "preserve",
+    "recognitionDelta": "Preserved",
+    "boundary": "Being ≠ Existence ≠ Entity ≠ Presence; Being ↔ Becoming",
+    "testIds": [
+      "being-check0",
+      "being-check1",
+      "being-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "existence",
+    "changedStages": [],
+    "beforeIssue": "Outside revision scope",
+    "actualChange": "preserve",
+    "recognitionDelta": "Preserved",
+    "boundary": "Existence ≠ Essence ≠ Presence ≠ Reality; Existence ↔ Being",
+    "testIds": [
+      "existence-check0",
+      "existence-check1",
+      "existence-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "beauty",
+    "changedStages": [],
+    "beforeIssue": "Outside revision scope",
+    "actualChange": "preserve",
+    "recognitionDelta": "Preserved",
+    "boundary": "Beauty ≠ Aesthetics ≠ Prettiness ≠ Utility",
+    "testIds": [
+      "beauty-check0",
+      "beauty-check1",
+      "beauty-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "aesthetics",
+    "changedStages": [],
+    "beforeIssue": "Outside revision scope",
+    "actualChange": "preserve",
+    "recognitionDelta": "Preserved",
+    "boundary": "Aesthetics ≠ Beauty ≠ Art history ≠ Sensory physiology",
+    "testIds": [
+      "aesthetics-check0",
+      "aesthetics-check1",
+      "aesthetics-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "nature",
+    "changedStages": [],
+    "beforeIssue": "Outside revision scope",
+    "actualChange": "preserve",
+    "recognitionDelta": "Preserved",
+    "boundary": "Nature ≠ Wilderness; Nature ≠ Environment; Natural ≠ Untouched landscape",
+    "testIds": [
+      "nature-check0",
+      "nature-check1",
+      "nature-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "natural-selection",
+    "changedStages": [],
+    "beforeIssue": "Outside revision scope",
+    "actualChange": "preserve",
+    "recognitionDelta": "Preserved",
+    "boundary": "Natural Selection ≠ Evolution as a whole; Natural Selection ≠ Genetic drift; Selection ≠ Conscious selector",
+    "testIds": [
+      "natural-selection-check0",
+      "natural-selection-check1",
+      "natural-selection-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "liberties",
+    "changedStages": [],
+    "beforeIssue": "Outside revision scope",
+    "actualChange": "preserve",
+    "recognitionDelta": "Preserved",
+    "boundary": "Data Pending",
+    "testIds": [
+      "liberties-check0",
+      "liberties-check1",
+      "liberties-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "rule-of-law",
+    "changedStages": [],
+    "beforeIssue": "Outside revision scope",
+    "actualChange": "preserve",
+    "recognitionDelta": "Preserved",
+    "boundary": "Data Pending",
+    "testIds": [
+      "rule-of-law-check0",
+      "rule-of-law-check1",
+      "rule-of-law-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "rule-by-law",
+    "changedStages": [],
+    "beforeIssue": "Outside revision scope",
+    "actualChange": "preserve",
+    "recognitionDelta": "Preserved",
+    "boundary": "Data Pending",
+    "testIds": [
+      "rule-by-law-check0",
+      "rule-by-law-check1",
+      "rule-by-law-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "order-in-law",
+    "changedStages": [],
+    "beforeIssue": "Outside revision scope",
+    "actualChange": "preserve",
+    "recognitionDelta": "Preserved",
+    "boundary": "Data Pending",
+    "testIds": [
+      "order-in-law-check0",
+      "order-in-law-check1",
+      "order-in-law-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "order-by-law",
+    "changedStages": [],
+    "beforeIssue": "Outside revision scope",
+    "actualChange": "preserve",
+    "recognitionDelta": "Preserved",
+    "boundary": "Data Pending",
+    "testIds": [
+      "order-by-law-check0",
+      "order-by-law-check1",
+      "order-by-law-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "common-law",
+    "changedStages": [],
+    "beforeIssue": "Outside revision scope",
+    "actualChange": "preserve",
+    "recognitionDelta": "Preserved",
+    "boundary": "Data Pending",
+    "testIds": [
+      "common-law-check0",
+      "common-law-check1",
+      "common-law-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "equity",
+    "changedStages": [],
+    "beforeIssue": "Outside revision scope",
+    "actualChange": "preserve",
+    "recognitionDelta": "Preserved",
+    "boundary": "Data Pending",
+    "testIds": [
+      "equity-check0",
+      "equity-check1",
+      "equity-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "concept",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Specified context addition",
+    "actualChange": "additive",
+    "recognitionDelta": "適用／不適用の区別に加え、複数の正当な適用を矛盾なく扱える。",
+    "boundary": "See Version 1.7 Contrast / Network Position",
+    "testIds": [
+      "concept-check0",
+      "concept-check1",
+      "concept-check2",
+      "v1753-concept-supplement"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "design",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Specified context addition",
+    "actualChange": "additive",
+    "recognitionDelta": "意図の読取りと、後から生じたUse・Effectを切り分けられる。",
+    "boundary": "See Version 1.7 Contrast / Network Position",
+    "testIds": [
+      "design-check0",
+      "design-check1",
+      "design-check2",
+      "v1753-design-supplement"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "architecture",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Specified context addition",
+    "actualChange": "additive",
+    "recognitionDelta": "部品一覧を超えて、モデルと運用システムの異なる全体境界を扱える。",
+    "boundary": "See Version 1.7 Contrast / Network Position",
+    "testIds": [
+      "architecture-check0",
+      "architecture-check1",
+      "architecture-check2",
+      "v1753-architecture-supplement"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "structure",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Specified context addition",
+    "actualChange": "additive",
+    "recognitionDelta": "同じ物があることと同じ関係であることを別に判断できる。",
+    "boundary": "See Version 1.7 Contrast / Network Position",
+    "testIds": [
+      "structure-check0",
+      "structure-check1",
+      "structure-check2",
+      "v1753-structure-supplement"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "system",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Specified context addition",
+    "actualChange": "additive",
+    "recognitionDelta": "材料があるという把握から、相互作用が成立する条件を検査できる。",
+    "boundary": "See Version 1.7 Contrast / Network Position",
+    "testIds": [
+      "system-check0",
+      "system-check1",
+      "system-check2",
+      "v1753-system-supplement"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "function",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Specified context addition",
+    "actualChange": "additive",
+    "recognitionDelta": "「何に役立つか」から、働きの説明にどの根拠を使ったかを選べる。",
+    "boundary": "See Version 1.7 Contrast / Network Position",
+    "testIds": [
+      "function-check0",
+      "function-check1",
+      "function-check2",
+      "v1753-function-supplement"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "form",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Specified context addition",
+    "actualChange": "additive",
+    "recognitionDelta": "形態の比較へ、媒体・構成・作用の異なる変化を導入できる。",
+    "boundary": "See Version 1.7 Contrast / Network Position",
+    "testIds": [
+      "form-check0",
+      "form-check1",
+      "form-check2",
+      "v1753-form-supplement"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "shape",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Specified context addition",
+    "actualChange": "additive",
+    "recognitionDelta": "似て見えるという比較から、形状以外の成立条件を別に問える。",
+    "boundary": "See Version 1.7 Contrast / Network Position",
+    "testIds": [
+      "shape-check0",
+      "shape-check1",
+      "shape-check2",
+      "v1753-shape-supplement"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "art",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Specified context addition",
+    "actualChange": "additive",
+    "recognitionDelta": "制作物の材料や高度な技術と、芸術上の解釈・価値を区別できる。",
+    "boundary": "See Version 1.7 Contrast / Network Position",
+    "testIds": [
+      "art-check0",
+      "art-check1",
+      "art-check2",
+      "v1753-art-supplement"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "arts",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Specified context addition",
+    "actualChange": "additive",
+    "recognitionDelta": "領域の複数と媒体の複数を別々の分類判断として扱える。",
+    "boundary": "See Version 1.7 Contrast / Network Position",
+    "testIds": [
+      "arts-check0",
+      "arts-check1",
+      "arts-check2",
+      "v1753-arts-supplement"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "craft",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Specified context addition",
+    "actualChange": "additive",
+    "recognitionDelta": "手作業対機械という二分から、判断と手段の関係を記述できる。",
+    "boundary": "See Version 1.7 Contrast / Network Position",
+    "testIds": [
+      "craft-check0",
+      "craft-check1",
+      "craft-check2",
+      "v1753-craft-supplement"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "technique",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Specified context addition",
+    "actualChange": "additive",
+    "recognitionDelta": "道具名の説明から、実行方法と条件の説明へ進む。",
+    "boundary": "See Version 1.7 Contrast / Network Position",
+    "testIds": [
+      "technique-check0",
+      "technique-check1",
+      "technique-check2",
+      "v1753-technique-supplement"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "technic",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Specified context addition",
+    "actualChange": "additive",
+    "recognitionDelta": "便利な中間語としての流用から、出典に依存した使用条件の確認へ進む。",
+    "boundary": "See Version 1.7 Contrast / Network Position",
+    "testIds": [
+      "technic-check0",
+      "technic-check1",
+      "technic-check2",
+      "v1753-technic-supplement"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "technology",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Specified context addition",
+    "actualChange": "additive",
+    "recognitionDelta": "機材が進歩したという記述から、維持と利用を含む成立条件の違いを読める。",
+    "boundary": "See Version 1.7 Contrast / Network Position",
+    "testIds": [
+      "technology-check0",
+      "technology-check1",
+      "technology-check2",
+      "v1753-technology-supplement"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "ethics",
+    "changedStages": [],
+    "beforeIssue": "Outside revision scope",
+    "actualChange": "preserve",
+    "recognitionDelta": "Preserved",
+    "boundary": "See Version 1.7 Contrast / Network Position",
+    "testIds": [
+      "ethics-check0",
+      "ethics-check1",
+      "ethics-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "morality",
+    "changedStages": [],
+    "beforeIssue": "Outside revision scope",
+    "actualChange": "preserve",
+    "recognitionDelta": "Preserved",
+    "boundary": "See Version 1.7 Contrast / Network Position",
+    "testIds": [
+      "morality-check0",
+      "morality-check1",
+      "morality-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "layer",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "層を数えることから、区分原理・接続・評価尺度を分離することへ進む。",
+    "boundary": "Level / Layerは層の区分、Levelは指定した尺度・順序の位置。",
+    "testIds": [
+      "v1753-layer-recognition",
+      "layer-check1",
+      "layer-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "level",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "段階名への反応から、尺度を特定して比較を限定する判断へ進む。",
+    "boundary": "Dimension / Levelは軸上の位置、Dimensionは変化を読める軸。",
+    "testIds": [
+      "v1753-level-recognition",
+      "level-check1",
+      "level-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "dimension",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "違うラベルを並べることから、何が変わる軸かを説明することへ進む。",
+    "boundary": "Layer / 軸の違いは、積み重なった層の違いと同じでない。",
+    "testIds": [
+      "v1753-dimension-recognition",
+      "dimension-check1",
+      "dimension-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "element",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "単位名の列挙から、単位化の根拠と維持すべき関係を示すことへ進む。",
+    "boundary": "Component / Elementは分析単位、Componentは特定の全体を構成する部分。",
+    "testIds": [
+      "v1753-element-recognition",
+      "element-check1",
+      "element-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "factor",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "何かが関係していそうという把握から、関係の種類と証拠の強さを区別することへ進む。",
+    "boundary": "Driver / Factorは関与要因、Driverは方向・勢いに強く関わる要因という焦点。",
+    "testIds": [
+      "v1753-factor-recognition",
+      "factor-check1",
+      "factor-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "component",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "部品を名指すことから、全体との関係と役割を別記することへ進む。",
+    "boundary": "Function / Componentは部分、Functionはある説明で選ぶ働き。",
+    "testIds": [
+      "v1753-component-recognition",
+      "component-check1",
+      "component-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "affordance",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "備わる特徴から、行為者と環境の関係に成立する可能性へ焦点を移す。",
+    "boundary": "Signifier / 可能性と、それを示す知覚可能な手がかりを分ける。",
+    "testIds": [
+      "v1753-affordance-recognition",
+      "affordance-check1",
+      "affordance-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "capability",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "できそう・期待されるから、条件つきで実行できる範囲の判断へ進む。",
+    "boundary": "Function / できることと、説明上期待される働きを分ける。",
+    "testIds": [
+      "v1753-capability-recognition",
+      "capability-check1",
+      "capability-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "feature",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "特徴の発見から、特徴と能力・手がかり・効果の別証拠を求めることへ進む。",
+    "boundary": "Capability / 備える特徴だけで、課題を達成する能力は保証できない。",
+    "testIds": [
+      "v1753-feature-recognition",
+      "feature-check1",
+      "feature-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "signifier",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "目印を見つけることから、何を示唆し実際に何が可能かを切り分けることへ進む。",
+    "boundary": "Affordance / 示唆は実際の行為可能性の保証ではない。",
+    "testIds": [
+      "v1753-signifier-recognition",
+      "signifier-check1",
+      "signifier-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "constraint",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "制約＝悪い障害という印象から、可能域を形づくる条件として説明することへ進む。",
+    "boundary": "Obstacle / 制約は可能性の条件、障害は達成を妨げるものという焦点。",
+    "testIds": [
+      "v1753-constraint-recognition",
+      "constraint-check1",
+      "constraint-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "specification",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "望ましいラベルから、何をどう確認する条件かを読み取ることへ進む。",
+    "boundary": "Feature / 満たすべき条件と、実際に備わった特徴を区別する。",
+    "testIds": [
+      "v1753-specification-recognition",
+      "specification-check1",
+      "specification-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "subject",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "主体を一語にまとめることから、経験・判断と行為・代理の位置を別々に記すことへ進む。",
+    "boundary": "Agent / 経験・判断の位置と、行為を開始・担う役割は一致するとは限らない。",
+    "testIds": [
+      "v1753-subject-recognition",
+      "subject-check1",
+      "subject-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "object",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "Object＝手に触れる物という入口から、何の対象かを指定する理解へ進む。",
+    "boundary": "Thing / Objectは関係の対象、Thingは何か一つのものとしての焦点。",
+    "testIds": [
+      "v1753-object-recognition",
+      "object-check1",
+      "object-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "agent",
+    "changedStages": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "full",
+    "recognitionDelta": "「何が行ったか」の同定から、どの用法で、どんな制御・委任条件を調べるべきかを選べる理解へ進む。",
+    "boundary": "Agentは担い手の焦点であり、Tool・Assistant・Proxyとは重なり得る。意図・人格・責任は語の使用だけから自動的に付与しない。",
+    "testIds": [
+      "v1753-agent-1",
+      "v1753-agent-2",
+      "v1753-agent-3",
+      "agent-check1",
+      "agent-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "thing",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "一つとして名指すことと、その場で担う関係上の役割を分けられるようになる。",
+    "boundary": "Goods / 何か一つであることと、需要・利用・交換上の財であることは別。",
+    "testIds": [
+      "v1753-thing-recognition",
+      "thing-check1",
+      "thing-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "goods",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "物と値段の分類から、財としての関係と利用条件を分離する判断へ進む。",
+    "boundary": "Thing / 物の同一性と財としての位置は同じでなく、物理性だけでは分類できない。",
+    "testIds": [
+      "v1753-goods-recognition",
+      "goods-check1",
+      "goods-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "objectivity",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "個人差を消すという印象から、比較・批判可能な条件を作ることへ進む。",
+    "boundary": "Subjectivity / 主観的経験の存在は客観性を直ちに否定しない。",
+    "testIds": [
+      "v1753-objectivity-recognition",
+      "objectivity-check1",
+      "objectivity-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "subjectivity",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "私だけの印象という切捨てから、報告の射程と一般化の限界を明示することへ進む。",
+    "boundary": "Objectivity / 視点があることと、検証から閉ざされていることを分ける。",
+    "testIds": [
+      "v1753-subjectivity-recognition",
+      "subjectivity-check1",
+      "subjectivity-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "engine",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "中心的なものという比喩から、何をどのように変換・生成する中核かへ進む。",
+    "boundary": "Driver / Engineは変換・生成の中核、Driverは方向や勢いを与える要因。",
+    "testIds": [
+      "v1753-engine-recognition",
+      "engine-check1",
+      "engine-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "mechanism",
+    "changedStages": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "full",
+    "recognitionDelta": "「順序ではなく仕組み」という対比から、どこまで観察され何が仮説かを示す説明へ進む。",
+    "boundary": "Mechanismそのもの、Mechanismについての説明、Processの記述、Machineの同定は別。区別を排他的な辞書定義として固定しない。",
+    "testIds": [
+      "v1753-mechanism-1",
+      "v1753-mechanism-2",
+      "v1753-mechanism-3",
+      "mechanism-check1",
+      "mechanism-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "driver",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "強そうな原因名から、寄与の比較と代替説明へ進む。",
+    "boundary": "Factor / Driverは寄与を強調した読み。すべてのFactorを主要Driverにはしない。",
+    "testIds": [
+      "v1753-driver-recognition",
+      "driver-check1",
+      "driver-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "process",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "順序を列挙することから、分岐・条件・成立説明との違いへ進む。",
+    "boundary": "Structure / 時間的な進行と、関係の配置・パターンを区別する。",
+    "testIds": [
+      "v1753-process-recognition",
+      "process-check1",
+      "process-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "motor",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "電動部品という典型から、動力源と駆動の働きを条件付きで読むことへ進む。",
+    "boundary": "Engine / 工学の典型差と一般語の重なりを同時に保つ。",
+    "testIds": [
+      "v1753-motor-recognition",
+      "motor-check1",
+      "motor-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "loop",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "往復の形から、何が戻り何を変える経路かを区別することへ進む。",
+    "boundary": "Feedback Loop / 戻る形だけでは結果を用いた調整は成立しない。",
+    "testIds": [
+      "v1753-loop-recognition",
+      "loop-check1",
+      "loop-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "cycle",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "巡るという印象から、相と各巡りの差を両立して読むことへ進む。",
+    "boundary": "Iteration / 相の巡りと、手続きを繰り返すことは焦点が違う。",
+    "testIds": [
+      "v1753-cycle-recognition",
+      "cycle-check1",
+      "cycle-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "recursion",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "反復回数から、同じ規則が内部へ適用される構造へ焦点を移す。",
+    "boundary": "Iteration / 自己適用・再入と、単なる反復実行を区別する。",
+    "testIds": [
+      "v1753-recursion-recognition",
+      "recursion-check1",
+      "recursion-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "iteration",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "何回目かという把握から、各回の違いと基準上の結果を分けることへ進む。",
+    "boundary": "Improvement / 回数の増加と、基準上の改善は別。",
+    "testIds": [
+      "v1753-iteration-recognition",
+      "iteration-check1",
+      "iteration-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "feedback-loop",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "意見を返したことから、戻った情報が後続へ作用する経路を確認することへ進む。",
+    "boundary": "Loop / 情報を返すだけでなく振る舞いへ作用する経路を示す。",
+    "testIds": [
+      "v1753-feedback-loop-recognition",
+      "feedback-loop-check1",
+      "feedback-loop-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "improvement",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "よくなったという印象から、改善対象・尺度・副作用を分けることへ進む。",
+    "boundary": "Change / 変化したことだけでは、よくなったとは言えない。",
+    "testIds": [
+      "v1753-improvement-recognition",
+      "improvement-check1",
+      "improvement-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "change",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "新旧ラベルから、変わった変数と不変条件を特定することへ進む。",
+    "boundary": "Progress / 差の成立と目標・方向に沿った進みを分ける。",
+    "testIds": [
+      "v1753-change-recognition",
+      "change-check1",
+      "change-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "progress",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "前へ進むという評価から、どの目標・工程への進みかを限定することへ進む。",
+    "boundary": "Improvement / 目標へ近づくことと、他の基準を含む改善は同一でない。",
+    "testIds": [
+      "v1753-progress-recognition",
+      "progress-check1",
+      "progress-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "optimization",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "最大値への到達から、目標の代理性・制約・射程を説明することへ進む。",
+    "boundary": "Improvement / 設定した目的への最適化と、広い価値の改善を区別する。",
+    "testIds": [
+      "v1753-optimization-recognition",
+      "optimization-check1",
+      "optimization-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "development",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "育ったという一括説明から、何が時間的に形成されたかを特定することへ進む。",
+    "boundary": "Improvement / 形成・展開は、必ずしもすべての関係者にとって改善ではない。",
+    "testIds": [
+      "v1753-development-recognition",
+      "development-check1",
+      "development-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "refinement",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "詳細の追加から、余分なものの除去を含む条件付きの精密化へ進む。",
+    "boundary": "Development / 形成全体と、既存案の精度・整合性を詰める焦点を分ける。",
+    "testIds": [
+      "v1753-refinement-recognition",
+      "refinement-check1",
+      "refinement-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "criterion",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "基準という一語から、評価軸・規則・参照物・代替指標を区別することへ進む。",
+    "boundary": "Standard / 判断軸・条件と、共有された規則・期待水準を区別する。",
+    "testIds": [
+      "v1753-criterion-recognition",
+      "criterion-check1",
+      "criterion-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "standard",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "守る基準から、その規定範囲と規定外の判断を分けることへ進む。",
+    "boundary": "Benchmark / 準拠する規則・水準と、比較のための具体的参照を分ける。",
+    "testIds": [
+      "v1753-standard-recognition",
+      "standard-check1",
+      "standard-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "benchmark",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "比較でよかったという結果から、課題の射程と外部適用を別判断にすることへ進む。",
+    "boundary": "Criterion / 参照例は判断の軸そのものではない。",
+    "testIds": [
+      "v1753-benchmark-recognition",
+      "benchmark-check1",
+      "benchmark-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "analysis",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "分けて並べることから、関係を示して問いへ答えることへ進む。",
+    "boundary": "Description / 観察したものの記述と、構成・関係を解き明かす作業を区別する。",
+    "testIds": [
+      "v1753-analysis-recognition",
+      "analysis-check1",
+      "analysis-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "synthesis",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "まとめるという操作から、差を保存しながら全体を構成することへ進む。",
+    "boundary": "Analysis / 分けて解く焦点と、つないで構成する焦点は往復できる。",
+    "testIds": [
+      "v1753-synthesis-recognition",
+      "synthesis-check1",
+      "synthesis-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "evaluation",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "分かったからよいという推論から、理解と価値判断を分けることへ進む。",
+    "boundary": "Analysis / どう成り立つかの理解と、基準に照らす判断を分ける。",
+    "testIds": [
+      "v1753-evaluation-recognition",
+      "evaluation-check1",
+      "evaluation-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "interpretation",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "意味が読めたことから、読みの根拠と原因説明の不足を分けることへ進む。",
+    "boundary": "Explanation / 意味をどう読むかと、なぜ・どう生じたかの説明を区別する。",
+    "testIds": [
+      "v1753-interpretation-recognition",
+      "interpretation-check1",
+      "interpretation-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "explanation",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "詳しく述べることから、問いと根拠を結ぶ成立説明へ進む。",
+    "boundary": "Description / 何があったかの提示と、なぜ・どうの理解を支えることを分ける。",
+    "testIds": [
+      "v1753-explanation-recognition",
+      "explanation-check1",
+      "explanation-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "description",
+    "changedStages": [
+      4,
+      5
+    ],
+    "beforeIssue": "Unlabelled wrong option in falsify and generic Stage 5",
+    "actualChange": "targeted",
+    "recognitionDelta": "事実らしい文章から、観察範囲・視点・推測を分けた記録へ進む。",
+    "boundary": "Evaluation / 何があるかの記述と、基準に照らした価値判断を分ける。",
+    "testIds": [
+      "v1753-description-recognition",
+      "description-check1",
+      "description-check2"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "tool",
+    "changedStages": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "beforeIssue": "New manuscript",
+    "actualChange": "new",
+    "recognitionDelta": "「道具という物の種類」から、同一物の異なる利用関係と、成功・失敗の条件を記述できる理解へ進む。",
+    "boundary": "Toolは使用上の手段という焦点。自動化や複雑化によってToolでなくなるわけではなく、Toolとしての使用とAgentとしての遂行は両立し得る。",
+    "testIds": [
+      "v1753-tool-1",
+      "v1753-tool-2",
+      "v1753-tool-3"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "proxy",
+    "changedStages": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "beforeIssue": "New manuscript",
+    "actualChange": "new",
+    "recognitionDelta": "「私の代わり」という印象から、代替対象・範囲・妥当性・破綻条件を明記できる理解へ進む。",
+    "boundary": "Proxyは代行・代用の関係。代理役への指定、実際の遂行、代替の妥当性は別であり、測定のProxyを意思ある代理人と同一視しない。",
+    "testIds": [
+      "v1753-proxy-1",
+      "v1753-proxy-2",
+      "v1753-proxy-3"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "medium",
+    "changedStages": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "beforeIssue": "New manuscript",
+    "actualChange": "new",
+    "recognitionDelta": "「情報を入れる容器」から、媒介の仕方が何を保持・可能化・制約するかを条件付きで問える理解へ進む。",
+    "boundary": "Mediumの選択と、内容の由来・用途・理解の結果は別の問い。媒体が同じでも結果は一様でなく、媒体を変えただけで認識変容を証明できない。",
+    "testIds": [
+      "v1753-medium-1",
+      "v1753-medium-2",
+      "v1753-medium-3"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "device",
+    "changedStages": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "beforeIssue": "New manuscript",
+    "actualChange": "new",
+    "recognitionDelta": "「何の機器か」から、「どの働きをねらう仕掛けか、その効果は成立したか」を分けて問える理解へ進む。",
+    "boundary": "Deviceを同定したことは、目的達成やMechanismの検証が済んだことではない。物理的装置と表現技法の用法を無理に一種類の物へ統合しない。",
+    "testIds": [
+      "v1753-device-1",
+      "v1753-device-2",
+      "v1753-device-3"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "machine",
+    "changedStages": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "beforeIssue": "New manuscript",
+    "actualChange": "new",
+    "recognitionDelta": "「複雑で自動の道具」という見方から、入力・作動・制御・出力の条件を取り出せる理解へ進む。",
+    "boundary": "Machineは作動の焦点。Tool→Device→Machine→Agentという必然的な進歩段階に配置しない。",
+    "testIds": [
+      "v1753-machine-1",
+      "v1753-machine-2",
+      "v1753-machine-3"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "equipment",
+    "changedStages": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "beforeIssue": "New manuscript",
+    "actualChange": "new",
+    "recognitionDelta": "「機材を持つ」から、「どんな活動に何が足り、何が別途必要か」を判断できる理解へ進む。",
+    "boundary": "Equipmentは備えの焦点で、Resource・System・Capabilityと同一ではない。一台がEquipmentである用法や非物的な拡張用法を排除しない。",
+    "testIds": [
+      "v1753-equipment-1",
+      "v1753-equipment-2",
+      "v1753-equipment-3"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "appliance",
+    "changedStages": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "beforeIssue": "New manuscript",
+    "actualChange": "new",
+    "recognitionDelta": "「家電」という対象分類から、用途への組込みと使用・作動条件を区別する理解へ進む。",
+    "boundary": "Applianceは用途を前面に出す装置の呼び方。家電だけに限定せず、専用性から簡単さや無条件の成功を推論しない。",
+    "testIds": [
+      "v1753-appliance-1",
+      "v1753-appliance-2",
+      "v1753-appliance-3"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "gadget",
+    "changedStages": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "beforeIssue": "New manuscript",
+    "actualChange": "new",
+    "recognitionDelta": "「便利な小物」という一括理解から、対象の特徴と呼称の評価的含みを別々に判断できる理解へ進む。",
+    "boundary": "Gadgetという語だけで有用・無用・未成熟を決めない。小型装置という語義と、話し手の評価的な含みの両方を保持する。",
+    "testIds": [
+      "v1753-gadget-1",
+      "v1753-gadget-2",
+      "v1753-gadget-3"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "resource",
+    "changedStages": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "beforeIssue": "New manuscript",
+    "actualChange": "new",
+    "recognitionDelta": "「所有する資源」から、誰にとって何を支えるか、利用のどこが未成立かを説明できる理解へ進む。",
+    "boundary": "Resourceがあることと利用できること、利用できることと能力・成果があることを分ける。SourceやEquipmentと役割が重なる場合もある。",
+    "testIds": [
+      "v1753-resource-1",
+      "v1753-resource-2",
+      "v1753-resource-3"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  },
+  {
+    "id": "source",
+    "changedStages": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "beforeIssue": "New manuscript",
+    "actualChange": "new",
+    "recognitionDelta": "「出典がある」から、「どこまでの由来を確認し、どの主張を支えられるか」を説明する理解へ進む。",
+    "boundary": "Sourceを特定できても真実性や独立した裏付けを自動的に得たことにはならない。同じ出典の複数引用は、独立した複数証拠とは限らない。",
+    "testIds": [
+      "v1753-source-1",
+      "v1753-source-2",
+      "v1753-source-3"
+    ],
+    "sourceStatus": "Supplied sources; new pronunciation independently pending",
+    "remainingGap": "Learning effect and independent expert review pending"
+  }
+]

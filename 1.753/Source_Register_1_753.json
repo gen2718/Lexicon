@@ -1,0 +1,306 @@
+{
+  "sources": [
+    {
+      "id": "mw-agent",
+      "title": "Merriam-Webster — Agent",
+      "url": "https://www.merriam-webster.com/dictionary/agent",
+      "claimScope": "Selected general senses; etymology only where stated. Automatically compiled news examples are not used.",
+      "type": "Lexicographic Evidence",
+      "checked": "2026-09-18",
+      "status": "Supplied analysis source record; not independently re-read during implementation",
+      "finalId": "v1753-src-mw-agent"
+    },
+    {
+      "id": "mw-tool",
+      "title": "Merriam-Webster — Tool",
+      "url": "https://www.merriam-webster.com/dictionary/tool",
+      "claimScope": "Selected general senses; etymology only where stated. Automatically compiled news examples are not used.",
+      "type": "Lexicographic Evidence",
+      "checked": "2026-09-18",
+      "status": "Supplied analysis source record; not independently re-read during implementation",
+      "finalId": "v1753-src-mw-tool"
+    },
+    {
+      "id": "mw-proxy",
+      "title": "Merriam-Webster — Proxy",
+      "url": "https://www.merriam-webster.com/dictionary/proxy",
+      "claimScope": "Selected general senses; etymology only where stated. Automatically compiled news examples are not used.",
+      "type": "Lexicographic Evidence",
+      "checked": "2026-09-18",
+      "status": "Supplied analysis source record; not independently re-read during implementation",
+      "finalId": "v1753-src-mw-proxy"
+    },
+    {
+      "id": "mw-medium",
+      "title": "Merriam-Webster — Medium",
+      "url": "https://www.merriam-webster.com/dictionary/medium",
+      "claimScope": "Selected general senses; etymology only where stated. Automatically compiled news examples are not used.",
+      "type": "Lexicographic Evidence",
+      "checked": "2026-09-18",
+      "status": "Supplied analysis source record; not independently re-read during implementation",
+      "finalId": "v1753-src-mw-medium"
+    },
+    {
+      "id": "mw-device",
+      "title": "Merriam-Webster — Device",
+      "url": "https://www.merriam-webster.com/dictionary/device",
+      "claimScope": "Selected general senses; etymology only where stated. Automatically compiled news examples are not used.",
+      "type": "Lexicographic Evidence",
+      "checked": "2026-09-18",
+      "status": "Supplied analysis source record; not independently re-read during implementation",
+      "finalId": "v1753-src-mw-device"
+    },
+    {
+      "id": "mw-machine",
+      "title": "Merriam-Webster — Machine",
+      "url": "https://www.merriam-webster.com/dictionary/machine",
+      "claimScope": "Selected general senses; etymology only where stated. Automatically compiled news examples are not used.",
+      "type": "Lexicographic Evidence",
+      "checked": "2026-09-18",
+      "status": "Supplied analysis source record; not independently re-read during implementation",
+      "finalId": "v1753-src-mw-machine"
+    },
+    {
+      "id": "mw-mechanism",
+      "title": "Merriam-Webster — Mechanism",
+      "url": "https://www.merriam-webster.com/dictionary/mechanism",
+      "claimScope": "Selected general senses; etymology only where stated. Automatically compiled news examples are not used.",
+      "type": "Lexicographic Evidence",
+      "checked": "2026-09-18",
+      "status": "Supplied analysis source record; not independently re-read during implementation",
+      "finalId": "v1753-src-mw-mechanism"
+    },
+    {
+      "id": "mw-equipment",
+      "title": "Merriam-Webster — Equipment",
+      "url": "https://www.merriam-webster.com/dictionary/equipment",
+      "claimScope": "Selected general senses; etymology only where stated. Automatically compiled news examples are not used.",
+      "type": "Lexicographic Evidence",
+      "checked": "2026-09-18",
+      "status": "Supplied analysis source record; not independently re-read during implementation",
+      "finalId": "v1753-src-mw-equipment"
+    },
+    {
+      "id": "mw-appliance",
+      "title": "Merriam-Webster — Appliance",
+      "url": "https://www.merriam-webster.com/dictionary/appliance",
+      "claimScope": "Selected general senses; etymology only where stated. Automatically compiled news examples are not used.",
+      "type": "Lexicographic Evidence",
+      "checked": "2026-09-18",
+      "status": "Supplied analysis source record; not independently re-read during implementation",
+      "finalId": "v1753-src-mw-appliance"
+    },
+    {
+      "id": "mw-gadget",
+      "title": "Merriam-Webster — Gadget",
+      "url": "https://www.merriam-webster.com/dictionary/gadget",
+      "claimScope": "Selected general senses; etymology only where stated. Automatically compiled news examples are not used.",
+      "type": "Lexicographic Evidence",
+      "checked": "2026-09-18",
+      "status": "Supplied analysis source record; not independently re-read during implementation",
+      "finalId": "v1753-src-mw-gadget"
+    },
+    {
+      "id": "mw-resource",
+      "title": "Merriam-Webster — Resource",
+      "url": "https://www.merriam-webster.com/dictionary/resource",
+      "claimScope": "Selected general senses; etymology only where stated. Automatically compiled news examples are not used.",
+      "type": "Lexicographic Evidence",
+      "checked": "2026-09-18",
+      "status": "Supplied analysis source record; not independently re-read during implementation",
+      "finalId": "v1753-src-mw-resource"
+    },
+    {
+      "id": "mw-source",
+      "title": "Merriam-Webster — Source",
+      "url": "https://www.merriam-webster.com/dictionary/source",
+      "claimScope": "Selected general senses; etymology only where stated. Automatically compiled news examples are not used.",
+      "type": "Lexicographic Evidence",
+      "checked": "2026-09-18",
+      "status": "Supplied analysis source record; not independently re-read during implementation",
+      "finalId": "v1753-src-mw-source"
+    },
+    {
+      "id": "mw-assistant",
+      "title": "Merriam-Webster — Assistant",
+      "url": "https://www.merriam-webster.com/dictionary/assistant",
+      "claimScope": "Selected general senses; etymology only where stated. Automatically compiled news examples are not used.",
+      "type": "Lexicographic Evidence",
+      "checked": "2026-09-18",
+      "status": "Supplied analysis source record; not independently re-read during implementation",
+      "finalId": "v1753-src-mw-assistant"
+    },
+    {
+      "id": "collins-tool",
+      "title": "Collins English Dictionary — Tool",
+      "url": "https://www.collinsdictionary.com/dictionary/english/tool",
+      "claimScope": "Selected senses and usage contrasts; not a frequency survey or a complete historical corpus.",
+      "type": "Lexicographic Evidence",
+      "checked": "2026-09-18",
+      "status": "Supplied analysis source record; not independently re-read during implementation",
+      "finalId": "v1753-src-collins-tool"
+    },
+    {
+      "id": "collins-proxy",
+      "title": "Collins English Dictionary — Proxy",
+      "url": "https://www.collinsdictionary.com/dictionary/english/proxy",
+      "claimScope": "Selected senses and usage contrasts; not a frequency survey or a complete historical corpus.",
+      "type": "Lexicographic Evidence",
+      "checked": "2026-09-18",
+      "status": "Supplied analysis source record; not independently re-read during implementation",
+      "finalId": "v1753-src-collins-proxy"
+    },
+    {
+      "id": "collins-medium",
+      "title": "Collins English Dictionary — Medium",
+      "url": "https://www.collinsdictionary.com/dictionary/english/medium",
+      "claimScope": "Selected senses and usage contrasts; not a frequency survey or a complete historical corpus.",
+      "type": "Lexicographic Evidence",
+      "checked": "2026-09-18",
+      "status": "Supplied analysis source record; not independently re-read during implementation",
+      "finalId": "v1753-src-collins-medium"
+    },
+    {
+      "id": "collins-device",
+      "title": "Collins English Dictionary — Device",
+      "url": "https://www.collinsdictionary.com/dictionary/english/device",
+      "claimScope": "Selected senses and usage contrasts; not a frequency survey or a complete historical corpus.",
+      "type": "Lexicographic Evidence",
+      "checked": "2026-09-18",
+      "status": "Supplied analysis source record; not independently re-read during implementation",
+      "finalId": "v1753-src-collins-device"
+    },
+    {
+      "id": "collins-machine",
+      "title": "Collins English Dictionary — Machine",
+      "url": "https://www.collinsdictionary.com/dictionary/english/machine",
+      "claimScope": "Selected senses and usage contrasts; not a frequency survey or a complete historical corpus.",
+      "type": "Lexicographic Evidence",
+      "checked": "2026-09-18",
+      "status": "Supplied analysis source record; not independently re-read during implementation",
+      "finalId": "v1753-src-collins-machine"
+    },
+    {
+      "id": "collins-equipment",
+      "title": "Collins English Dictionary — Equipment",
+      "url": "https://www.collinsdictionary.com/dictionary/english/equipment",
+      "claimScope": "Selected senses and usage contrasts; not a frequency survey or a complete historical corpus.",
+      "type": "Lexicographic Evidence",
+      "checked": "2026-09-18",
+      "status": "Supplied analysis source record; not independently re-read during implementation",
+      "finalId": "v1753-src-collins-equipment"
+    },
+    {
+      "id": "collins-appliance",
+      "title": "Collins English Dictionary — Appliance",
+      "url": "https://www.collinsdictionary.com/dictionary/english/appliance",
+      "claimScope": "Selected senses and usage contrasts; not a frequency survey or a complete historical corpus.",
+      "type": "Lexicographic Evidence",
+      "checked": "2026-09-18",
+      "status": "Supplied analysis source record; not independently re-read during implementation",
+      "finalId": "v1753-src-collins-appliance"
+    },
+    {
+      "id": "collins-gadget",
+      "title": "Collins English Dictionary — Gadget",
+      "url": "https://www.collinsdictionary.com/dictionary/english/gadget",
+      "claimScope": "Selected senses and usage contrasts; not a frequency survey or a complete historical corpus.",
+      "type": "Lexicographic Evidence",
+      "checked": "2026-09-18",
+      "status": "Supplied analysis source record; not independently re-read during implementation",
+      "finalId": "v1753-src-collins-gadget"
+    },
+    {
+      "id": "collins-resource",
+      "title": "Collins English Dictionary — Resource",
+      "url": "https://www.collinsdictionary.com/dictionary/english/resource",
+      "claimScope": "Selected senses and usage contrasts; not a frequency survey or a complete historical corpus.",
+      "type": "Lexicographic Evidence",
+      "checked": "2026-09-18",
+      "status": "Supplied analysis source record; not independently re-read during implementation",
+      "finalId": "v1753-src-collins-resource"
+    },
+    {
+      "id": "collins-source",
+      "title": "Collins English Dictionary — Source",
+      "url": "https://www.collinsdictionary.com/dictionary/english/source",
+      "claimScope": "Selected senses and usage contrasts; not a frequency survey or a complete historical corpus.",
+      "type": "Lexicographic Evidence",
+      "checked": "2026-09-18",
+      "status": "Supplied analysis source record; not independently re-read during implementation",
+      "finalId": "v1753-src-collins-source"
+    },
+    {
+      "id": "mw-equip",
+      "title": "Merriam-Webster — Equip",
+      "url": "https://www.merriam-webster.com/dictionary/equip",
+      "claimScope": "Equipの語形史。Equipmentの全受容史を示さない。",
+      "type": "Lexicographic Evidence",
+      "checked": "2026-09-18",
+      "status": "Supplied analysis source record; not independently re-read during implementation",
+      "finalId": "v1753-src-mw-equip"
+    },
+    {
+      "id": "norman-signifier",
+      "title": "Don Norman — Signifiers, not affordances",
+      "url": "https://jnd.org/signifiers-not-affordances/",
+      "claimScope": "知覚可能な手がかり、意図的／偶発的Signifier、Affordanceとの区別。",
+      "type": "Author Primary Essay",
+      "checked": "2026-09-18",
+      "status": "Supplied analysis source record; not independently re-read during implementation",
+      "finalId": "v1753-src-norman-signifier"
+    },
+    {
+      "id": "norman-affordance",
+      "title": "Don Norman — Affordance, Conventions and Design (Part 2)",
+      "url": "https://jnd.org/affordance-conventions-and-design-part-2/",
+      "claimScope": "実際の行為可能性、知覚、慣習の区別。",
+      "type": "Author Primary Essay",
+      "checked": "2026-09-18",
+      "status": "Supplied analysis source record; not independently re-read during implementation",
+      "finalId": "v1753-src-norman-affordance"
+    },
+    {
+      "id": "noaa-proxy",
+      "title": "National Centers for Environmental Information — What Are Proxy Data?",
+      "url": "https://www.ncei.noaa.gov/news/what-are-proxy-data",
+      "claimScope": "間接記録を用いた過去の気候の復元。全Proxyの定義ではない。",
+      "type": "Institutional Primary Explanation",
+      "checked": "2026-09-18",
+      "status": "Supplied analysis source record; not independently re-read during implementation",
+      "finalId": "v1753-src-noaa-proxy"
+    },
+    {
+      "id": "agents-1995",
+      "title": "Wooldridge & Jennings — Intelligent agents: theory and practice (1995)",
+      "url": "https://doi.org/10.1017/S0269888900008122",
+      "claimScope": "出版社のAbstract・書誌のみ確認。Agent theory / architectures / languagesの区分。本文全体の性質リストを今回読了したとはしない。",
+      "type": "Research Article — Abstract Only",
+      "checked": "2026-09-18",
+      "status": "Supplied analysis source record; not independently re-read during implementation",
+      "finalId": "v1753-src-agents-1995"
+    },
+    {
+      "id": "transformer-2017",
+      "title": "Vaswani et al. — Attention Is All You Need (2017)",
+      "url": "https://arxiv.org/abs/1706.03762",
+      "claimScope": "TransformerがモデルArchitectureとして提案されたこと。現在の特定製品や個人別学習の証拠ではない。",
+      "type": "Research Article — Abstract and Metadata",
+      "checked": "2026-09-18",
+      "status": "Supplied analysis source record; not independently re-read during implementation",
+      "finalId": "v1753-src-transformer-2017"
+    },
+    {
+      "id": "nasa-design",
+      "title": "NASA — Systems Engineering Handbook, 4.0 System Design Processes",
+      "url": "https://www.nasa.gov/reference/4-0-system-design-processes/",
+      "claimScope": "要求、機能・性能、設計解の関係を扱う工学的事例。Design一般の唯一の定義にはしない。",
+      "type": "Institutional Primary Handbook",
+      "checked": "2026-09-18",
+      "status": "Supplied analysis source record; not independently re-read during implementation",
+      "finalId": "v1753-src-nasa-design"
+    }
+  ],
+  "pronunciation": "British IPA editorial transcription; Cambridge pronunciation pages returned 403; independent review pending",
+  "scope": "Supplied source checks are not implementation-time full-source verification; private research context excluded"
+}

@@ -1,0 +1,45 @@
+Validation · 2026-09-18
+
+1. 実装・データ検査：PASS
+Node VM（DOM代用）で1702 check groups。これはブラウザや実音声の検査ではありません。
+全97 Mainの3 Viewと5段階、49 Satellite、112比較、320問題、434既存回答分岐を描画検査。
+ID・出典参照・Family / Route・Network接続・Flow参照・矩形配置・検索aliasを検査。
+既存87語の保持対象フィールド、全音声資産、対象外29語の全データを比較。
+44語の現行falsify / master、派生表示の移行方針とMarkdown / JSON原稿主要フィールドの一致を照合。
+参照先が存在することを、外部出典が全主張を立証することと同一視していません。
+
+2. 実ブラウザ検査：PASS（範囲限定）
+macOS / Google Chrome 152.0.7977.65 / headless / 専用一時profile / 直接file起動。
+97 Mainのfive/history/network、112比較（Main同士は定義・履歴比較）、49 Satellite renderer、320問題を検査。
+658 Mapノードの詳細rendererと代表ノードのクリック、fit/readable zoomを検査。
+1440px / 390pxでProxy・Tool・Layer・Societyのページ横はみ出しなし。
+新規10語全件と既存Agent / Society / AnalysisのAACでcurrentTime進行を確認（計13語）。
+全97語の聴感確認ではなく、記録された13語のメディア再生検査です。
+Assistantダイアログ、別名検索、メモJSON download、クリーンreload、公開HTMLへのメモ混入なしを確認。
+上記の観測中、page error 0、HTTP(S)/WebSocket requests 0。
+追加操作：検索ショートカット / Escape、A–Z順、新規5 Route、戻る／進む、比較左右入替、Flow Enter操作、メモコピー用JSON表示を検査。
+印刷CSSのスクリーンショットのみ実施。紙面全ページの組版は検証していません。
+
+3. Safari実機：代表検査PASS / 全件検査PENDING
+macOS Safari 27.2を新規ウィンドウで直接file起動。
+97件の現行件数、Toolの5段階・比較説明、認識Flowを表示。
+Toolの図上ノードをクリックし、形成説明の全文展開を確認。
+Tool AAC：再生中0.03 / 0.87秒 → 再生完了0.87秒。
+Proxy AAC：再生中0.19 / 1.04秒 → 再生完了1.04秒。
+ProxyのContemporary Sense Branchを表示し、測定側の「知りたい性質」を展開。
+最終表示修正後に再読込し1.753 Reconstruction表記も確認。
+全97語のSafari音声、全操作・画面幅・出力機器の組合せは未検査。
+
+4. 発音内容の校閲：PENDING
+生成対象テキスト・en-GB voice・内蔵データ対応・ファイルハッシュを検査。
+再生成功と、強勢・母音・語末・英国発音としての妥当性の独立した聴取校閲は別です。
+新規IPAは広い英国英語の編集表記。専門家の独立校閲は未実施。
+Cambridge pronunciationページ取得は403。Collinsの限定閲覧は全文・全語校閲の代替としない。
+
+5. 学習効果：NOT TESTED
+利用者実験、前後比較、長期学習効果、習熟度判定の妥当性は検証していません。
+問題・認識経路・訳し分けは編集上の提案であり、心理過程や成果の実証ではありません。
+
+補足：検査中の失敗は待機時間不足、閉じたdetails内の操作、並べ替え期待値を修正して再実行。
+検査数1702と旧565は粒度・対象が異なり、品質向上率や学習効果の数量指標ではありません。
+詳細対象IDと実行結果はValidation_Details_1_753.json、保存検査はPreservation_Manifest_1_753.json。

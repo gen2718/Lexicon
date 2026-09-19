@@ -1,0 +1,1383 @@
+{
+  "inputSha256": {
+    "Interactive_Cognitive_Lexicon_1.752_Public.html": "a8e371b13e8da24f331462370fdf23bceb146746d0ce1cd1d675d2268ffd8a68",
+    "Analytical_Translation_1_753_Analysis_Package.zip": "ca8106de3c2e6d0f337eaf7f391c9cfef6d2884b8073901bbbda01ad0872e2cf",
+    "Work_Prompt_Analytical_Translation_Edition_1_753.txt": "50813c5926b52f8853630048da45dc2d57ceba6c14e90a9984cfc7af318d6dbf",
+    "Works_Analytical_Translation_Edition_1_753_Input_Package.zip": "7a0da4a91797709e1c5dca24765124c2e994a47a32c297878a96df2343966c1d"
+  },
+  "originalUnmodified": true,
+  "outputFiles": {
+    "Audio_Manifest_1_753.json": "2eccc38ff15a1188cde7c897debe391ee71a23faf5e77feb564c0c5ce94ef9fb",
+    "Change_Log_1_753.txt": "199783ed6cf1cd1b3d1edabffa8dbfa167590ba9c55fda73e1e8fc00bd83aa81",
+    "Concept_Migration_Map_1_752_to_1_753.json": "428970677c3117f5bfc589f5b82c47c8c69e1b491c1b30fb1aef9a033baa6afd",
+    "Content_Completion_Matrix_1_753.json": "8b256fa96109e4276456a60913b859b5f8cf2fa97499c474dda892abf984de75",
+    "Contrast_Network_Flow_Migration_1_753.json": "f58d987b786393d7e6dbfa4fa357f2bdab92cce8b67353d31ef8161c783469b8",
+    "Exercise_Migration_Matrix_1_753.json": "a037e5747e0ba8648d87cb04a42744b5ac9ddf0d6c146d47840aa96ba1fc590a",
+    "Field_Synchronisation_Map_1_753.json": "360e297ba4aedb38f38ef7bea0cbcbb0a7b56873ccff74ff933c1ca2647fc4e7",
+    "Interactive_Cognitive_Lexicon_1.753_Public.html": "3236effc47196098015cd3d066a68381740b052362ffcfda785b5695db48a4ff",
+    "README_1_753.txt": "badcb99040b5672059a96ece26e082187d20e849248d13488b7d287dcd00694c",
+    "Remaining_Issues_1_753.txt": "7a55a155961469f13cb524fcf7c76f7e10d15b16199c8e280d45d421ca76363c",
+    "Screenshots/map-narrow.png": "21110d1b3ba7fc15a7252f0694326d08cac84efaddd8028f8af84f1e9e0ffbfb",
+    "Screenshots/map-wide.png": "88ba8269d5722d1a477e164d5434c0c3f39119b19c5197bc48f0ef4308c6fb02",
+    "Source_Register_1_753.json": "57d360d92b0e51f1a78676f91b162819b04d7c9755b170152f87c1f326b03117",
+    "Validation_Details_1_753.json": "a6ff6163d1cb16953b33eff9d2e3ab68cea449eb59418a4547de40bb639c5ccc",
+    "Validation_Notes_1_753.txt": "43f9f17bb8417ebf9d20e3ffeb5c237c8627ed9bdb3b9537892b3c6323e0d924"
+  },
+  "selfHash": "Manifest intentionally not self-hashed; ZIP checked separately",
+  "existingMainIdsPreserved": [
+    "individual",
+    "freedom",
+    "liberty",
+    "right",
+    "rights",
+    "nation",
+    "society",
+    "public",
+    "religion",
+    "culture",
+    "economy",
+    "philosophy",
+    "modern",
+    "love",
+    "being",
+    "existence",
+    "beauty",
+    "aesthetics",
+    "nature",
+    "natural-selection",
+    "liberties",
+    "rule-of-law",
+    "rule-by-law",
+    "order-in-law",
+    "order-by-law",
+    "common-law",
+    "equity",
+    "concept",
+    "design",
+    "architecture",
+    "structure",
+    "system",
+    "function",
+    "form",
+    "shape",
+    "art",
+    "arts",
+    "craft",
+    "technique",
+    "technic",
+    "technology",
+    "ethics",
+    "morality",
+    "layer",
+    "level",
+    "dimension",
+    "element",
+    "factor",
+    "component",
+    "affordance",
+    "capability",
+    "feature",
+    "signifier",
+    "constraint",
+    "specification",
+    "subject",
+    "object",
+    "agent",
+    "thing",
+    "goods",
+    "objectivity",
+    "subjectivity",
+    "engine",
+    "mechanism",
+    "driver",
+    "process",
+    "motor",
+    "loop",
+    "cycle",
+    "recursion",
+    "iteration",
+    "feedback-loop",
+    "improvement",
+    "change",
+    "progress",
+    "optimization",
+    "development",
+    "refinement",
+    "criterion",
+    "standard",
+    "benchmark",
+    "analysis",
+    "synthesis",
+    "evaluation",
+    "interpretation",
+    "explanation",
+    "description"
+  ],
+  "newMainIds": [
+    "tool",
+    "proxy",
+    "medium",
+    "device",
+    "machine",
+    "equipment",
+    "appliance",
+    "gadget",
+    "resource",
+    "source"
+  ],
+  "existingAudio": [
+    {
+      "id": "individual",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audio",
+          "mime": "audio/wav",
+          "bytes": 63186,
+          "sha256": "caba209ccc34749deec0153c1855c2216b9091edee101984588ba53f7ab21616"
+        },
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 9675,
+          "sha256": "fe31c44ab692e1a30560c95105be7955f67a3380138928ef0a87679b33644bfe"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "freedom",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audio",
+          "mime": "audio/wav",
+          "bytes": 51962,
+          "sha256": "ed826b9ddf31c516c03d70f8c5bd3499c8338ccbe0143a920427093a10604aeb"
+        },
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 8133,
+          "sha256": "5e2f11acf2a8a69f9bbcfb3b80c640801c5a039782b55547456094de4be927a8"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "liberty",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audio",
+          "mime": "audio/wav",
+          "bytes": 52978,
+          "sha256": "90279422c3e9d2118df67da60fc032dc076d0bb381b9f0155d9481b789a5f759"
+        },
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 8132,
+          "sha256": "f098b71a4df962adc75fde64c447c2bf0e569debdceaa05f68669047b7427fe5"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "right",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audio",
+          "mime": "audio/wav",
+          "bytes": 42776,
+          "sha256": "4fc784eac5b0b766e22ecca2328128982a518626878fc9cec88eb82ce7226efb"
+        },
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 6909,
+          "sha256": "3e1b8b79025d8467c522c2ba32bae09fc3284b6d3ba3789e6b4e54bb6a53b623"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "rights",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audio",
+          "mime": "audio/wav",
+          "bytes": 48896,
+          "sha256": "cc46e8038a2a139461155ffbcc548b72ed2c0747fc93947c8a270f20d255c8b5"
+        },
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 7116,
+          "sha256": "1b5b6d228ca35163ec1f7c6d6f3f4b32fa5cea57b98ad9e8b8d36380535479a0"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "nation",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audio",
+          "mime": "audio/wav",
+          "bytes": 53482,
+          "sha256": "d85f46178dc7c5c0ef5017fff582aa5dafa65978cc642732da8fd88ca24b4551"
+        },
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 8126,
+          "sha256": "50c6a950d89cfbfe435d93955bdef5a3ddec0942d6fb83bf1ac5d61ffd6015f8"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "society",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audio",
+          "mime": "audio/wav",
+          "bytes": 69306,
+          "sha256": "87dde90d44e0ee2a5470c12d8fc92a07445fc4621bab03c14811c160b390c8bc"
+        },
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 10047,
+          "sha256": "fa607bef3878b853e841b990901b0def6935c3278cdba02d1948115bdc68164b"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "public",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audio",
+          "mime": "audio/wav",
+          "bytes": 48606,
+          "sha256": "99df09ab30920050351db00484a0b2a10a2093bf030793986ffd2e31b0a154bf"
+        },
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 7496,
+          "sha256": "720803e879714a9a72d5731851e7e71f60150be5aeacb6cfcb5e149189ef4e32"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "religion",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audio",
+          "mime": "audio/wav",
+          "bytes": 56544,
+          "sha256": "86e03cd95761a231445164858b576704e747431d2883aadc3bd2519e37b0eaef"
+        },
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 8701,
+          "sha256": "c1b5856cd4f04c48d0d32916217eccf9eff124ee66ff0cb53d718a8981c6e956"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "culture",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audio",
+          "mime": "audio/wav",
+          "bytes": 49110,
+          "sha256": "eeb108294a765129cfdcf14ad43303655ec30cca2916fc44446638e85c17754d"
+        },
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 7302,
+          "sha256": "c18a1152227b27af1794d3f98abbb0cc000e68cbb909d207e3d33f38fd42c9a3"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "economy",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audio",
+          "mime": "audio/wav",
+          "bytes": 57572,
+          "sha256": "fdaeaf4be99d18749c1e75e75e7e343ec33c3e83c5bfb500b60d1f3124d538b8"
+        },
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 8444,
+          "sha256": "9c02173c6e1b55e5400f1dbfb02dd5a53327ef9e7a0c88b7d8f68e39ee0554e9"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "philosophy",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audio",
+          "mime": "audio/wav",
+          "bytes": 63690,
+          "sha256": "a980ae93cacaba6c2908bb87aeb57f7430c3653a49bb4685072309d035a705a4"
+        },
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 9175,
+          "sha256": "68c5e3bbf692fcfe73bc817fb9bf696be3f7213ccd24e4b8d579987a52e7da80"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "modern",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audio",
+          "mime": "audio/wav",
+          "bytes": 50934,
+          "sha256": "1111ac4ccf23670fa76269862f050859773b187951c12e09c882af0438f91604"
+        },
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 8002,
+          "sha256": "9830c8757ae8b8f06b9d89e6a269c0471b68d16a638d25775cd056b41197b522"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "love",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audio",
+          "mime": "audio/wav",
+          "bytes": 47368,
+          "sha256": "e43f3edb66f9e7671451ac55bbf75a9e41f2fa10270b9242089b2cc38717bc86"
+        },
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 7032,
+          "sha256": "d900efa3879480f4ce06f3988dd05fd91fa924c52c53ebc1680ca7ef4917e3d8"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "being",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audio",
+          "mime": "audio/wav",
+          "bytes": 49870,
+          "sha256": "07249bed9ee10c5ae2a5c09384ff50da1dfdf674f3bf18ef8d507b01e9978796"
+        },
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 7605,
+          "sha256": "20ee9b418603dfda2ae657255e79490a714059910d11effd727eee8ae392666a"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "existence",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audio",
+          "mime": "audio/wav",
+          "bytes": 67260,
+          "sha256": "62c6ed99f588c6d13870491968ff93fa546eda6a7544214cdce15d93de1151ca"
+        },
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 9836,
+          "sha256": "eca6a5b2f253e8fd8a5d566a4c8a214be2711b25b7b0105c3c1df87a6eb8bddc"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "beauty",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audio",
+          "mime": "audio/wav",
+          "bytes": 52930,
+          "sha256": "51c44e95480e92c7a1de2537dcc8a4710e9040f52c341db09d9acb3514a6bd47"
+        },
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 7827,
+          "sha256": "d74a5dd0a0daecfc0393725d0d4e871034e4e408781c72321abd7fb47c6f7a22"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "aesthetics",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audio",
+          "mime": "audio/wav",
+          "bytes": 67260,
+          "sha256": "6741c350977653489f8b8bc06d7f69e6149aaf264fc90bbfb8ff76b8aa2710d7"
+        },
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 9567,
+          "sha256": "eba6719f8bd1cb180c6eb632b3032fdd9c6ec15d4492648cee88cbcaf79723cf"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "nature",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audio",
+          "mime": "audio/wav",
+          "bytes": 48892,
+          "sha256": "ed289786e4590aa5d8766ee0ea95d5b4c2055dbf34d0201d7af0fda0331c43ca"
+        },
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 7484,
+          "sha256": "8dcbdb40c8a1ad2eeed22b1f5c78f98f80b1e36d9bcb40bc33c141b80525088f"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "natural-selection",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audio",
+          "mime": "audio/wav",
+          "bytes": 86626,
+          "sha256": "93e0d815896f7f489f824a6b0f69a05c9c3ff5aadfa5435d752e80e82d777db8"
+        },
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 12723,
+          "sha256": "b0f7e05a1b92edb7ced291f1de425059cc00be27f91246c34e8143531fcfc6ac"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "liberties",
+      "preferredPath": "entry.v17.audioSafari",
+      "assets": [
+        {
+          "path": ".v17.audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 8578,
+          "sha256": "de163ebc558112697869868539f05dffa9d1aeaadf3a638a21321b42ba7ac256"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "rule-of-law",
+      "preferredPath": "entry.v17.audioSafari",
+      "assets": [
+        {
+          "path": ".v17.audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 9784,
+          "sha256": "eb8e1ee1fff98d0721b7c601537634df77c4df7452a2abd0da5595eb3498e981"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "rule-by-law",
+      "preferredPath": "entry.v17.audioSafari",
+      "assets": [
+        {
+          "path": ".v17.audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 10611,
+          "sha256": "ff86cc4c2ad44dcbebc7b5bf39d0709d6e4d00b95838e7fc4a9ba634b8fb1f52"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "order-in-law",
+      "preferredPath": "entry.v17.audioSafari",
+      "assets": [
+        {
+          "path": ".v17.audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 10240,
+          "sha256": "efd05ef3ea46774ca17540f1234cf96a1bc094cee93ed745d005f8e3cc231842"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "order-by-law",
+      "preferredPath": "entry.v17.audioSafari",
+      "assets": [
+        {
+          "path": ".v17.audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 10295,
+          "sha256": "4083ed11a99382ceaa7f5ae3663e039aad280b18cc395e255b6b7a9fbb061edd"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "common-law",
+      "preferredPath": "entry.v17.audioSafari",
+      "assets": [
+        {
+          "path": ".v17.audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 9506,
+          "sha256": "4010c2bd4c547d27975d4e80e7ee5fe1e8b917a990666a3379400809cb34f725"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "equity",
+      "preferredPath": "entry.v17.audioSafari",
+      "assets": [
+        {
+          "path": ".v17.audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 8208,
+          "sha256": "28dbcc4d0f3d328bcfc101af7b8ef756a47e23e039f32fa6ad7a664278527303"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "concept",
+      "preferredPath": "entry.v17.audioSafari",
+      "assets": [
+        {
+          "path": ".v17.audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 8456,
+          "sha256": "0a993592595353525d3119838e800bd5e711b2ad215caf2409183d1c4ded7951"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "design",
+      "preferredPath": "entry.v17.audioSafari",
+      "assets": [
+        {
+          "path": ".v17.audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 8562,
+          "sha256": "95642baf5af57fd17acf0e835a49cbad7a8094a9d166fee97423b0c73264ea33"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "architecture",
+      "preferredPath": "entry.v17.audioSafari",
+      "assets": [
+        {
+          "path": ".v17.audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 10093,
+          "sha256": "7703bb216c8972a4e298e6b08f24c4fab80b31eaeb5e53e1d5413a96ce724e1f"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "structure",
+      "preferredPath": "entry.v17.audioSafari",
+      "assets": [
+        {
+          "path": ".v17.audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 8332,
+          "sha256": "ad3d8e0b76629f2f8b98efe14ac510d42a637bf550a1f87fdfd4400f50e73892"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "system",
+      "preferredPath": "entry.v17.audioSafari",
+      "assets": [
+        {
+          "path": ".v17.audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 8257,
+          "sha256": "17d6e4b06b7b46b4715d1655c435fd0b20f6005cad37d2f0f1d5b3005f291958"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "function",
+      "preferredPath": "entry.v17.audioSafari",
+      "assets": [
+        {
+          "path": ".v17.audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 8765,
+          "sha256": "2a4432d9ad1eed9082c2d244a164ca17f7cc876c1e78ef251c76b6e7008a4d07"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "form",
+      "preferredPath": "entry.v17.audioSafari",
+      "assets": [
+        {
+          "path": ".v17.audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 7826,
+          "sha256": "84fedf00cdbb8aec4bdd0608e9e8e89c808c85741a929bebbe28af1ab0ec3b38"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "shape",
+      "preferredPath": "entry.v17.audioSafari",
+      "assets": [
+        {
+          "path": ".v17.audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 7088,
+          "sha256": "bdcad10256fd9b700339af20f08b9feff869f71eb1f045198a3a421f1193a017"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "art",
+      "preferredPath": "entry.v17.audioSafari",
+      "assets": [
+        {
+          "path": ".v17.audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 6407,
+          "sha256": "2707fabcaa1fcaa7fb6249a8f295f4875385066e0df2de762e2d7bc59432076d"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "arts",
+      "preferredPath": "entry.v17.audioSafari",
+      "assets": [
+        {
+          "path": ".v17.audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 6885,
+          "sha256": "9fb9d26c8d413df8fcfdf71ec10cd466027744f21447258d51978658ecd6f799"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "craft",
+      "preferredPath": "entry.v17.audioSafari",
+      "assets": [
+        {
+          "path": ".v17.audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 7519,
+          "sha256": "68edf223468e3c297773523290f74b6c9a6cd56d1784e175746c91fda3d08301"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "technique",
+      "preferredPath": "entry.v17.audioSafari",
+      "assets": [
+        {
+          "path": ".v17.audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 7958,
+          "sha256": "a43b86a9923fcd5ed2e3b099690615cc868a77ba409262ebbcc24a94abe329e2"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "technic",
+      "preferredPath": "entry.v17.audioSafari",
+      "assets": [
+        {
+          "path": ".v17.audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 7724,
+          "sha256": "27a65f6c01dbc6542fd905fd3ce516e2c4f3d94ea52bdb8f6f0c6e3c16649987"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "technology",
+      "preferredPath": "entry.v17.audioSafari",
+      "assets": [
+        {
+          "path": ".v17.audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 9556,
+          "sha256": "af8b08091e0466a905ffff879fb40daf77893fab0362fc94e2b1fc1171593fe4"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "ethics",
+      "preferredPath": "entry.v17.audioSafari",
+      "assets": [
+        {
+          "path": ".v17.audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 7583,
+          "sha256": "3c77dc0fe09a55201ba1dea2e3da992756ac222b8f4628d19a24e57a14f92c55"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "morality",
+      "preferredPath": "entry.v17.audioSafari",
+      "assets": [
+        {
+          "path": ".v17.audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 8890,
+          "sha256": "f67466249ffea0f25e3139732ef661291a10f667202c7b80cba812c4a0377806"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "layer",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 6672,
+          "sha256": "9fa2e0b51317dc615e8a12e49c5996c65903a34e377b3cc07a80cc64e782caea"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "level",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 7058,
+          "sha256": "5926e250e0c576d10ccc38850ac9262ec36ce3c1046d6dfa8aae319ebf9a4c0a"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "dimension",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 10043,
+          "sha256": "82f1abf9074ad95bc7d14f21f298f2d7b6d7c7d5feb1405210d80abe7bea177f"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "element",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 8056,
+          "sha256": "93e051caef286e896fa706f2b0f6e397fd0e02ede81e528998abccdbe13a6cc1"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "factor",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 7633,
+          "sha256": "93f1293af516f30ac7336a72248cd24fa034236dec50e6df1673c32a7c29eb5f"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "component",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 9442,
+          "sha256": "5345ef13c3c57a165f25dc74bb767ff71f2c3d3de99b20d71966e8c1aa281ebf"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "affordance",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 9339,
+          "sha256": "bbdd28b33f47b3034b188a3e2837e6ed209c91e014c16fadd6956c4f2e20b372"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "capability",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 10697,
+          "sha256": "b818d2701a63bc1e9785330b0c8a5b40d73aa9bacb1d3bdda4562529a6f4f5f6"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "feature",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 7378,
+          "sha256": "d040a19d9ce2533e4d80bab5d41b32241b11e6be1d5d58f7ac15621fa1047e10"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "signifier",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 9516,
+          "sha256": "537668aeaf998450bf95baac7a616cf07fdbfdc0e00d9644f080998e599633d0"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "constraint",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 8868,
+          "sha256": "ed1dc1d35801fecebd04ca6706275d603d4c14cbdaba3041cb26cfed67722c36"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "specification",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 12698,
+          "sha256": "b5dbfeb7a512f740ecc8c228c2d639dcbb0ee7ae4415c7dd38248f0f4465a37f"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "subject",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 9061,
+          "sha256": "bddca5b57a421fb30ece2e888749b9eaa07613d431fc304a2458386928969d51"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "object",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 8738,
+          "sha256": "a50c4f77fdf7135e2225f0f940c81529b6e3bc781cb5e0f60ba5d3b440749918"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "agent",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 7813,
+          "sha256": "60a0a213014d49e90541e01379b791a998f779d1116378e5be5143d52b3e6a53"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "thing",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 7301,
+          "sha256": "75ed56e3790f791ea0cabcf35e539f00ad574601dc5b7b9357dc5f5a24b01e23"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "goods",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 7135,
+          "sha256": "f3b78668e1445d813a38b39118bca0fe672dc6158773bb5d242a96b6de82e58b"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "objectivity",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 11123,
+          "sha256": "b10963943af69c1a64854148ca24c2dd7c4412efd6182fd1b550cddd34daead1"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "subjectivity",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 11783,
+          "sha256": "2d86e4dd37c455e2d7abfad570caa20307b85b1e34ffea3fe4ec10095486a307"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "engine",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 7721,
+          "sha256": "559fb82ff8e1eb9422623a3d7d60bfe0aeedcb404ac9a416cd59858eb0382238"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "mechanism",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 10247,
+          "sha256": "a8c14a1502ddec760abad86a93290926181b1e3efcb70158ce4675df8a60ec4f"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "driver",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 6989,
+          "sha256": "75a6f8775dd5b11d49fd0dd217a69faf9a28ac23bc328f474329aabc13e7fe71"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "process",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 8295,
+          "sha256": "8fb20ea11ec4965c8f78e28f4bdeebf82e982d85bb08e58a86eed96f6207a10e"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "motor",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 7403,
+          "sha256": "42dc7d25cece7db0ab2ad28da9a8ecfddcab7fb8cf6eb315480f5a6fd750087d"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "loop",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 6738,
+          "sha256": "e5cbca72efb3ab04e9137e0d474fe1ec7ea8291102ab358a8318d4518e7dca7a"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "cycle",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 7901,
+          "sha256": "e907c0394038e469198c2d4c3c53007ccb9c96d3b009ae9d15f956f4016c363f"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "recursion",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 9521,
+          "sha256": "17269d49fe623f3e7dd46c0e4ed8cb3ec144f6ca6d4e3ca3b9939d5d7c6a2087"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "iteration",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 10072,
+          "sha256": "91125493c85926bff71cdf1a0f52dbe70dd54b4fb30dd02700ee69544a8850e1"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "feedback-loop",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 11150,
+          "sha256": "01992f940c0b8bcb2b1a411050c14e7280a00178609c5f36d6fc0c1a6119030f"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "improvement",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 10102,
+          "sha256": "39541c3d961014e151419a8076df064c38d5c2c4681c3ed6973ca4add8b3e47e"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "change",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 7438,
+          "sha256": "92a147c25b0014770ceb21ee88ce331b8e31045eef4daa0c13953caa720f78ba"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "progress",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 8514,
+          "sha256": "e530f2cd5ab9dc0e9b216f4e05097c7db6a76f3e9dca8decb7972f594aadb1d1"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "optimization",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 11369,
+          "sha256": "904c918ab597917bfcd2eb092b6129310a95b9886b27e1472d18e87904862743"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "development",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 9893,
+          "sha256": "75c18d9626f0b8beadb889f000c949e5e421a91c6cbfd790de31fa8c86859aa2"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "refinement",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 9698,
+          "sha256": "28262240931d7b8abe7cadf027a5afb295ff99e49cfb16ef367da10e209a789a"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "criterion",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 10381,
+          "sha256": "263db5b7a50b82e27b2dea2027771ba20c1b6386f2db471eedd5d3731195cd27"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "standard",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 8899,
+          "sha256": "d2ef506b38547c795e6338b1694f7086510a169083d73614f2306fa896a63b7b"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "benchmark",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 9618,
+          "sha256": "c25fd952ce0d0b9d3b1d44d0cb654eb4d0c7eb563c5921250e497e42339dfcb6"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "analysis",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 9209,
+          "sha256": "c746b2091c2b6cc8f11e76e506daf775d25a1ab15c7186a8e0f6248ed6f75f59"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "synthesis",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 9669,
+          "sha256": "df07d6db86a33d8be602d2ff7476ebbfab675796217b8b2aef2e5c17cf3e8081"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "evaluation",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 11587,
+          "sha256": "05120650b39443c16047d8f01df9687fc2d41c573759b14be483e0f2c7b207a8"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "interpretation",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 12304,
+          "sha256": "f455d8ceb040eecaf0e2f1302e100b67b6526aba7c84b657526cfd71ed513daa"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "explanation",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 11579,
+          "sha256": "599bd414861b04e37e47ca557a7797e07d3fbe9bd3346ed2a375fe72fb4e2981"
+        }
+      ],
+      "sameBytes": true
+    },
+    {
+      "id": "description",
+      "preferredPath": "entry.audioSafari",
+      "assets": [
+        {
+          "path": ".audioSafari",
+          "mime": "audio/mp4",
+          "bytes": 10169,
+          "sha256": "178368f987e400b56e9d9d8d65a5fd465e868093e3effc9cbb6863e04b42b530"
+        }
+      ],
+      "sameBytes": true
+    }
+  ],
+  "privacyScan": "No originating-user paths, personal cases or temporary QA memo text in public text artifacts",
+  "checks": 1702
+}

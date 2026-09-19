@@ -1,0 +1,41 @@
+1.752 → 1.753 · 2026-09-18
+
+原本1.752は変更していません。原本と分析パッケージのSHA-256を確認して別HTMLを生成しました。
+一般概念辞典に限定し、別系列Lexiconのデータを取り込んでいません。
+新規Main10語、Agent / Mechanismの全5段階、既存42語のStage 4 / 5補正、既存14語の追加文脈を実装。
+9既存Satelliteを補完し、AssistantをSatelliteとして追加。8 Candidateは昇格せず保持。
+変更対象外29 Mainは全データが原本と一致。既存87のID・見出し・IPA・歴史資料・既存音声を保持。
+
+44語の問題：旧falsify中の誤答的断定を現行境界へ訂正。diag.riskは「起こり得る誤認」と「訂正」を区別。
+現行master / compact / Stage 5 / Primary Boundary / Translation Diagnostics / Flowの形成・翻訳焦点を同期。
+指定比較原稿を現行比較へ適合し、関連する旧説明は誤認と訂正を区別。旧問題・旧Stage 5は履歴として保持。
+原稿はJSONごと差し替えず、process配列→表示文字列・Flow、integration→Stage 4、formation→master等へ変換。
+42語ではStage 1–3と歴史資料を保持し、14語は既存本文に追記。既存分析の全出典を再研究したとはしていません。
+
+比較：原稿36件のうち10ペアは既存11レコードを補完。26レコードを追加し、全112件。
+Affordance / Signifierの正逆2レコードは各ID・左右を保持。対比は排他的二分や成熟階段として表示しない。
+Network：既存67関係を保持し、型を区別した36関係を追加。計103。対応比較IDを最終IDへ解決。
+Reading Routesは5件追加し20件。Familyは17件の構成を維持し新規語を配置。
+Flow：全97 Primary Map。25 history / 7 branch / 7 translation / 58 recognition。
+新規10語とAgent / Mechanismの認識Flowを原稿固有の過程へ適合。
+Agent / Mechanismの旧過程ノードは旧記録へ退避し、意味役割ノードIDを保持。黙って旧IDを再利用しない。
+全Primary Mapの658ノード・626接続を検査。共有Genealogyの別構造やProxy補助分岐はこの数に含まない。
+Proxyには代理遂行と測定上の代用を区別する現代用法の補助分岐を追加。連続語義史の主張はしない。
+
+問題：既存261 = 保持217 + 置換44。原稿103件を全採用。
+最終320 = Main309 + Assistant3 + Cross-Concept8。
+原稿を無理に二択化せず、回答例・理由・境界・追加証拠を開く自己照合形式へ適合。
+保持した217選択問題の434回答分岐を検査。置換44問は以前の本文スナップショットから追跡可能。
+
+音声：既存87語の全音声資産を再生成せず同一バイトで保持。
+新規10語はmacOS Flo (English (UK))で生成したAAC/M4Aを内蔵。OSエンジンやフォントは配布しない。
+
+実装上の明示的変更・判断：
+・App / Presentation / Content Revisionを1.753、App Schemaを1.753.0へ更新。
+・選択肢のない自己照合問題を扱うためrenderer分岐を追加。旧rendererとの完全後方互換とはしない。
+・Historical Content Baseline 1.75とSource Implementation Baseline 1.752を別に記録。
+・Calibration JSONの既存schema 1.75.0と操作を保持。appVersion / contentRevision / 保存名を1.753へ更新。
+・原本に独立したPublic HTML再生成ボタンはないため新設せず、生成HTMLのクリーン再読み込みを検査。
+・本人固有の研究発言や非公開ケースを除外。Iteration / Interpretationの該当例を一般化して原稿からの差分を記録。
+・現在の検索は現行本文と追加文脈を対象とし、旧Stage 5等の履歴を現行定義として検索しない。
+・外観・操作の基本構成は維持し、新規長文とSatelliteダイアログの折返し・局所スクロールを補完。
